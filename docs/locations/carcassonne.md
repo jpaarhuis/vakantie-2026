@@ -12,6 +12,30 @@ Status op 25 mei 2026: <span class="status-ok">geboekt</span>
 
 Bevestigingsnummer, pincode en e-mailadres staan bewust niet op deze publieke pagina.
 
+<figure class="place-hero">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ciudadela%2C_Carcasona%2C_Francia%2C_2023-01-07%2C_DD_216-218_HDR.jpg" alt="Avondzicht op de verlichte Cité de Carcassonne" loading="eager" decoding="async">
+	<figcaption><strong>Cité de Carcassonne.</strong> Eén nacht, maar wel precies genoeg voor een avondwandeling langs muren, poorten en uitzichtpunten. Bron: <a href="https://commons.wikimedia.org/wiki/File:Ciudadela,_Carcasona,_Francia,_2023-01-07,_DD_216-218_HDR.jpg">Wikimedia Commons</a>.</figcaption>
+</figure>
+
+<div class="image-gallery" aria-label="Carcassonne beeldgalerie">
+	<figure>
+		<img src="https://r-xx.bstatic.com/xdata/images/hotel/608x352/572376185.webp?k=f67a89cb067593eab2af44e7aeae69a025c24e7f0a978fde50aab5a0db9edd01&o=" alt="Interieurbeeld van Loft centre-ville Parking, clim, wifi" loading="lazy" decoding="async">
+		<figcaption><strong>Loft.</strong> De geboekte overnachting in de benedenstad. Bron: <a href="https://www.booking.com/hotel/fr/loft-centre-ville-parking-clim-wifi.nl.html">Booking.com</a>.</figcaption>
+	</figure>
+	<figure>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Carcassonne_Cite.jpg" alt="De Cité de Carcassonne boven de stad" loading="lazy" decoding="async">
+		<figcaption><strong>Cité.</strong> De blikvanger voor de korte tussenstop. Bron: <a href="https://commons.wikimedia.org/wiki/File:Carcassonne_Cite.jpg">Wikimedia Commons</a>.</figcaption>
+	</figure>
+	<figure>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Carcassonne_vieux_pont.jpg" alt="Pont Vieux bij Carcassonne" loading="lazy" decoding="async">
+		<figcaption><strong>Pont Vieux.</strong> Mooie route tussen benedenstad en Cité. Bron: <a href="https://commons.wikimedia.org/wiki/File:Carcassonne_vieux_pont.jpg">Wikimedia Commons</a>.</figcaption>
+	</figure>
+	<figure>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Saint_Nazaire_Basilica_of_Carcassonne_01.jpg" alt="Basilique Saint-Nazaire in Carcassonne" loading="lazy" decoding="async">
+		<figcaption><strong>Basilique Saint-Nazaire.</strong> Goede korte stop binnen de vesting. Bron: <a href="https://commons.wikimedia.org/wiki/File:Saint_Nazaire_Basilica_of_Carcassonne_01.jpg">Wikimedia Commons</a>.</figcaption>
+	</figure>
+</div>
+
 ## Reisinfo voor onderweg
 
 **Loft centre-ville Parking, clim, wifi**  

@@ -12,6 +12,30 @@ Eurocamping **Best Village** staat vast voor zondag 5 juli tot zondag 12 juli 20
 
 Privégegevens uit de boekingsmail, zoals identiteitsgegevens, thuisadres, kenteken en contactgegevens van reizigers, staan bewust niet op deze publieke pagina.
 
+<figure class="place-hero">
+	<img src="https://www.euro-camping.com/wp-content/uploads/28032019-5-2200x1467.jpg" alt="Zwembad en terras bij Best Village op Eurocamping" loading="eager" decoding="async" referrerpolicy="no-referrer">
+	<figcaption><strong>Best Village.</strong> De hoofdweek draait om rust, zwembad, strand en korte uitstapjes vanaf Sant Antoni. Bron: <a href="https://www.euro-camping.com/en/accommodation/best-village/">Eurocamping</a>.</figcaption>
+</figure>
+
+<div class="image-gallery" aria-label="Sant Antoni beeldgalerie">
+	<figure>
+		<img src="https://www.euro-camping.com/wp-content/uploads/best-village-general-1531x2200.jpg" alt="Best Village accommodatie met terras" loading="lazy" decoding="async" referrerpolicy="no-referrer">
+		<figcaption><strong>Accommodatie.</strong> Ruime Best Village-zone met terras en eigen buitenruimte. Bron: <a href="https://www.euro-camping.com/en/accommodation/best-village/">Eurocamping</a>.</figcaption>
+	</figure>
+	<figure>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sant_Antoni_de_Calonge.jpg" alt="Strand en bebouwing van Sant Antoni de Calonge" loading="lazy" decoding="async">
+		<figcaption><strong>Sant Antoni.</strong> Strand en boulevard op korte afstand van de camping. Bron: <a href="https://commons.wikimedia.org/wiki/File:Sant_Antoni_de_Calonge.jpg">Wikimedia Commons</a>.</figcaption>
+	</figure>
+	<figure>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Palam%C3%B3s_-_Cala_S%27Alguer_i_Platja_de_Castell_-_Panorama.jpg" alt="Panorama van Cala S'Alguer en Platja de Castell bij Palamós" loading="lazy" decoding="async">
+		<figcaption><strong>Cala S'Alguer.</strong> Sterke kandidaat voor wandelen, zwemmen en snorkelen. Bron: <a href="https://commons.wikimedia.org/wiki/File:Palam%C3%B3s_-_Cala_S%27Alguer_i_Platja_de_Castell_-_Panorama.jpg">Wikimedia Commons</a>.</figcaption>
+	</figure>
+	<figure>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/62_Platja_de_Cala_Castell_%28Palam%C3%B3s%29.jpg" alt="Platja de Castell bij Palamós" loading="lazy" decoding="async">
+		<figcaption><strong>Platja de Castell.</strong> Baai op de snorkel- en kustwandelradar. Bron: <a href="https://commons.wikimedia.org/wiki/File:62_Platja_de_Cala_Castell_(Palam%C3%B3s).jpg">Wikimedia Commons</a>.</figcaption>
+	</figure>
+</div>
+
 ## Locatie
 
 Sant Antoni is de ankerweek van de reis: strand, zwembad, kustdorpen, rust en laadmomenten zonder haast. Eurocamping ligt centraal in Sant Antoni, op loopafstand van het strand en dicht bij Palamós en Platja d’Aro.

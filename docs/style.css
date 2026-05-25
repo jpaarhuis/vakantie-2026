@@ -296,6 +296,68 @@ h1 {
   font-size: .95rem;
 }
 
+.content .place-hero {
+  margin: 1.35rem 0 1.7rem;
+  border: 1px solid var(--line);
+  border-radius: 1rem;
+  overflow: hidden;
+  background: var(--paper);
+  box-shadow: var(--shadow);
+}
+
+.content .place-hero img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 7;
+  object-fit: cover;
+  background: var(--soft);
+}
+
+.content .place-hero figcaption,
+.content .image-gallery figcaption {
+  color: var(--muted);
+}
+
+.content .place-hero figcaption {
+  padding: .75rem .9rem;
+  font-size: .95rem;
+}
+
+.content .image-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: .75rem;
+  margin: 1.15rem 0 1.8rem;
+}
+
+.content .image-gallery figure {
+  margin: 0;
+  border: 1px solid var(--line);
+  border-radius: .85rem;
+  overflow: hidden;
+  background: var(--paper);
+  box-shadow: var(--shadow);
+}
+
+.content .image-gallery img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  background: var(--soft);
+}
+
+.content .image-gallery figcaption {
+  padding: .65rem .75rem;
+  font-size: .88rem;
+  line-height: 1.35;
+}
+
+.content .place-hero strong,
+.content .image-gallery strong {
+  color: var(--ink);
+}
+
 .content .location-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -362,5 +424,11 @@ h1 {
   .content > h2 + p,
   .content > h3 + p {
     padding: 1.2rem 1.35rem 1.2rem 1.65rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .content .place-hero img {
+    aspect-ratio: 16 / 10;
   }
 }

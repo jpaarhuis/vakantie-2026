@@ -12,6 +12,26 @@ Geboekt: **Les Pagodes de Beauval**, quintuple room voor 5 personen, **overnight
 
 Open actie: boek nog **losse ZooParc-tickets voor vrijdag 3 juli 2026** voor 2 volwassenen en 3 kinderen. Richtprijs uit de eerdere check: **€195 totaal**. Sla de tickets daarna offline op in telefoon/wallet en zet ze bij de reisdocumenten.
 
+<figure class="place-hero">
+	<img src="https://cdn-images.zoobeauval.com/q1dtuHjsfrMu1zfElib-Gka_wcw=/1200x600/https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fimages.zoobeauval.com%2F2021%2F01%2Fhotels-zpdb9i8542-5ff7381d1c486.jpg" alt="Les Pagodes de Beauval met pagode-stijl en waterpartij" loading="eager" decoding="async">
+	<figcaption><strong>Les Pagodes de Beauval.</strong> Slaap praktisch naast ZooParc, met genoeg vakantiesfeer voor de eerste echte stop. Bron: <a href="https://www.zoobeauval.com/en/stays-at-beauval/hotel-les-pagodes-de-beauval">ZooParc de Beauval</a>.</figcaption>
+</figure>
+
+<div class="image-gallery" aria-label="Beauval beeldgalerie">
+	<figure>
+		<img src="https://cdn-images.zoobeauval.com/GBC091j0c2fjazQNkjZ2TY5OiFM=/1200x600/https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fimages.zoobeauval.com%2F2020%2F12%2Fslider-pdb-6-5fe30d1ded4e8.jpg" alt="Lagunezwembad bij Les Pagodes de Beauval" loading="lazy" decoding="async">
+		<figcaption><strong>Zwembad.</strong> Handig ontladen na de lange rit. Bron: <a href="https://www.zoobeauval.com/en/stays-at-beauval/hotel-les-pagodes-de-beauval">Beauval</a>.</figcaption>
+	</figure>
+	<figure>
+		<img src="https://cdn-images.zoobeauval.com/VAgAsdYo_ZfovRAbEzyUA7QvoZI=/1200x600/https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fimages.zoobeauval.com%2F2021%2F02%2Fpdb-chambre-standard-1-6017c76814092.jpg" alt="Kamerbeeld van Les Pagodes de Beauval" loading="lazy" decoding="async">
+		<figcaption><strong>Kamer.</strong> Rustig en thematisch, vooral functioneel voor vijf personen. Bron: <a href="https://www.zoobeauval.com/en/stays-at-beauval/hotel-les-pagodes-de-beauval">Beauval</a>.</figcaption>
+	</figure>
+	<figure>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Zooparc_de_Beauval_-_Panda_-_2016_-_012.jpg" alt="Reuzenpanda in ZooParc de Beauval" loading="lazy" decoding="async">
+		<figcaption><strong>ZooParc.</strong> De dierentuin is de hoofdreden voor deze stop. Bron: <a href="https://commons.wikimedia.org/wiki/File:Zooparc_de_Beauval_-_Panda_-_2016_-_012.jpg">Wikimedia Commons</a>.</figcaption>
+	</figure>
+</div>
+
 ## Locatie
 
 Beauval ligt bij Saint-Aignan in de Loirestreek. Voor deze stop is de dierentuin de hoofdreden om hier te slapen. De beste keuze is dus niet per se de charmantste omgeving, maar de plek met weinig gedoe: parkeren, snelle toegang tot de dierentuin, airco en genoeg bedden.
