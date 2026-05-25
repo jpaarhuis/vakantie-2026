@@ -17,21 +17,21 @@ Let op: bij Booking.com-opties is airco en parking gebaseerd op de actieve filte
 Voor één nacht zou ik de keuze beperken tot twee routes:
 
 1. **Meest logisch hotel:** [Hotel du Pont Vieux](https://www.hotelpontvieux.com/en/) - beste combinatie van sfeer, ligging en zekerheid. Booking toont een combinatie van een tweepersoonskamer en een standaard familiekamer voor 5 personen voor circa €315. De officiële site noemt airconditioned kamers, privégarage, tuin en terras. Dit past heel goed bij: aankomen, auto wegzetten, te voet naar de Cité.
-2. **Meest logisch appartement/huis:** **Loft centre-ville Parking, clim, wifi** - veel ruimte, 3 slaapkamers, 2 badkamers, 160 m², 5 bedden, circa €284. Dit is de sterkste prijs/ruimte-optie, maar check de exacte looproute naar de Cité en parkeerinstructies.
+2. **Meest logisch appartement/huis:** [Loft centre-ville Parking, clim, wifi](https://www.booking.com/hotel/fr/loft-centre-ville-parking-clim-wifi.nl.html) - veel ruimte, 3 slaapkamers, 2 badkamers, 160 m², 5 bedden, circa €284. Dit is de sterkste prijs/ruimte-optie, maar check de exacte looproute naar de Cité en parkeerinstructies.
 
-Als jullie liever een eenvoudig ketenhotel met ontbijt willen: **ibis Styles Carcassonne La Cité** is praktisch en scherp geprijsd, maar minder sfeervol dan Pont Vieux.
+Als jullie liever een eenvoudig ketenhotel met ontbijt willen: [ibis Styles Carcassonne La Cité](https://www.booking.com/hotel/fr/inter-les-oliviers.nl.html) is praktisch en scherp geprijsd, maar minder sfeervol dan Pont Vieux.
 
 ## Bijgewerkte shortlist
 
 | Rang | Optie | Type / slaapopzet | Afstand / ligging | Airco | Parkeren | Prijsindicatie | Waarom wel / twijfel |
 |---:|---|---|---|---|---|---:|---|
-| 1 | [Hotel du Pont Vieux](https://www.hotelpontvieux.com/en/) | Hotel, 1 tweepersoonskamer + 1 standaard familiekamer, samen 5 bedplekken | Booking: 1,1 km van centrum, locatiescore 9,7. Officieel: aan Rue Trivalle, aan de voet van de middeleeuwse stad | Officieel bevestigd | Officieel: privégarage | €315 | Beste balans voor één nacht: sfeer, hotelgemak, goede ligging en parkeren. Check of garageplek gereserveerd moet worden. |
-| 2 | Loft centre-ville Parking, clim, wifi | Heel vakantiehuis, 3 slaapkamers, 2 badkamers, keuken, 160 m², 5 bedden | 250 m van centrum, score 9,9 / locatie 10 | Naam + filter | Naam + filter | €284 | Sterkste appartement op papier: ruim, centraal, goede prijs. Check of "centre-ville" handig genoeg ligt voor de Cité-wandeling. |
-| 3 | Hôtel l'Aragon à 50m de la cité de Carcassonne | Hotel, family suite voor 5 personen, 4 bedden | 1,6 km van centrum, naam zegt 50 m van de Cité, score 8,6 / locatie 9,7 | Filter | Filter | €222 | Praktische hotel-backup pal bij de Cité, veel reviews. Minder charmant dan Pont Vieux, maar scherp geprijsd. |
-| 4 | La Belle Aude Climatisé | Appartement, 2 slaapkamers, woonkamer, 80 m², 3 bedden | 0,8 km van centrum, score 9,2 | Naam + filter | Filter | €186 | Goede budgetoptie met airco en redelijke ruimte. Slaapbank/tweepersoonsbedden betekenen waarschijnlijk meer delen. |
-| 5 | Maison, piscine & vue sur la Cité de Carcassonne | Villa, 3 slaapkamers, 2 badkamers, 135 m², 4 bedden | 1,3 km van centrum, score 9,8 / locatie 10 | Filter | Filter | €287 | Mooi als je privéruimte en uitzicht/pool wilt. Minder reviews en particuliere host; check aankomstproces voor één nacht. |
-| 6 | ibis Styles Carcassonne La Cité | Hotel, standaard familiekamer, 4 bedden, ontbijt inbegrepen | 2 km van centrum, score 8,5 | Filter | Filter | €226 | Degelijke ketenoptie met ontbijt; praktisch, maar minder "Carcassonne-gevoel" en iets verder lopen. |
-| 7 | Hôtel La Bastide Saint Martin | Hotel, tweepersoonskamer + communicerende familiekamer | 4,2 km van centrum, score 9,2 | Filter | Filter | €336 | Comfortabel en sterk beoordeeld, maar voor één nacht minder logisch omdat je weer met de auto/taxi naar de Cité moet. |
+| 1 | [Hotel du Pont Vieux](https://www.hotelpontvieux.com/en/) / [Booking](https://www.booking.com/hotel/fr/du-pont-vieux.nl.html) | Hotel, 1 tweepersoonskamer + 1 standaard familiekamer, samen 5 bedplekken | Booking: 1,1 km van centrum, locatiescore 9,7. Officieel: aan Rue Trivalle, aan de voet van de middeleeuwse stad | Ja, officieel bevestigd | Ja, officiële privégarage | €315 | Beste balans voor één nacht: sfeer, hotelgemak, goede ligging en parkeren. Check of garageplek gereserveerd moet worden. |
+| 2 | [Loft centre-ville Parking, clim, wifi](https://www.booking.com/hotel/fr/loft-centre-ville-parking-clim-wifi.nl.html) | Heel vakantiehuis, 3 slaapkamers, 2 badkamers, keuken, 160 m², 5 bedden | 250 m van centrum, score 9,9 / locatie 10 | Ja, expliciet in titel | Ja, expliciet in titel | €284 | Sterkste appartement op papier: ruim, centraal, goede prijs. Check of "centre-ville" handig genoeg ligt voor de Cité-wandeling. |
+| 3 | [Hôtel l'Aragon à 50m de la cité de Carcassonne](https://www.booking.com/hotel/fr/l-aragon.nl.html) | Hotel, family suite voor 5 personen, 4 bedden | 1,6 km van centrum, naam zegt 50 m van de Cité, score 8,6 / locatie 9,7 | Ja, volgens Booking-filter | Ja, volgens Booking-filter | €222 | Praktische hotel-backup pal bij de Cité, veel reviews. Minder charmant dan Pont Vieux, maar scherp geprijsd. |
+| 4 | [La Belle Aude Climatisé](https://www.booking.com/hotel/fr/appartement-la-belle-aude.nl.html) | Appartement, 2 slaapkamers, woonkamer, 80 m², 3 bedden | 0,8 km van centrum, score 9,2 | Ja, expliciet in titel | Ja, volgens Booking-filter | €186 | Goede budgetoptie met airco en redelijke ruimte. Slaapbank/tweepersoonsbedden betekenen waarschijnlijk meer delen. |
+| 5 | [Maison, piscine & vue sur la Cité de Carcassonne](https://www.booking.com/hotel/fr/maison-piscine-amp-vue-sur-la-cite-de-carcassonne.nl.html) | Villa, 3 slaapkamers, 2 badkamers, 135 m², 4 bedden | 1,3 km van centrum, score 9,8 / locatie 10 | Ja, volgens Booking-filter | Ja, volgens Booking-filter | €287 | Mooi als je privéruimte en uitzicht/pool wilt. Minder reviews en particuliere host; check aankomstproces voor één nacht. |
+| 6 | [ibis Styles Carcassonne La Cité](https://www.booking.com/hotel/fr/inter-les-oliviers.nl.html) | Hotel, standaard familiekamer, 4 bedden, ontbijt inbegrepen | 2 km van centrum, score 8,5 | Ja, volgens Booking-filter | Ja, volgens Booking-filter | €226 | Degelijke ketenoptie met ontbijt; praktisch, maar minder "Carcassonne-gevoel" en iets verder lopen. |
+| 7 | [Hôtel La Bastide Saint Martin](https://www.booking.com/hotel/fr/hostellerie-saint-martin-carcassonne.nl.html) | Hotel, tweepersoonskamer + communicerende familiekamer | 4,2 km van centrum, score 9,2 | Ja, volgens Booking-filter | Ja, volgens Booking-filter | €336 | Comfortabel en sterk beoordeeld, maar voor één nacht minder logisch omdat je weer met de auto/taxi naar de Cité moet. |
 
 ## Niet eerste keuze
 
@@ -54,7 +54,7 @@ Handige ligging: Rue Trivalle ligt tussen de benedenstad en de Cité. Dit is pre
 
 ## Nog doen
 
-1. Kies tussen hotelgemak (**Hotel du Pont Vieux**) en appartement/ruimte (**Loft centre-ville Parking, clim, wifi**).
+1. Kies tussen hotelgemak (**Hotel du Pont Vieux**) en appartement/ruimte ([Loft centre-ville Parking, clim, wifi](https://www.booking.com/hotel/fr/loft-centre-ville-parking-clim-wifi.nl.html)).
 2. Controleer in de boekingsflow expliciet: gratis annuleren, aankomsttijd, airco in alle slaapruimtes en parking/garage-reservering.
 3. Als Pont Vieux wordt gekozen: vraag of de privégarage vooraf gereserveerd moet worden en of de twee kamers logisch bij elkaar liggen.
 4. Na boeken: voeg adres, boekingskanaal, check-in/out en parkeerinstructies toe aan deze pagina, zonder reserveringsnummer of betaalgegevens.
