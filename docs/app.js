@@ -5,9 +5,13 @@ const markdownFiles = new Set([
   'travel-plan.md',
   'locations/beauval.md',
   'locations/carcassonne.md',
-  'locations/calonge.md',
+  'locations/sant-antoni.md',
   'locations/nimes-pont-du-gard.md',
   'locations/beaune.md'
+]);
+
+const legacyMarkdownFiles = new Map([
+  ['locations/calonge.md', 'locations/sant-antoni.md']
 ]);
 
 const storedTheme = localStorage.getItem('roadtrip-theme');
@@ -34,6 +38,7 @@ function slugify(text) {
 
 function getMarkdownFile() {
   const requestedFile = new URLSearchParams(window.location.search).get('file') || 'travel-plan.md';
+  if (legacyMarkdownFiles.has(requestedFile)) return legacyMarkdownFiles.get(requestedFile);
   return markdownFiles.has(requestedFile) ? requestedFile : 'travel-plan.md';
 }
 
