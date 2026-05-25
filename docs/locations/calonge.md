@@ -4,47 +4,65 @@
 **Doel:** hoofdweek aan de Costa Brava, rond Eurocamping / Sant Antoni de Calonge.  
 **Gezelschap:** twee volwassenen en drie tieners.
 
+## Status
+
+<span class="status-ok">geboekt</span>
+
+Eurocamping **Best Village** staat vast voor zondag 5 juli tot zondag 12 juli 2026, zeven nachten, voor 2 volwassenen en 3 kinderen/tieners. De gedeelde bevestiging noemt een verblijf voor maximaal 5 personen in de Best Village-zone met privézwembad.
+
+Privégegevens uit de boekingsmail, zoals identiteitsgegevens, thuisadres, kenteken en contactgegevens van reizigers, staan bewust niet op deze publieke pagina.
+
 ## Locatie
 
 Sant Antoni de Calonge is de ankerweek van de reis: strand, zwembad, kustdorpen, rust en laadmomenten zonder haast. Eurocamping ligt centraal in Sant Antoni de Calonge, op loopafstand van het strand en dicht bij Palamós en Platja d’Aro.
 
-## Beschikbaarheidscheck
+## Reisinfo voor onderweg
 
-Status op 22 mei 2026: <span class="status-ok">kansrijk, exacte reisdata nog bevestigen</span>
+| Onderdeel | Informatie |
+|---|---|
+| Camping | [Eurocamping](https://www.euro-camping.com/nl/) |
+| Adres | Avinguda Catalunya 15, 17252 Calonge i Sant Antoni, España |
+| Telefoon | +34 972 65 08 79 |
+| E-mail | info@euro-camping.com |
+| Verblijf | Zondag 5 juli 2026 tot zondag 12 juli 2026, 7 nachten |
+| Accommodatie | Best Village, maximaal 5 personen |
+| Indeling | 1 suite-type tweepersoonskamer + 1 kamer met 3 eenpersoonsbedden |
+| Badkamers | 2 badkamers met douche en wc |
+| Keuken | Keuken met keukengerei, grote koelkast, magnetron, keramische kookplaat, vaatwasser, Nespresso en toaster |
+| Comfort | Airco, tv/satelliet, gratis wifi, bedlinnen en handdoeken inbegrepen |
+| Buiten | Woonzone met privézwembad, barbecue, tuinmeubilair en 2 ligbedden |
+| Parkeren | 1 parkeerplaats bij de accommodatie |
+| Kosten | €2.116,24 verblijf incl. btw volgens bevestiging, plus €100 restitueerbare borg |
+| Check-in / check-out | Volgens Eurocamping-accommodatievoorwaarden: aankomst vanaf 17:00, vertrek vóór 11:00 |
 
-De officiële Eurocamping-site toont meerdere accommodaties voor 5 of 6 personen, waaronder Green Garden, Xalet Confort, Mobil Home Mediterranée, Mobil Home Evasion, Villa Luxe, Brava Village, Villa Premium, Best Village en Xalet Confort Plus. Allcamps en VacanceSelect tonen Eurocamping met twee beschikbare 6-persoons mobilhomes en een vanafprijs van € 1.239 voor zeven nachten op voorbeelddata, maar de getoonde datum was 27 juni en niet automatisch 5 juli.
+Bewaar de volledige bevestiging en latere check-in-instructies offline. Zet reserveringsnummer, thuisadres, ID-gegevens, kenteken en betaalinformatie niet op deze publieke pagina.
 
-## Opties
+## Kaart en bezienswaardigheden
 
-| Optie | Past voor 5? | Status | Notitie |
-|---|---:|---|---|
-| [Eurocamping direct](https://www.euro-camping.com/nl/) | Ja | <span class="status-check">check 5-12 juli</span> | Grootste keuze aan accommodaties. Direct boeken kan betere controle geven over type en voorkeuren. |
-| Green Garden | Ja, 5/6 personen | <span class="status-check">check datum</span> | Officiële site: privé tuin, 2 kamers, 50 m2. Sterke gezinsoptie. |
-| Xalet Confort / Xalet Confort Plus | Ja, 4/6 personen | <span class="status-check">check datum</span> | Meer ruimte dan basismobilhome; Plus heeft wijk met zwembad/jacuzzi volgens site. |
-| Mobil Home Mediterranée | Ja, 4/6 of 6 personen | <span class="status-ok">beschikbaar bij aanbieders op voorbeelddata</span> | Allcamps/VacanceSelect tonen 6 personen, 2 slaapkamers, airco, terras. |
-| Mobil Home Evasion | Ja, 4/6 of 6 personen | <span class="status-ok">beschikbaar bij aanbieders op voorbeelddata</span> | Compactere optie; Allcamps/VacanceSelect tonen beschikbaarheid op voorbeelddata. |
-| Villa Luxe / Brava Village / Villa Premium / Best Village | Ja, 5 personen | <span class="status-check">check prijs</span> | Officiële site: 60 m2, 2 kamers, 4 bedden; waarschijnlijk fijner maar duurder. |
-| [Allcamps Eurocamping](https://www.allcamps.nl/camping/spanje/costa-brava/camping-eurocamping-costa-brava) | Ja | <span class="status-check">datum aanpassen</span> | Toont 2 accommodaties beschikbaar en 6-persoons mobilhomes op voorbeelddata. |
-| [VacanceSelect Eurocamping](https://www.vacanceselect.com/nl/camping/spanje/costa-brava/eurocamping) | Ja | <span class="status-check">datum aanpassen</span> | Zelfde aanbod/prijsbeeld als Allcamps op voorbeelddata. |
+<div class="map-embed" role="group" aria-label="Google Maps kaart voor Sant Antoni de Calonge en omgeving">
+	<iframe title="Google Maps kaart Sant Antoni de Calonge bezienswaardigheden" src="https://www.google.com/maps?q=bezienswaardigheden%20Sant%20Antoni%20de%20Calonge%20Palamos%20Platja%20d'Aro%20Castell%20de%20Calonge%20Camino%20de%20Ronda&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	<p>Zoekkaart voor Eurocamping, strand, kustwandeling en daguitstapjes rond Sant Antoni de Calonge, Palamós en Platja d'Aro.</p>
+</div>
 
-## Aanpak
+- [Eurocamping op Google Maps](https://www.google.com/maps/search/?api=1&query=Eurocamping%20Avinguda%20Catalunya%2015%2017252%20Calonge%20i%20Sant%20Antoni)
+- [Platja de Sant Antoni op Google Maps](https://www.google.com/maps/search/?api=1&query=Platja%20de%20Sant%20Antoni%20Calonge)
+- [Palamós op Google Maps](https://www.google.com/maps/search/?api=1&query=Palam%C3%B3s%20centre)
+- [Platja d'Aro op Google Maps](https://www.google.com/maps/search/?api=1&query=Platja%20d%27Aro%20centre)
+- [Castell de Calonge op Google Maps](https://www.google.com/maps/search/?api=1&query=Castell%20de%20Calonge)
+- [Camino de Ronda op Google Maps](https://www.google.com/maps/search/?api=1&query=Cami%20de%20Ronda%20Calonge%20Palamos)
 
-1. Check eerst rechtstreeks bij Eurocamping op 5-12 juli 2026, vijf personen.
-2. Vergelijk daarna Allcamps en VacanceSelect voor dezelfde data; soms hebben zij eigen voorraad.
-3. Kies liever 5/6-persoonsaccommodatie met airco en terras dan een 4-persoonsvariant met slaapbank als de prijs redelijk blijft.
-4. Noteer bij boeken of bedlinnen, handdoeken, eindschoonmaak en toeristenbelasting inbegrepen zijn.
+## Nog doen
 
-## Ideeën voor de week
-
-- Calonge en Sant Antoni rustig verkennen.
-- Dagdeel Girona.
-- Palamós, Begur, Pals of Tossa de Mar.
-- Barcelona alleen als iedereen er zin in heeft.
-- Laden combineren met boodschappen of daguitstapjes.
+- [ ] Controleer of de door Eurocamping genoemde boeking inmiddels ook als definitief bevestigd en/of aanbetaald staat in hun systeem.
+- [ ] Let op de check-in express mail die ongeveer 5 dagen voor aankomst zou moeten komen.
+- [ ] Sla bevestiging, check-in instructies en eventuele unit-/voorkeursinformatie offline op.
+- [ ] Houd rekening met de €100 borg en check hoe/wanneer die wordt teruggestort.
+- [ ] Check voor vertrek of eindschoonmaak door jullie zelf moet gebeuren of dat er nog een procedure bij vertrek is.
 
 ## Let op
 
-- Check of de accommodatie echt vijf personen toelaat inclusief tieners.
-- Controleer airco expliciet.
-- Vraag of er laadmogelijkheden op of vlak bij de camping zijn, en wat toegestaan is.
-- Allcamps/VacanceSelect-prijzen zijn exclusief sommige toeslagen; controleer eindprijs.
+- In de gedeelde voorwaarden staat dat accommodaties voor veiligheid niet boven maximale bezetting mogen gaan; 5 personen is dus ook echt de bovengrens.
+- Bezoekers zijn in het hoogseizoen niet toegestaan; in de bevestiging staat ook expliciet dat bezoeken van andere campinggasten niet zijn toegestaan.
+- Huisdieren zijn niet toegestaan in deze accommodatie.
+- De klant is volgens de voorwaarden verantwoordelijk voor de eindschoonmaak.
+- Vraag apart na of laden op of bij de camping is toegestaan en hoe dat praktisch werkt.

@@ -25,7 +25,7 @@ Beschikbaarheidscheck bijgewerkt op 22 mei 2026. Waar een boekingssite geen hard
 <ul class="location-grid">
 	<li><strong><a href="locations/beauval.md">Beauval / Saint-Aignan</a></strong><br>2 tot 4 juli 2026. Dierentuinanker, twee nachten, voorkeur voor officiële Beauval-hotels of appartement.</li>
 	<li><strong><a href="locations/carcassonne.md">Carcassonne</a></strong><br>4 tot 5 juli 2026. Eén nacht bij de Cité, liefst zonder autorit naar het centrum.</li>
-	<li><strong><a href="locations/calonge.md">Sant Antoni de Calonge</a></strong><br>5 tot 12 juli 2026. Hoofdweek bij Eurocamping / Costa Brava.</li>
+	<li><strong><a href="locations/calonge.md">Sant Antoni de Calonge</a></strong><br>5 tot 12 juli 2026. Hoofdweek bij Eurocamping Best Village, geboekt.</li>
 	<li><strong><a href="locations/nimes-pont-du-gard.md">Nîmes / Pont du Gard</a></strong><br>12 tot 13 juli 2026. Terugwegstop met Romeins erfgoed, zwembad en makkelijke route.</li>
 	<li><strong><a href="locations/beaune.md">Beaune</a></strong><br>13 tot 15 juli 2026. Laatste tweedaagse stop in Bourgogne, praktisch richting Nederland.</li>
 </ul>
@@ -36,7 +36,7 @@ Beschikbaarheidscheck bijgewerkt op 22 mei 2026. Waar een boekingssite geen hard
 |---|---|---|
 | Beauval | Les Pagodes de Beauval + losse ZooParc-tickets | <span class="status-ok">hotel geboekt</span> Les Pagodes is geboekt voor 2 nachten; ZooParc-tickets voor vrijdag 3 juli moeten nog los geboekt worden. |
 | Carcassonne | Loft centre-ville Parking, clim, wifi | <span class="status-ok">geboekt</span> Booking.com: huis met 3 slaapkamers voor 4-5 juli 2026; adres en parkeerinstructies nog offline bewaren. |
-| Calonge | Eurocamping direct, Allcamps of VacanceSelect | <span class="status-ok">kansrijk</span> Eurocamping toont meerdere types voor 5/6 personen; Allcamps/VacanceSelect tonen beschikbare 6-persoons mobilhomes, maar standaard op andere voorbeelddata. |
+| Calonge | Eurocamping Best Village | <span class="status-ok">geboekt</span> Eurocamping Best Village is vastgelegd voor 5-12 juli 2026; check-in express en betaalstatus later nog praktisch controleren. |
 | Nîmes / Pont du Gard | RésidHotel/appartement of ibis Styles/Soko regio Pont du Gard | <span class="status-check">te controleren</span> Zoekresultaten tonen actuele boekingskanalen; officiële datumvoorraad zat achter boekingsflows. |
 | Beaune | Campanile, Première Classe of Mercure/centrumoptie | <span class="status-check">te controleren</span> Zoekresultaten tonen familievriendelijke hotelpagina’s; voor vijf personen waarschijnlijk twee kamers of familiekamer bevestigen. |
 
@@ -63,7 +63,8 @@ Een gezin van vijf is in Frankrijk net onhandig: veel familiekamers stoppen bij 
 | Stop | Voorkeur | Waarom |
 |---|---|---|
 | Beauval | Les Pagodes de Beauval | Geboekt; alleen ZooParc-tickets nog apart regelen |
-| Carcassonne | Hotel du Pont Vieux of Loft centre-ville Parking, clim, wifi | Hotelgemak bij de Cité of veel ruimte met airco/parking |
+| Carcassonne | Loft centre-ville Parking, clim, wifi | Geboekt; centrale tussenstop met airco en parking |
+| Calonge | Eurocamping Best Village | Geboekt; hoofdweek aan de Costa Brava met privézwembadzone |
 | Nîmes / Pont du Gard | RésidHotel Pont du Gard of ibis Styles Pont du Gard | Praktisch, zwembad, routevriendelijk |
 | Beaune | Campanile Beaune of Mercure Beaune Centre | Zwembad, parking, goede roadtripbalans |
 
