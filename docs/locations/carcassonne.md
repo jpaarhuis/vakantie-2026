@@ -6,27 +6,30 @@
 
 ## Status
 
-Status op 23 mei 2026: <span class="status-check">shortlist gemaakt</span> / <span class="status-risk">nog boeken</span>
+Status op 25 mei 2026: <span class="status-ok">geboekt</span>
 
-Booking.com is gecheckt voor 4-5 juli 2026, 2 volwassenen en 3 kinderen/tieners van 11, 13 en 15 jaar, met filters voor airconditioning en parkeren. De zoekactie vond 59 verblijven; door de filters was 93% van het aanbod niet beschikbaar. Prijzen hieronder zijn momentopnames inclusief belastingen/toeslagen.
+[Loft centre-ville Parking, clim, wifi](https://www.booking.com/hotel/fr/loft-centre-ville-parking-clim-wifi.nl.html) is geboekt via Booking.com voor zaterdag 4 juli tot zondag 5 juli 2026, één nacht. De bevestiging noemt een huis met 3 slaapkamers en een totaal betaald bedrag van €255,15.
+
+Bevestigingsnummer, pincode en e-mailadres staan bewust niet op deze publieke pagina.
+
+Booking.com was gecheckt voor 4-5 juli 2026, 2 volwassenen en 3 kinderen/tieners van 11, 13 en 15 jaar, met filters voor airconditioning en parkeren. De zoekactie vond 59 verblijven; door de filters was 93% van het aanbod niet beschikbaar. Prijzen hieronder zijn momentopnames inclusief belastingen/toeslagen.
 
 Let op: bij Booking.com-opties is airco en parking gebaseerd op de actieve filters, tenzij het ook expliciet in de naam of officiële site staat. Controleer bij boeken altijd de parkeerregels, want "parking" kan gratis, betaald, privé of openbaar in de buurt betekenen.
 
 ## Conclusie
 
-Voor één nacht zou ik de keuze beperken tot twee routes:
+Keuze gemaakt: **Loft centre-ville Parking, clim, wifi**.
 
-1. **Meest logisch hotel:** [Hotel du Pont Vieux](https://www.hotelpontvieux.com/en/) - beste combinatie van sfeer, ligging en zekerheid. Booking toont een combinatie van een tweepersoonskamer en een standaard familiekamer voor 5 personen voor circa €315. De officiële site noemt airconditioned kamers, privégarage, tuin en terras. Dit past heel goed bij: aankomen, auto wegzetten, te voet naar de Cité.
-2. **Meest logisch appartement/huis:** [Loft centre-ville Parking, clim, wifi](https://www.booking.com/hotel/fr/loft-centre-ville-parking-clim-wifi.nl.html) - veel ruimte, 3 slaapkamers, 2 badkamers, 160 m², 5 bedden, circa €284. Dit is de sterkste prijs/ruimte-optie, maar check de exacte looproute naar de Cité en parkeerinstructies.
+Waarom deze keuze logisch is: veel ruimte voor vijf personen, airco en parking expliciet in de naam, centrale ligging en goedkoper dan de hotelcombinaties die beschikbaar waren. Voor deze stop is dat precies de goede balans: aankomen na Beauval, auto kwijt, korte avondwandeling richting de Cité en de volgende ochtend weer door naar Calonge.
 
-Als jullie liever een eenvoudig ketenhotel met ontbijt willen: [ibis Styles Carcassonne La Cité](https://www.booking.com/hotel/fr/inter-les-oliviers.nl.html) is praktisch en scherp geprijsd, maar minder sfeervol dan Pont Vieux.
+Hotel du Pont Vieux blijft een goede referentie/backup, maar is niet meer nodig zolang deze booking blijft staan.
 
-## Bijgewerkte shortlist
+## Shortlist en back-up
 
 | Rang | Optie | Type / slaapopzet | Afstand / ligging | Airco | Parkeren | Prijsindicatie | Waarom wel / twijfel |
 |---:|---|---|---|---|---|---:|---|
+| Geboekt | [Loft centre-ville Parking, clim, wifi](https://www.booking.com/hotel/fr/loft-centre-ville-parking-clim-wifi.nl.html) | <span class="status-ok">geboekt</span> huis met 3 slaapkamers | 250 m van centrum, score 9,9 / locatie 10 | Ja, expliciet in titel | Ja, expliciet in titel | €255,15 betaald | Gekozen optie: ruim, centraal, airco/parking, goede prijs. Check nog exacte parkeer- en aankomstinstructies. |
 | 1 | [Hotel du Pont Vieux](https://www.hotelpontvieux.com/en/) / [Booking](https://www.booking.com/hotel/fr/du-pont-vieux.nl.html) | Hotel, 1 tweepersoonskamer + 1 standaard familiekamer, samen 5 bedplekken | Booking: 1,1 km van centrum, locatiescore 9,7. Officieel: aan Rue Trivalle, aan de voet van de middeleeuwse stad | Ja, officieel bevestigd | Ja, officiële privégarage | €315 | Beste balans voor één nacht: sfeer, hotelgemak, goede ligging en parkeren. Check of garageplek gereserveerd moet worden. |
-| 2 | [Loft centre-ville Parking, clim, wifi](https://www.booking.com/hotel/fr/loft-centre-ville-parking-clim-wifi.nl.html) | Heel vakantiehuis, 3 slaapkamers, 2 badkamers, keuken, 160 m², 5 bedden | 250 m van centrum, score 9,9 / locatie 10 | Ja, expliciet in titel | Ja, expliciet in titel | €284 | Sterkste appartement op papier: ruim, centraal, goede prijs. Check of "centre-ville" handig genoeg ligt voor de Cité-wandeling. |
 | 3 | [Hôtel l'Aragon à 50m de la cité de Carcassonne](https://www.booking.com/hotel/fr/l-aragon.nl.html) | Hotel, family suite voor 5 personen, 4 bedden | 1,6 km van centrum, naam zegt 50 m van de Cité, score 8,6 / locatie 9,7 | Ja, volgens Booking-filter | Ja, volgens Booking-filter | €222 | Praktische hotel-backup pal bij de Cité, veel reviews. Minder charmant dan Pont Vieux, maar scherp geprijsd. |
 | 4 | [La Belle Aude Climatisé](https://www.booking.com/hotel/fr/appartement-la-belle-aude.nl.html) | Appartement, 2 slaapkamers, woonkamer, 80 m², 3 bedden | 0,8 km van centrum, score 9,2 | Ja, expliciet in titel | Ja, volgens Booking-filter | €186 | Goede budgetoptie met airco en redelijke ruimte. Slaapbank/tweepersoonsbedden betekenen waarschijnlijk meer delen. |
 | 5 | [Maison, piscine & vue sur la Cité de Carcassonne](https://www.booking.com/hotel/fr/maison-piscine-amp-vue-sur-la-cite-de-carcassonne.nl.html) | Villa, 3 slaapkamers, 2 badkamers, 135 m², 4 bedden | 1,3 km van centrum, score 9,8 / locatie 10 | Ja, volgens Booking-filter | Ja, volgens Booking-filter | €287 | Mooi als je privéruimte en uitzicht/pool wilt. Minder reviews en particuliere host; check aankomstproces voor één nacht. |
@@ -45,19 +48,21 @@ Als jullie liever een eenvoudig ketenhotel met ontbijt willen: [ibis Styles Carc
 
 ## Reisinfo voor onderweg
 
-**Hotel du Pont Vieux**  
-Adres: 32 rue Trivalle, 11000 Carcassonne, Frankrijk.  
-Telefoon: +33 (0)4 68 25 24 99.  
-E-mail: info@hoteldupontvieux.com.
+**Loft centre-ville Parking, clim, wifi**  
+Boeking: Booking.com.  
+Verblijf: zaterdag 4 juli tot zondag 5 juli 2026, één nacht.  
+Type: huis met 3 slaapkamers.  
+Kosten: €255,15 totaal betaald volgens Booking-bevestiging.  
+Adres: nog uit de Booking-bevestiging/app overnemen voor offline gebruik.
 
-Handige ligging: Rue Trivalle ligt tussen de benedenstad en de Cité. Dit is precies het soort plek waar je de auto kunt laten staan en 's avonds nog even naar de vesting loopt.
+Handig voor onderweg: sla de volledige Booking-bevestiging offline op op telefoon en controleer voor vertrek de exacte parkeerinstructies, aankomsttijd en sleuteloverdracht/self-check-in.
 
 ## Nog doen
 
-1. Kies tussen hotelgemak (**Hotel du Pont Vieux**) en appartement/ruimte ([Loft centre-ville Parking, clim, wifi](https://www.booking.com/hotel/fr/loft-centre-ville-parking-clim-wifi.nl.html)).
-2. Controleer in de boekingsflow expliciet: gratis annuleren, aankomsttijd, airco in alle slaapruimtes en parking/garage-reservering.
-3. Als Pont Vieux wordt gekozen: vraag of de privégarage vooraf gereserveerd moet worden en of de twee kamers logisch bij elkaar liggen.
-4. Na boeken: voeg adres, boekingskanaal, check-in/out en parkeerinstructies toe aan deze pagina, zonder reserveringsnummer of betaalgegevens.
+1. Sla de Booking-bevestiging offline op op telefoon.
+2. Voeg later het adres, check-in/out en parkeerinstructies toe aan deze pagina.
+3. Controleer of airco in de slaapkamers aanwezig is, niet alleen in de woonkamer.
+4. Zet bevestigingsnummer, pincode en betaalgegevens niet op deze publieke pagina.
 
 ## Let op
 

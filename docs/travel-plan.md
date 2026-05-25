@@ -35,7 +35,7 @@ Beschikbaarheidscheck bijgewerkt op 22 mei 2026. Waar een boekingssite geen hard
 | Locatie | Beste eerste keuze | Status |
 |---|---|---|
 | Beauval | Les Pagodes de Beauval + losse ZooParc-tickets | <span class="status-ok">hotel geboekt</span> Les Pagodes is geboekt voor 2 nachten; ZooParc-tickets voor vrijdag 3 juli moeten nog los geboekt worden. |
-| Carcassonne | Hotel du Pont Vieux of Loft centre-ville Parking, clim, wifi | <span class="status-check">shortlist gemaakt</span> Booking-check voor 4-5 juli toont concrete opties voor 5 met airco en parkeren; Pont Vieux is de sterkste hotelkeuze. |
+| Carcassonne | Loft centre-ville Parking, clim, wifi | <span class="status-ok">geboekt</span> Booking.com: huis met 3 slaapkamers voor 4-5 juli 2026; adres en parkeerinstructies nog offline bewaren. |
 | Calonge | Eurocamping direct, Allcamps of VacanceSelect | <span class="status-ok">kansrijk</span> Eurocamping toont meerdere types voor 5/6 personen; Allcamps/VacanceSelect tonen beschikbare 6-persoons mobilhomes, maar standaard op andere voorbeelddata. |
 | Nîmes / Pont du Gard | RésidHotel/appartement of ibis Styles/Soko regio Pont du Gard | <span class="status-check">te controleren</span> Zoekresultaten tonen actuele boekingskanalen; officiële datumvoorraad zat achter boekingsflows. |
 | Beaune | Campanile, Première Classe of Mercure/centrumoptie | <span class="status-check">te controleren</span> Zoekresultaten tonen familievriendelijke hotelpagina’s; voor vijf personen waarschijnlijk twee kamers of familiekamer bevestigen. |
