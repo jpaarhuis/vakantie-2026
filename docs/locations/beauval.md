@@ -50,6 +50,18 @@ Niet vergeten: de hotelboeking bevat **geen ZooParc-tickets** en **geen dinerarr
 
 Bewaar de reserveringsbevestiging apart in mail/offline documenten. Zet het reserveringsnummer niet in deze publieke reispagina.
 
+## Kaart en bezienswaardigheden
+
+<div class="map-embed" role="group" aria-label="Google Maps kaart voor Beauval en Saint-Aignan">
+	<iframe title="Google Maps kaart Beauval en Saint-Aignan" src="https://www.google.com/maps?q=bezienswaardigheden%20Saint-Aignan%20ZooParc%20de%20Beauval%20Chateau%20de%20Saint-Aignan&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	<p>Zoekkaart voor de omgeving van Les Pagodes de Beauval, ZooParc en Saint-Aignan. Voor een vaste eigen Google-lijst kan deze embed later worden vervangen door een gedeelde My Maps-kaart.</p>
+</div>
+
+- [Les Pagodes de Beauval op Google Maps](https://www.google.com/maps/search/?api=1&query=Les%20Pagodes%20de%20Beauval%20Route%20de%20Beauval%2041110%20Saint-Aignan)
+- [ZooParc de Beauval op Google Maps](https://www.google.com/maps/search/?api=1&query=ZooParc%20de%20Beauval%20Saint-Aignan)
+- [Saint-Aignan centrum op Google Maps](https://www.google.com/maps/search/?api=1&query=Saint-Aignan%2041110%20centre)
+- [Chateau de Saint-Aignan op Google Maps](https://www.google.com/maps/search/?api=1&query=Chateau%20de%20Saint-Aignan%2041110)
+
 ## Nog doen
 
 - [ ] **ZooParc-tickets boeken voor vrijdag 3 juli 2026**: 2 volwassenen + 3 kinderen, losse tickets, geen 2-day+ hotelpass.

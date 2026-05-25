@@ -272,6 +272,30 @@ h1 {
   padding-left: 1.25rem;
 }
 
+.content .map-embed {
+  margin: 1rem 0;
+  padding: 1rem;
+  border: 1px solid var(--line);
+  border-radius: 1rem;
+  background: var(--paper);
+  box-shadow: var(--shadow);
+}
+
+.content .map-embed iframe {
+  display: block;
+  width: 100%;
+  height: min(62vw, 420px);
+  min-height: 280px;
+  border: 0;
+  border-radius: .75rem;
+}
+
+.content .map-embed p {
+  margin: .85rem 0 0;
+  color: var(--muted);
+  font-size: .95rem;
+}
+
 .content .location-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));

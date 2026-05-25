@@ -59,6 +59,20 @@ Ligging: bij Carcassonne Cathedral en Memorial House; luchthaven Carcassonne lig
 
 Handig voor onderweg: sla de volledige Booking-bevestiging offline op op telefoon en controleer voor vertrek de exacte parkeerinstructies, aankomsttijd en sleuteloverdracht/self-check-in.
 
+## Kaart en bezienswaardigheden
+
+<div class="map-embed" role="group" aria-label="Google Maps kaart voor Carcassonne">
+	<iframe title="Google Maps kaart Carcassonne bezienswaardigheden" src="https://www.google.com/maps?q=bezienswaardigheden%20Carcassonne%20Cite%20de%20Carcassonne%20Pont%20Vieux%20Basilique%20Saint-Nazaire%20Chateau%20Comtal&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	<p>Zoekkaart voor de avondwandeling rond de loft, de benedenstad en de middeleeuwse Cité. Voor een vaste eigen Google-lijst kan deze embed later worden vervangen door een gedeelde My Maps-kaart.</p>
+</div>
+
+- [Loft-adres op Google Maps](https://www.google.com/maps/search/?api=1&query=43%20Rue%20Voltaire%2011000%20Carcassonne%20France)
+- [Cité de Carcassonne op Google Maps](https://www.google.com/maps/search/?api=1&query=Cit%C3%A9%20de%20Carcassonne)
+- [Château Comtal op Google Maps](https://www.google.com/maps/search/?api=1&query=Ch%C3%A2teau%20Comtal%20Carcassonne)
+- [Basilique Saint-Nazaire op Google Maps](https://www.google.com/maps/search/?api=1&query=Basilique%20Saint-Nazaire%20Carcassonne)
+- [Pont Vieux op Google Maps](https://www.google.com/maps/search/?api=1&query=Pont%20Vieux%20Carcassonne)
+- [Carcassonne Cathedral op Google Maps](https://www.google.com/maps/search/?api=1&query=Carcassonne%20Cathedral)
+
 ## Nog doen
 
 1. Sla de Booking-bevestiging offline op op telefoon.
