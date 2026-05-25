@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Calonge Roadtrip 2026</title>
+  <meta name="description" content="Mobiel reisoverzicht voor de roadtrip naar Sant Antoni de Calonge, met tussenstops, verblijfopties en EV-notities." />
+  <link rel="stylesheet" href="style.css?v=20260525-route-card" />
+</head>
+<body>
+  <header class="hero">
+    <div class="hero__inner">
+      <p class="eyebrow">Roadtrip · gezin van 5 · zomer 2026</p>
+      <h1>Calonge Roadtrip 2026</h1>
+      <p class="subtitle">Een bewerkbare GitHub Pages-versie van het reisplan, geschikt voor mobiel gebruik onderweg.</p>
+      <table class="route-card" aria-label="Route samenvatting">
+        <thead>
+          <tr>
+            <th scope="col">Van</th>
+            <th scope="col">Rijden</th>
+            <th scope="col">Naar</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Ommen</td>
+            <td><strong>9u25 · 805 km</strong></td>
+            <td>Beauval</td>
+          </tr>
+          <tr>
+            <td>Beauval</td>
+            <td><strong>6u15 · 565 km</strong></td>
+            <td>Carcassonne</td>
+          </tr>
+          <tr>
+            <td>Carcassonne</td>
+            <td><strong>2u45 · 250 km</strong></td>
+            <td>Calonge</td>
+          </tr>
+          <tr>
+            <td>Calonge</td>
+            <td><strong>4u00 · 370 km</strong></td>
+            <td>Nîmes / Pont du Gard</td>
+          </tr>
+          <tr>
+            <td>Nîmes / Pont du Gard</td>
+            <td><strong>4u15 · 390 km</strong></td>
+            <td>Beaune</td>
+          </tr>
+          <tr>
+            <td>Beaune</td>
+            <td><strong>8u45 · 800 km</strong></td>
+            <td>Ommen</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </header>
+
+  <nav class="toolbar" aria-label="Pagina hulpmiddelen">
+    <a href="?file=travel-plan.md" data-file="travel-plan.md">Overzicht</a>
+    <a href="?file=locations/beauval.md" data-file="locations/beauval.md">Beauval</a>
+    <a href="?file=locations/carcassonne.md" data-file="locations/carcassonne.md">Carcassonne</a>
+    <a href="?file=locations/calonge.md" data-file="locations/calonge.md">Calonge</a>
+    <a href="?file=locations/nimes-pont-du-gard.md" data-file="locations/nimes-pont-du-gard.md">Nîmes</a>
+    <a href="?file=locations/beaune.md" data-file="locations/beaune.md">Beaune</a>
+    <button id="toggleTheme" type="button">Donker/licht</button>
+  </nav>
+
+  <main class="page">
+    <section class="notice">
+      <strong>Bewerken:</strong> pas <code>docs/travel-plan.md</code> of een bestand in <code>docs/locations</code> aan in GitHub. Deze pagina laadt de Markdown automatisch.
+    </section>
+
+    <article id="content" class="content" aria-live="polite">
+      <p>Reisplan wordt geladen…</p>
+    </article>
+  </main>
+
+  <footer class="footer">
+    <p>Static GitHub Pages site · inhoud uit <code>travel-plan.md</code></p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
