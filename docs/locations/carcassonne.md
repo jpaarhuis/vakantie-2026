@@ -53,14 +53,16 @@ Boeking: Booking.com.
 Verblijf: zaterdag 4 juli tot zondag 5 juli 2026, één nacht.  
 Type: huis met 3 slaapkamers.  
 Kosten: €255,15 totaal betaald volgens Booking-bevestiging.  
-Adres: nog uit de Booking-bevestiging/app overnemen voor offline gebruik.
+Adres: 43 Rue Voltaire, 11000 Carcassonne, Frankrijk.  
+Parkeren: Booking-pagina noemt privéparkeren op het terrein.  
+Ligging: bij Carcassonne Cathedral en Memorial House; luchthaven Carcassonne ligt volgens Booking op ongeveer 3 km.
 
 Handig voor onderweg: sla de volledige Booking-bevestiging offline op op telefoon en controleer voor vertrek de exacte parkeerinstructies, aankomsttijd en sleuteloverdracht/self-check-in.
 
 ## Nog doen
 
 1. Sla de Booking-bevestiging offline op op telefoon.
-2. Voeg later het adres, check-in/out en parkeerinstructies toe aan deze pagina.
+2. Voeg later check-in/out en eventuele specifieke sleutel- of parkeerinstructies toe aan deze pagina.
 3. Controleer of airco in de slaapkamers aanwezig is, niet alleen in de woonkamer.
 4. Zet bevestigingsnummer, pincode en betaalgegevens niet op deze publieke pagina.
 

@@ -35,14 +35,16 @@ Niet vergeten: de hotelboeking bevat **geen ZooParc-tickets** en **geen dinerarr
 | Onderdeel | Informatie |
 |---|---|
 | Hotel | [Les Pagodes de Beauval](https://www.zoobeauval.com/en/stays-at-beauval/hotel-les-pagodes-de-beauval) |
-| Adres | Route de Beauval, 41110 Saint-Aignan, France |
+| Adres | Les Pagodes de Beauval, Route de Beauval, 41110 Saint-Aignan, France |
+| Telefoon hotel/Beauval | +33 2 54 75 60 00 |
+| GPS | 47.249, 1.358 |
 | Verblijf | Donderdag 2 juli 2026 tot zaterdag 4 juli 2026, 2 nachten |
 | Kamer | Quintuple room voor 2 volwassenen en 3 kinderen/tieners |
 | Arrangement | Overnight stay and breakfast included |
 | Ontbijt | Inbegrepen voor het verblijf |
 | Diner | Niet inbegrepen; ter plekke of vooraf los kiezen/reserveren |
 | Parktickets | Nog boeken: losse tickets voor vrijdag 3 juli 2026 |
-| Parkeren | Beauval vermeldt gratis parkeren tijdens hotelverblijf |
+| Parkeren | Gratis parkeren bij het hotel volgens Beauval |
 | Afstand ZooParc | Les Pagodes ligt op ongeveer 7 minuten lopen van de ingang |
 | Kosten hotel | Bevestiging toont €520 totaal voor hotel/flex-optie, plus €4,84 toeristenbelasting ter plaatse |
 
