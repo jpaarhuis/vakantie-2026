@@ -10,7 +10,7 @@ Status op 30 mei 2026: <span class="status-check">Nîmes is primaire locatie, no
 
 Nieuwe keuze: **overnachten in Nîmes zelf**, liefst rond de Arènes, de gare of het historische centrum. Dan kun je de auto laten staan en te voet langs de belangrijkste Romeinse plekken. Pont du Gard blijft op de radar, maar als **korte rit** op 12 juli einde middag of op 13 juli onderweg naar Beaune.
 
-Conclusie accommodatiecheck: **Hôtel et Villa Majestic** is nu de beste eerste check als jullie Nîmes echt te voet willen zien en met vijf personen in één familie-opzet willen slapen. De tweede sterke lijn is **Appart'City Collection Nîmes Arènes** of **Odalys City Nîmes Arènes**, maar daar moet je waarschijnlijk twee units nemen. **Appart'City Nîmes Centre** is praktisch interessant omdat er T3-appartementen tot 6 personen zijn, maar ligt minder mooi voor de avondwandeling.
+Conclusie accommodatiecheck: **Hôtel et Villa Majestic**, **Appart'City Collection Nîmes Arènes** en **Odalys City Nîmes Arènes** zijn nu de beste eerste checks als jullie Nîmes echt te voet willen zien. Twee kamers of units is prima als de totaalprijs klopt; daardoor tellen vooral **prijs, rating, airco, parking en afstand tot Arènes/centrum**. **Appart'City Nîmes Centre** blijft de beste budget-/ruimtefallback als het T3-appartement beschikbaar is.
 
 <figure class="place-hero">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Arena_of_Nimes_banner.jpg" alt="Arena van Nîmes in het centrum" loading="eager" decoding="async">
@@ -45,7 +45,7 @@ Een hotel buiten het centrum kan nog steeds logisch zijn als zwembad en parking 
 | Voorkeursgebied | Centrum Nîmes: Arènes / gare / oude stad |
 | Hoofdactiviteit | Avondwandeling langs Arènes, Maison Carrée, oude stad en eventueel Jardins de la Fontaine |
 | Praktische prioriteit | Airco, parking of publieke parking dichtbij, makkelijke check-in, loopafstand tot centrum |
-| Voor vijf personen | Waarschijnlijk twee units/kamers; veel aparthotel-appartementen gaan tot 4 personen |
+| Voor vijf personen | Eén ruime unit is handig, maar twee units/kamers is prima als prijs, ligging en rating goed zijn |
 | Pont du Gard | Vanuit Nîmes ongeveer 30-40 minuten rijden, goed als korte rit op 12 of 13 juli |
 | Volgende rit | 13 juli door naar Beaune; Pont du Gard kan als ochtendstop vóór de lange rit als iedereen fris is |
 
@@ -67,30 +67,31 @@ Een hotel buiten het centrum kan nog steeds logisch zijn als zwembad en parking 
 
 ## Accommodatiecheck Nîmes
 
-Gecheckt op 30 mei 2026 op officiële hotel-/aparthotelbronnen waar mogelijk. Live beschikbaarheid en totaalprijs voor **12-13 juli 2026** moeten nog in de boekingsflow worden bevestigd; sommige ketensites tonen geen betrouwbare scrape of blokkeren datumchecks.
+Gecheckt op 30 mei 2026 op officiële hotel-/aparthotelbronnen waar mogelijk. Prijzen hieronder zijn **vanafprijzen, officiële bandbreedtes of voorbeeldprijzen** uit hotelpagina's; de live totaalprijs voor **12-13 juli 2026, 2 volwassenen + 3 tieners** moet nog in de boekingsflow worden bevestigd. Ratings komen uit officiële hotelreviews waar beschikbaar, anders uit Booking.com/Tripadvisor/Bing-resultaten.
 
 ### Rangorde
 
-1. **Hôtel et Villa Majestic** - beste balans voor deze stop: centrum, kamers/appartementen tot 5 personen, airco en Nîmes lopend doen.
-2. **Appart'City Collection Nîmes Arènes** - mooiste aparthotel-ligging, maar waarschijnlijk 2 units nodig.
-3. **Appart'City Nîmes Centre** - beste praktische één-unit-optie als het T3-appartement beschikbaar is, maar minder charmant en minder centraal.
-4. **Odalys City Nîmes Arènes** - sterk centraal aparthotel, maar waarschijnlijk 2 units nodig en parking apart/reservering checken.
-5. **Best Western L'Orangerie** - goed als zwembad, gratis parking en auto-gemak zwaarder wegen dan echt midden in de stad zitten.
-6. **Hôtel C Suites** - zwembad/parking-fallback buiten centrum; alleen kiezen als afkoelen en parkeren winnen van wandelen.
+1. **Appart'City Collection Nîmes Arènes** - beste ligging/rating-combinatie; check totaalprijs voor 2 units.
+2. **Hôtel et Villa Majestic** - beste kleinschalige centrumoptie; interessant als familie-opzet of appartement goed geprijsd is.
+3. **Odalys City Nîmes Arènes** - sterke centrale aparthoteloptie; vooral vergelijken met Appart'City Arènes op prijs en parking.
+4. **Appart'City Nîmes Centre** - beste budget-/ruimtecheck als het T3-appartement tot 6 beschikbaar is.
+5. **Best Western L'Orangerie** - beste auto + zwembad fallback, maar minder centrumgevoel.
+6. **Maison Albar L'Imperator** of **Margaret - Hôtel Chouleur** - alleen als jullie bewust luxe/sfeer willen en prijs minder belangrijk is.
+7. **Hôtel C Suites** - praktisch met parking/zwembad, maar rating en ligging maken dit vooral een fallback.
 
 ### Volledige tabel
 
-| Optie | Past voor 5? | Status | Waarom wel/niet |
-|---|---:|---|---|
-| [Hôtel et Villa Majestic](https://www.hotel-majestic-nimes.com/en/) | Ja, kamers en appartementen voor 1-5 personen | <span class="status-ok">beste eerste check</span> | 9 rue de La Servie, 30000 Nîmes. Volgens het hotel: 300 m van station, 500 m van Arènes, 1 km van Maison Carrée. Kamers/flats met airco, wifi en opties tot 5 personen. Geen eigen parking, maar Parking des Arènes op 280 m en Q-Park Gare op 350 m. Let op: oud pand zonder lift; kamer op lage verdieping vragen. |
-| [Appart'City Collection Nîmes Arènes](https://www.appartcity.com/en/destinations/france/occitania/nimes/nimes-arenes) | Tot 4 per appartement; voor 5 waarschijnlijk 2 units | <span class="status-ok">beste aparthotel-ligging</span> | 1 Boulevard de Bruxelles, 350 m van Nîmes Centre station en heel dicht bij Arènes. 24/7 receptie, keuken, airco, bagage, sauna/fitness, publieke ondergrondse parking en laadpunten in de buurt. Officiële capaciteit: studio's 2-3, appartementen 4; dus geen één-unit-oplossing voor 5. |
-| [Appart'City Nîmes Centre](https://www.appartcity.com/fr/destinations/france/occitanie/nimes/nimes-centre) | Ja, T3 tot 6 personen als beschikbaar | <span class="status-check">beste één-unit fallback</span> | 364 Allée de l'Amérique Latine. Minder centraal, maar praktisch: T3 ca. 70 m² tot 6 personen, keuken, wifi, bagage, privé beveiligde parking op reservering en laadpunten in de buurt. Appart'City noemt centrum op ongeveer 10 minuten lopen; station 20 minuten lopen/5 min auto. |
-| [Odalys City Nîmes Arènes Palais des Congrès](https://www.odalys-vacances.com/location-mer/languedoc-roussillon/nimes/odalys-city-nimes-arenes-palais-des-congres.html) | Tot 4 per 2-kamerappartement; voor 5 waarschijnlijk 2 units | <span class="status-check">sterke tweede aparthotel-check</span> | 4 Rue Alexandre Ducros, 30000 Nîmes. Centraal bij Arènes/Palais des Congrès, 24/7 receptie, wifi, fitness/lounge, bagage. Officiële site noemt indoor privéparking op beschikbaarheid bij aankomst: 17 euro/dag. Goed, maar capaciteit voor 5 vraagt waarschijnlijk twee units. |
-| [Best Western L'Orangerie](https://www.hotel-orangerie.fr/en) | Tot 4 per junior suite; voor 5 waarschijnlijk 2 kamers | <span class="status-check">auto + zwembad fallback</span> | 755 rue Tour de l'Évêque. Officiële site: 37 kamers, classic/superior voor 1-2 en junior suite voor 2-4. Gratis bewaakte hotelparking 24/24 met laadpunt, zwembad/sauna/jacuzzi. Circa 20 minuten lopen naar Arènes volgens eigen gastenquote; minder ideaal als Nîmes-centrum de hoofdreden is. |
-| [Hôtel C Suites](https://www.hotel-c-suites.com/) | Waarschijnlijk 2 kamers/suites | <span class="status-check">zwembad/parking fallback</span> | 152 rue Claude Nicolas Ledoux, Parc Hôtelier Ville Active. 83 ruime kamers, zwembad, tennis/petanque, grote gratis privéparking en Tesla-laadpunt, 24/7 receptie. Ligt ongeveer 3 km van de Arènes; dus praktisch, maar niet passend bij “Nîmes lopend zien” tenzij zwembad belangrijker is. |
-| [Maison Albar L'Imperator](https://www.maison-albar-hotels-l-imperator.com/en/) | Via 2 kamers/suite/house | <span class="status-risk">te luxe voor doorreis</span> | Fantastische ligging bij Jardin de la Fontaine en Maison Carrée, 5-sterren, spa en private houses. Voor deze ene nacht waarschijnlijk te duur en te veel hotel voor het doel. Alleen checken als jullie bewust een luxe stop willen. |
-| [Margaret - Hôtel Chouleur](https://www.margaret-hotelchouleur.com/en/) | Mogelijk via family suite/appartement, beperkt aanbod | <span class="status-risk">mooi maar kwetsbaar</span> | Boutiquehotel met maar 10 kamers/suites midden in het centrum, family suite en appartement, zwembad/spa. Geen eigen parking; public parkings aan de rand van centrum. Heel sfeervol, maar met auto en vijf personen minder robuust dan Majestic/Appart'City. |
-| Accor-opties: Novotel Atria / ibis Styles Gare | Waarschijnlijk 2 kamers | <span class="status-risk">niet betrouwbaar geverifieerd</span> | Accor-pagina's stuurden naar login/loyalty-flow en leverden geen bruikbare officiële details op. Alleen meenemen als handmatige Accor-check goede familiekamers en parking oplevert. |
+| Optie | Opzet voor 5 | Prijsindicatie | Rating | Afstand centrum/Arènes | Praktisch oordeel |
+|---|---|---|---|---|---|
+| [Appart'City Collection Nîmes Arènes](https://www.appartcity.com/en/destinations/france/occitania/nimes/nimes-arenes) | Waarschijnlijk 2 units; appartementen tot 4 personen | Voorbeeldprijzen: studio ca. €117, T2 ca. €171, superior appartement ca. €194 per nacht; totaal voor 2 units live checken | Officieel 4,66/5 (415); Booking.com 8,9/10; Tripadvisor ca. 4,5/5 | Ca. 0,2-0,3 km van Arènes, 350 m van station | <span class="status-ok">beste eerste check:</span> ligging + sterke rating. Nadeel: twee units en publieke parking/laadpunten in de buurt checken. |
+| [Hôtel et Villa Majestic](https://www.hotel-majestic-nimes.com/en/) | Kamers en appartementen voor 1-5 personen | Officieel: familiekamer €150-€300; groot appartement €120-€300; andere kamers vanaf €60-€230 | Booking.com 8,6/10 (1.885); Tripadvisor ca. 4,5/5 | Ca. 0,5 km van Arènes, 1 km van Maison Carrée | <span class="status-ok">beste kleinschalige check:</span> centrum, airco, opties tot 5. Geen lift; lage verdieping vragen. Parking des Arènes op ca. 280 m. |
+| [Odalys City Nîmes Arènes Palais des Congrès](https://www.odalys-vacances.com/location-mer/languedoc-roussillon/nimes/odalys-city-nimes-arenes-palais-des-congres.html) | Waarschijnlijk 2 units; 2-kamerappartement tot 4 | Officiële 7-nachtenvoorbeelden: studio vanaf ca. €822 na korting; 2-kamerappartement ca. €1.115-€1.120 per week; 1 nacht live checken | Booking.com 8,8/10 (383); Trip.com 4,4/5 | Ca. 0,2 km van Arènes/Palais des Congrès | <span class="status-check">sterke tweede check:</span> centrale aparthotelopzet, 24/7 receptie. Parking apart en op beschikbaarheid: €17/dag. |
+| [Appart'City Nîmes Centre](https://www.appartcity.com/fr/destinations/france/occitanie/nimes/nimes-centre) | Mogelijk 1 unit: T3 tot 6 personen | Voorbeeldprijzen: studio ca. €54; superior appartement ca. €77; T3 tot 6 ca. €86 per nacht | Officieel 4,47/5 (162) | Ca. 1,5 km van Arènes; volgens Appart'City centrum ca. 10 min lopen | <span class="status-check">beste budget-/ruimtecheck:</span> veel waarde als T3 beschikbaar is, maar minder charmant en minder centraal voor avondwandeling. |
+| [Best Western L'Orangerie](https://www.hotel-orangerie.fr/en) | Waarschijnlijk 2 kamers; junior suite tot 4 | Officieel: classic vanaf €65; superior vanaf €75; junior suite vanaf €95 | Tripadvisor ca. 4/5, ruim 500 reviews; snippet inconsistent, dus live nog checken | Ca. 1,5 km / 20 min lopen naar Arènes | <span class="status-check">auto + zwembad fallback:</span> gratis bewaakte parking 24/24 met laadpunt, zwembad/sauna/jacuzzi. Minder ideaal als centrum te voet hoofdzaak is. |
+| [Maison Albar L'Imperator](https://www.maison-albar-hotels-l-imperator.com/en/) | Via 2 kamers, suite of private house | Bing-reserveringssnippet rond €334 voor 2 personen op andere datum; exacte familieprijs live checken | Tripadvisor 4,6/5 (722); Booking.com 9,1/10; Expedia 4,9/5 | Ca. 0,8-0,9 km van Arènes, zeer centraal bij Jardins/Maison Carrée | <span class="status-risk">luxe optie:</span> prachtig en hoog beoordeeld, maar waarschijnlijk duur voor één doorreisnacht. |
+| [Margaret - Hôtel Chouleur](https://www.margaret-hotelchouleur.com/en/) | Mogelijk via family suite/appartement; beperkt aanbod | Geen betrouwbare officiële prijs gevonden; live check nodig | Tripadvisor ca. 4/5 (180-190); #2 van Nîmes in snippets | Ca. 0,6-0,8 km van Arènes, midden in het centrum | <span class="status-risk">sfeeroptie:</span> mooi boutiquehotel met weinig kamers; kwetsbaar voor beschikbaarheid en parking. |
+| [Hôtel C Suites](https://www.hotel-c-suites.com/) | Waarschijnlijk 2 kamers/suites | Officieel: stopover-arrangement vanaf €109; kamerprijs varieert per seizoen/categorie | Booking.com 7,5/10 (3.198); Tripadvisor 3/5; Trip.com 7,8/10 | Ca. 3 km van Arènes | <span class="status-risk">parking/zwembad fallback:</span> grote gratis privéparking, Tesla-laadpunt en zwembad, maar rating en ligging zijn duidelijk minder. |
+| Accor-opties: Novotel Atria / ibis Styles Gare | Waarschijnlijk 2 kamers | Niet betrouwbaar geverifieerd | Niet betrouwbaar geverifieerd | Novotel Atria ca. 0,3 km; ibis Styles Gare ca. 0,8 km | <span class="status-risk">alleen handmatig checken:</span> Accor-pagina's stuurden naar login/loyalty-flow en leverden geen bruikbare officiële details op. |
 
 ## Bezienswaardigheden op loopafstand
 
@@ -116,10 +117,10 @@ Gecheckt op 30 mei 2026 op officiële hotel-/aparthotelbronnen waar mogelijk. Li
 
 ## Aanpak voor boeken
 
-1. Check eerst Hôtel et Villa Majestic: 12-13 juli 2026, 2 volwassenen + 3 tieners, familiekamer of appartement voor 5, airco, lage verdieping, parkingkeuze erbij.
-2. Als Majestic niet beschikbaar of niet prettig geprijsd is: check Appart'City Collection Nîmes Arènes met 2 units.
-3. Als één appartement belangrijker is dan perfecte ligging: check Appart'City Nîmes Centre T3 voor 6 personen.
-4. Check Odalys City Nîmes Arènes als tweede centrale aparthotel, maar reken op 2 units en parkeerbeschikbaarheid bij aankomst.
+1. Check eerst Appart'City Collection Nîmes Arènes, Majestic en Odalys naast elkaar op 12-13 juli 2026 voor 2 volwassenen + 3 tieners; vergelijk totaalprijs, annuleerbaarheid, airco, parking en afstand tot Arènes.
+2. Als Appart'City Arènes met 2 units rond de prijs van Majestic blijft, heeft Appart'City de beste ligging/rating-combinatie.
+3. Als Majestic een familiekamer of groot appartement goed geprijsd aanbiedt, is dat de meest eenvoudige familie-opzet in het centrum.
+4. Check Appart'City Nîmes Centre T3 als budget-/ruimtevariant; accepteren dat de ligging minder mooi is.
 5. Als zwembad/parking zwaarder gaat wegen dan lopen: Best Western L'Orangerie vóór C Suites checken.
 6. Laat Maison Albar en Margaret alleen meedoen als jullie bewust een luxe/sfeervolle optie willen en prijs/parking geen probleem zijn.
 
@@ -148,15 +149,15 @@ Gecheckt op 30 mei 2026 op officiële hotel-/aparthotelbronnen waar mogelijk. Li
 
 ## Nog doen
 
-- [ ] Majestic checken op 12-13 juli 2026 voor 5 personen: familiekamer/appartement, airco, lage verdieping, annuleerbaar tarief.
-- [ ] Appart'City Collection, Appart'City Centre en Odalys checken op 12-13 juli 2026 met respectievelijk 2 units of T3 voor 6 personen.
-- [ ] Bij elke optie expliciet parkinghoogte, laadmogelijkheid, afstand tot kamer en check-in/check-out checken.
+- [ ] Appart'City Collection Arènes, Majestic en Odalys checken op 12-13 juli 2026 en totaalprijs voor vijf personen naast elkaar zetten.
+- [ ] Appart'City Centre T3 checken als budget-/ruimtevariant voor 5 personen.
+- [ ] Bij elke optie expliciet ratingbron, parkinghoogte, laadmogelijkheid, afstand tot centrum/Arènes en check-in/check-out checken.
 - [ ] Beslissen of Pont du Gard op 13 juli ochtend past vóór de rit naar Beaune.
 - [ ] Na boeken: shortlist verwijderen en alleen boekingsdetails zonder privégegevens laten staan.
 
 ## Let op
 
-- Voor vijf personen is één centrumappartement lastig; Majestic of Appart'City Nîmes Centre zijn de beste kansen op één familie-opzet.
+- Twee kamers of units is prima; kies vooral op totaalprijs, rating, airco, parking en afstand tot Arènes/centrum.
 - Nîmes centrum is precies de reden voor deze keuze: niet buiten de stad boeken tenzij zwembad/parking zwaarder weegt.
 - Airco is in juli belangrijker dan charme.
 - Laat geen boekingsnummers, betaalgegevens of privégegevens op deze publieke pagina staan.
