@@ -37,7 +37,7 @@ Beschikbaarheidscheck bijgewerkt op 22 mei 2026. Waar een boekingssite geen hard
 | Beauval | Les Pagodes de Beauval + losse ZooParc-tickets | <span class="status-ok">hotel geboekt</span> Les Pagodes is geboekt voor 2 nachten; ZooParc-tickets voor vrijdag 3 juli moeten nog los geboekt worden. |
 | Carcassonne | Loft centre-ville Parking, clim, wifi | <span class="status-ok">geboekt</span> Booking.com: huis met 3 slaapkamers voor 4-5 juli 2026; adres en parkeerinstructies nog offline bewaren. |
 | Sant Antoni | Eurocamping Best Village | <span class="status-ok">geboekt</span> Eurocamping Best Village is vastgelegd voor 5-12 juli 2026; check-in express en betaalstatus later nog praktisch controleren. |
-| Nîmes / Pont du Gard | Soko Hotels Pont du Gard of appartement rond Remoulins | <span class="status-check">shortlist klaar</span> Voorkeur is overnachten bij Remoulins/Pont du Gard zodat Pont du Gard de hoofdactiviteit blijft en Nîmes optioneel is. |
+| Nîmes / Pont du Gard | Appart'City/Odalys Nîmes Arènes of centrumhotel | <span class="status-check">Nîmes primair</span> Voorkeur is overnachten in Nîmes centrum zodat Arènes, Maison Carrée en oude stad lopend kunnen; Pont du Gard blijft optionele korte rit. |
 | Beaune | Campanile, Première Classe of Mercure/centrumoptie | <span class="status-check">te controleren</span> Zoekresultaten tonen familievriendelijke hotelpagina’s; voor vijf personen waarschijnlijk twee kamers of familiekamer bevestigen. |
 
 ## Hoofdadvies
@@ -65,7 +65,7 @@ Een gezin van vijf is in Frankrijk net onhandig: veel familiekamers stoppen bij 
 | Beauval | Les Pagodes de Beauval | Geboekt; alleen ZooParc-tickets nog apart regelen |
 | Carcassonne | Loft centre-ville Parking, clim, wifi | Geboekt; centrale tussenstop met airco en parking |
 | Sant Antoni | Eurocamping Best Village | Geboekt; hoofdweek aan de Costa Brava met privézwembadzone |
-| Nîmes / Pont du Gard | Soko Hotels Pont du Gard of appartement bij Remoulins | Pont du Gard dichtbij, minder centrumstress, praktisch voor één warme terugwegnacht |
+| Nîmes / Pont du Gard | Appart'City/Odalys Nîmes Arènes of centrumhotel | Nîmes zelf zien; bezienswaardigheden te voet, Pont du Gard als korte rit |
 | Beaune | Campanile Beaune of Mercure Beaune Centre | Zwembad, parking, goede roadtripbalans |
 
 ## Nog controleren vóór boeken

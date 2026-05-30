@@ -1,125 +1,135 @@
 # Nîmes / Pont du Gard
 
 **Reisdata:** 12 tot 13 juli 2026, één nacht.  
-**Doel:** terugwegstop met Romeins erfgoed, zwembad en makkelijke route richting Bourgogne.  
+**Doel:** Nîmes zien tijdens de terugweg, met Romeins erfgoed op loopafstand en Pont du Gard als korte rit.
 **Gezelschap:** twee volwassenen en drie tieners.
 
 ## Status
 
-Status op 30 mei 2026: <span class="status-check">shortlist klaar, nog boeken</span>
+Status op 30 mei 2026: <span class="status-check">Nîmes is primaire locatie, nog boeken</span>
 
-Deze stop is nog niet geboekt. De beste insteek is: **overnachten rond Remoulins / Pont du Gard**, niet midden in Nîmes. Dan blijft de rit vanaf Sant Antoni behapbaar, kun je eind middag of avond naar Pont du Gard, en de volgende ochtend zonder stadslogistiek door naar Beaune.
+Nieuwe keuze: **overnachten in Nîmes zelf**, liefst rond de Arènes, de gare of het historische centrum. Dan kun je de auto laten staan en te voet langs de belangrijkste Romeinse plekken. Pont du Gard blijft op de radar, maar als **korte rit** op 12 juli einde middag of op 13 juli onderweg naar Beaune.
 
-Voorkeur nu: **Soko Hotels Pont du Gard** als er een passende kamercombinatie voor vijf beschikbaar is. Alternatief: een appartement/aparthotel bij Remoulins of twee praktische kamers bij ibis Styles / Nîmes-Pont-du-Gard-regio.
+Voor vijf personen blijft een appartement/aparthotel of twee hotelkamers het meest realistisch. De sterkste eerste check is **Appart'City Collection Nîmes Arènes** of **Odalys City Nîmes Arènes Palais des Congrès**: allebei centraal, dicht bij de Arènes en handig voor een korte stadsstop.
 
 <figure class="place-hero">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pont_du_Gard_%2824%29.jpg" alt="Pont du Gard bij helder weer boven de rivier" loading="eager" decoding="async">
-  <figcaption><strong>Pont du Gard.</strong> De logische ankeractiviteit voor deze terugwegstop: indrukwekkend, buiten, en goed te combineren met een korte overnachting in Remoulins. Bron: <a href="https://commons.wikimedia.org/wiki/File:Pont_du_Gard_(24).jpg">Wikimedia Commons</a>.</figcaption>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Arena_of_Nimes_banner.jpg" alt="Arena van Nîmes in het centrum" loading="eager" decoding="async">
+  <figcaption><strong>Nîmes centrum.</strong> De stop draait om de stad zelf: Arènes, Maison Carrée, Romeinse resten, terrassen en een compacte avondwandeling. Bron: <a href="https://commons.wikimedia.org/wiki/File:Arena_of_Nimes_banner.jpg">Wikimedia Commons</a>.</figcaption>
 </figure>
 
 <div class="image-gallery" aria-label="Nîmes en Pont du Gard beeldgalerie">
   <figure>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Arena_of_Nimes_banner.jpg" alt="Arena van Nîmes" loading="lazy" decoding="async">
-    <figcaption><strong>Arènes de Nîmes.</strong> Sterke backup als jullie toch de stad in willen. Bron: <a href="https://commons.wikimedia.org/wiki/File:Arena_of_Nimes_banner.jpg">Wikimedia Commons</a>.</figcaption>
-  </figure>
-  <figure>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Maison_Carree_in_Nimes_%2811%29.jpg" alt="Maison Carrée in Nîmes" loading="lazy" decoding="async">
-    <figcaption><strong>Maison Carrée.</strong> Compacte Romeinse stop in het centrum van Nîmes. Bron: <a href="https://commons.wikimedia.org/wiki/File:Maison_Carree_in_Nimes_(11).jpg">Wikimedia Commons</a>.</figcaption>
+    <figcaption><strong>Maison Carrée.</strong> Compact en centraal, makkelijk mee te pakken in de stadswandeling. Bron: <a href="https://commons.wikimedia.org/wiki/File:Maison_Carree_in_Nimes_(11).jpg">Wikimedia Commons</a>.</figcaption>
   </figure>
   <figure>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Jardins_de_la_Fontaine_in_Nimes_05.jpg" alt="Jardins de la Fontaine in Nîmes" loading="lazy" decoding="async">
-    <figcaption><strong>Jardins de la Fontaine.</strong> Schaduwrijke wandeling als Nîmes op het programma komt. Bron: <a href="https://commons.wikimedia.org/wiki/File:Jardins_de_la_Fontaine_in_Nimes_05.jpg">Wikimedia Commons</a>.</figcaption>
+    <figcaption><strong>Jardins de la Fontaine.</strong> Schaduw en water als het warm is. Bron: <a href="https://commons.wikimedia.org/wiki/File:Jardins_de_la_Fontaine_in_Nimes_05.jpg">Wikimedia Commons</a>.</figcaption>
+  </figure>
+  <figure>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pont_du_Gard_%2824%29.jpg" alt="Pont du Gard boven de rivier" loading="lazy" decoding="async">
+    <figcaption><strong>Pont du Gard.</strong> Niet de slaaplocatie, wel een sterke korte rit vanuit Nîmes. Bron: <a href="https://commons.wikimedia.org/wiki/File:Pont_du_Gard_(24).jpg">Wikimedia Commons</a>.</figcaption>
   </figure>
 </div>
 
 ## Locatie
 
-Voor één warme julinacht is de driehoek **Remoulins - Pont du Gard - Nîmes** het meest logisch. Remoulins / Vers-Pont-du-Gard houdt Pont du Gard dichtbij en voorkomt centrumparkeren. Nîmes is inhoudelijk mooi, maar voor deze stop vooral interessant als korte extra ochtend- of avondactiviteit.
+Kies in Nîmes bij voorkeur de zone **Arènes - gare - boulevard de Bruxelles - boulevard Victor Hugo**. Daar zitten de belangrijkste bezienswaardigheden dicht bij elkaar en kun je de stad zonder auto doen. Voor één nacht is dat veel waard: parkeren bij aankomst, spullen naar de kamer, en daarna lopend eten en kijken.
 
-Avignon is bewust geen hoofdkeuze voor deze nacht. Het is mooi, maar in juli extra druk door festivalseizoen en het ligt net wat minder rustig voor een simpele doorreisstop.
+Een hotel buiten het centrum kan nog steeds logisch zijn als zwembad en parking doorslaggevend zijn, maar dan lever je precies in op het doel van deze stop: **Nîmes zien zonder logistiek gedoe**.
 
 ## Reisinfo voor onderweg
 
 | Onderdeel | Informatie |
 |---|---|
-| Voorkeursgebied | Remoulins / Pont du Gard, eventueel Nîmes-Pont-du-Gard-regio |
-| Hoofdactiviteit | Pont du Gard, bij voorkeur einde middag/avond na aankomst |
-| Praktische prioriteit | Zwembad, airco, parking, makkelijke check-in, geen centrumstress |
-| Pont du Gard parking | Officiële ticketing noemt parking ter plaatse: **€9 per dag**, niet inbegrepen bij museum-/rondleidingtickets |
-| Pont du Gard cultuurzones | In juli/augustus volgens officiële site: 09:00-20:00; ticket office tot 19:30 |
-| Pont du Gard avond | Van 4 juli t/m 30 augustus 2026 noemt de site een licht-/geluidsshow om 22:30, circa 20 minuten |
-| Volgende rit | 13 juli: door naar Beaune; kies dus geen plek met ingewikkelde ochtendlogistiek |
+| Voorkeursgebied | Centrum Nîmes: Arènes / gare / oude stad |
+| Hoofdactiviteit | Avondwandeling langs Arènes, Maison Carrée, oude stad en eventueel Jardins de la Fontaine |
+| Praktische prioriteit | Airco, parking of publieke parking dichtbij, makkelijke check-in, loopafstand tot centrum |
+| Voor vijf personen | Waarschijnlijk twee units/kamers; veel aparthotel-appartementen gaan tot 4 personen |
+| Pont du Gard | Vanuit Nîmes ongeveer 30-40 minuten rijden, goed als korte rit op 12 of 13 juli |
+| Volgende rit | 13 juli door naar Beaune; Pont du Gard kan als ochtendstop vóór de lange rit als iedereen fris is |
 
 ## Kaart en bezienswaardigheden
 
-<div class="map-embed" role="group" aria-label="Google Maps kaart voor Nîmes en Pont du Gard">
-	<iframe title="Google Maps kaart Nîmes en Pont du Gard" src="https://www.google.com/maps?q=Pont%20du%20Gard%20Remoulins%20N%C3%AEmes%20Ar%C3%A8nes%20Maison%20Carr%C3%A9e%20Jardins%20de%20la%20Fontaine&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-	<p>Zoekkaart voor Remoulins, Pont du Gard en de compacte Nîmes-opties. Voor een vaste eigen Google-lijst kan deze embed later worden vervangen door een gedeelde My Maps-kaart.</p>
+<div class="map-embed" role="group" aria-label="Google Maps kaart voor Nîmes en korte ritten">
+	<iframe title="Google Maps kaart Nîmes bezienswaardigheden en Pont du Gard" src="https://www.google.com/maps?q=N%C3%AEmes%20Ar%C3%A8nes%20Maison%20Carr%C3%A9e%20Mus%C3%A9e%20de%20la%20Romanit%C3%A9%20Jardins%20de%20la%20Fontaine%20Tour%20Magne%20Pont%20du%20Gard&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	<p>Zoekkaart voor de compacte stadswandeling in Nîmes plus Pont du Gard als korte autorit. Voor een vaste eigen Google-lijst kan deze embed later worden vervangen door een gedeelde My Maps-kaart.</p>
 </div>
 
-- [Pont du Gard op Google Maps](https://www.google.com/maps/search/?api=1&query=Pont%20du%20Gard)
-- [Soko Hotels Pont du Gard op Google Maps](https://www.google.com/maps/search/?api=1&query=Soko%20Hotels%20Pont%20du%20Gard%2024%20Avenue%20du%20Pont%20du%20Gard%2030210%20Remoulins)
-- [Remoulins centrum op Google Maps](https://www.google.com/maps/search/?api=1&query=Remoulins%2030210)
 - [Arènes de Nîmes op Google Maps](https://www.google.com/maps/search/?api=1&query=Ar%C3%A8nes%20de%20N%C3%AEmes)
+- [Musée de la Romanité op Google Maps](https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20de%20la%20Romanit%C3%A9%20N%C3%AEmes)
 - [Maison Carrée op Google Maps](https://www.google.com/maps/search/?api=1&query=Maison%20Carr%C3%A9e%20N%C3%AEmes)
 - [Jardins de la Fontaine op Google Maps](https://www.google.com/maps/search/?api=1&query=Jardins%20de%20la%20Fontaine%20N%C3%AEmes)
+- [Tour Magne op Google Maps](https://www.google.com/maps/search/?api=1&query=Tour%20Magne%20N%C3%AEmes)
+- [Les Halles de Nîmes op Google Maps](https://www.google.com/maps/search/?api=1&query=Les%20Halles%20de%20N%C3%AEmes)
+- [Pont du Gard op Google Maps](https://www.google.com/maps/search/?api=1&query=Pont%20du%20Gard)
+- [Uzès op Google Maps](https://www.google.com/maps/search/?api=1&query=Uz%C3%A8s)
 
-## Verblijfsopties
+## Overnachtingen in Nîmes
 
 | Optie | Past voor 5? | Status | Waarom wel/niet |
 |---|---:|---|---|
-| [Soko Hotels Pont du Gard](https://www.sokohotels.com/en/home-english/) | Waarschijnlijk via kamercombinatie | <span class="status-check">eerste check</span> | Sterkste ligging: Remoulins, volgens eigen site 10 minuten lopen van Pont du Gard, airco, restaurant, familiegevoel. Check of twee kamers naast elkaar of passende familiekamer kan. |
-| Appartement/aparthotel Remoulins / Pont du Gard | Vaak ja | <span class="status-check">beste fallback</span> | Voor vijf personen meestal makkelijker dan hotelkamers. Filter op airco, zwembad, parking en één nacht toegestaan. |
-| ibis Styles Pont du Gard Route d'Avignon | Onzeker | <span class="status-check">check 1 of 2 kamers</span> | Routevriendelijk hoteltype met zwembad/parking-profiel; Accor-pagina ging in fetch naar loginflow, dus datumvoorraad handmatig controleren. |
-| RésidHotel / résidence Pont du Gard | Mogelijk ja | <span class="status-check">URL en datum checken</span> | Concept blijft goed voor vijf personen, maar de eerder bekende URL gaf 404; opnieuw zoeken via boekingssite of kaart. |
-| Nîmes centrumhotel | Via twee kamers | <span class="status-risk">alleen als stad prioriteit krijgt</span> | Mooi voor Arènes/Maison Carrée, maar minder relaxed voor parkeren, hitte en snelle doorreis. |
-| Gîte rond Vers-Pont-du-Gard | Ja | <span class="status-risk">minimumverblijf</span> | Kan perfect zijn qua ruimte/zwembad, maar één nacht midden juli is vaak niet beschikbaar. |
+| [Appart'City Collection Nîmes Arènes](https://www.appartcity.com/en/destinations/france/occitania/nimes/nimes-arenes) | Tot 4 per appartement; voor 5 waarschijnlijk 2 units | <span class="status-check">eerste check</span> | Toplocatie: 1 Boulevard de Bruxelles, 5 min lopen van station, centrumligging, publieke ondergrondse parking in de buurt, EV-laadpunten in de buurt volgens Appart'City. 24/7 receptie, airco/keuken, maar max 4 per appartement. |
+| [Odalys City Nîmes Arènes Palais des Congrès](https://www.odalys-vacances.com/location-mer/languedoc-roussillon/nimes/odalys-city-nimes-arenes-palais-des-congres.html) | Waarschijnlijk tot 4 per unit; check 2 units | <span class="status-check">tweede check</span> | Centraal aparthotel bij Arènes/Palais des Congrès. Odalys noemt Nîmes compact en goed te voet te bezoeken. Goede fallback naast Appart'City. |
+| Novotel Atria Nîmes Centre | Waarschijnlijk 2 kamers | <span class="status-check">check kamers + parking</span> | Klassieke hoteloptie in centrum, dicht bij station en Arènes. Goed als je hotelservice belangrijker vindt dan appartement. |
+| Maison Albar L'Imperator | Via 2 kamers/suite | <span class="status-risk">duur</span> | Prachtig en centraal bij Jardins de la Fontaine, maar waarschijnlijk te luxe/duur voor een praktische doorreisnacht. |
+| Hôtel C Suites | Mogelijk familiekamers/suites | <span class="status-check">check als zwembad wint</span> | Hotel met zwembad in Nîmes, maar buiten het directe centrum; je rijdt of pakt taxi/tram naar de stad. Goed als afkoelen belangrijker is dan lopen. |
+| Best Western L'Orangerie | Via 2 kamers | <span class="status-check">check als parking/zwembad wint</span> | Praktischer met auto dan midden in de oude stad, maar minder ideaal voor de avondwandeling te voet. |
+
+## Bezienswaardigheden op loopafstand
+
+| Plek | Waarom interessant | Praktisch |
+|---|---|---|
+| Arènes de Nîmes | Dé blikvanger: Romeins amfitheater midden in de stad. | Ideaal als startpunt, zeker als hotel bij Arènes/gare ligt. |
+| Musée de la Romanité | Modern museum naast de Arènes, handig bij hitte of als je context wilt. | Goed voor 1-2 uur; ook fijn als iemand even airco nodig heeft. |
+| Maison Carrée | Zeer fotogenieke Romeinse tempel in het centrum. | Korte wandeling vanaf Arènes; combineer met terras of ijs. |
+| Carré d'Art | Moderne architectuur tegenover Maison Carrée. | Meer kijkpunt dan must-do museum, tenzij jullie zin hebben. |
+| Les Halles de Nîmes | Overdekte markthal met eten en lokale producten. | Sterk voor ontbijt/lunch of snelle snack. Check openingstijden. |
+| Jardins de la Fontaine | Groene, schaduwrijkere stadswandeling met waterpartijen. | Fijn bij warm weer; iets verder lopen maar goed haalbaar. |
+| Tour Magne | Uitzichtpunt boven de Jardins de la Fontaine. | Alleen doen als iedereen nog benen over heeft. |
+| Castellum Aquae / Porte Auguste | Korte Romeinse restpunten in de stad. | Niet als hoofddoel plannen; leuk als je er langs loopt. |
+
+## Korte ritten vanuit Nîmes
+
+| Plek | Ruwe rijtijd | Wanneer doen |
+|---|---:|---|
+| Pont du Gard | 30-40 min | Beste autorit. Doe dit 12 juli einde middag/avond of 13 juli ochtend vóór Beaune. |
+| Uzès | 35-45 min | Mooi stadje, maar alleen als Pont du Gard niet genoeg is. Niet proppen. |
+| Aigues-Mortes / Camargue | 40-50 min | Leuk, maar voor één nacht waarschijnlijk te veel naast Nîmes. |
+| Avignon | 45-60 min | Alleen als alternatief; juli is druk en minder passend bij deze stop. |
 
 ## Aanpak voor boeken
 
-1. Check eerst **Soko Hotels Pont du Gard** direct en/of via Booking: 12-13 juli 2026, 2 volwassenen + 3 tieners, airco, parking, ontbijt/restaurant en kamerindeling.
-2. Als Soko niet past: zoek appartement/aparthotel rond **Remoulins / Vers-Pont-du-Gard** met zwembad, airco en parking.
-3. Gebruik Nîmes centrum alleen als jullie bewust voor Romeinse stad boven zwem-/routegemak kiezen.
-4. Boek niets zonder heldere check-in-instructie; aankomst na Sant Antoni kan makkelijk later worden dan gepland.
-
-## Highlights op de radar
-
-| Highlight | Waarom interessant | Praktisch |
-|---|---|---|
-| Pont du Gard | UNESCO-site, hoogste Romeinse aquaductbrug, buitenactiviteit met grote wow-factor. | Beste hoofdactiviteit. Ga einde middag/avond voor minder hitte; parking apart betalen. |
-| Museum / cinema / Ludo bij Pont du Gard | Handig als het te heet is of als jullie meer context willen. | Officiële ticketing noemt 1-2 uur voor de culturele zones. |
-| Licht-/geluidsshow Pont du Gard | In 2026 officieel genoemd van 4 juli t/m 30 augustus om 22:30. | Alleen doen als iedereen nog energie heeft; volgende dag wacht Beaune. |
-| Arènes de Nîmes | Iconische Romeinse arena, goed voor een korte stadsfocus. | Combineer met Maison Carrée; let op centrumparkeren en hitte. |
-| Maison Carrée | Compact, centraal en indrukwekkend zonder lange wandeling. | Goede ochtendstop als je vroeg uitcheckt en pas later naar Beaune wilt. |
-| Jardins de la Fontaine | Groener en schaduwrijker dan alleen stenen monumenten. | Fijne pauzeplek bij warm weer. |
-| Avignon | Palais des Papes en Pont d'Avignon zijn aantrekkelijk. | Alleen als plan B; juli is druk en minder logisch voor deze route-stop. |
+1. Check eerst Appart'City Collection Nîmes Arènes: 12-13 juli 2026, 2 volwassenen + 3 tieners, waarschijnlijk 2 units nodig.
+2. Check daarna Odalys City Nîmes Arènes Palais des Congrès met dezelfde filters.
+3. Als twee aparthotel-units te duur/onhandig zijn: Novotel Atria of ander centrumhotel met twee kamers en parking.
+4. Als zwembad belangrijker wordt dan loopafstand: C Suites of Best Western L'Orangerie checken, maar dan bewust accepteren dat je niet vanzelf in de oude stad zit.
 
 ## Mogelijk dagritme
 
-**12 juli:** Sant Antoni uitrijden, aankomst bij hotel rond Remoulins, zwemmen/afkoelen, daarna Pont du Gard einde middag of avond. Eten simpel houden: hotelrestaurant, Remoulins of iets dicht bij de accommodatie.
+**12 juli:** Sant Antoni uitrijden, aankomst Nîmes, auto parkeren, airco/check-in. Daarna lopend: Arènes, Musée de la Romanité of Maison Carrée, eten in centrum, eventueel Jardins de la Fontaine als het niet te heet is.
 
-**13 juli:** rustig ontbijt, eventueel korte blik op Nîmes als iedereen zin heeft, daarna door naar Beaune. Bij hitte of vermoeidheid: Nîmes overslaan en de marge bewaren voor de rit.
+**13 juli:** óf vroeg Pont du Gard als korte autorit vóór Beaune, óf rustig ontbijt/Les Halles en direct doorrijden. Bij hitte of vermoeidheid: Pont du Gard bewaren als optioneel, niet als verplicht nummer.
 
 ## Bronnen om later terug te pakken
 
-- [Pont du Gard officiële site](https://pontdugard.fr/en)
-- [Pont du Gard praktische informatie](https://pontdugard.fr/en/getting-here)
-- [Pont du Gard ticketing](https://billetterie.pontdugard.fr/en-GB/individuals)
-- [Soko Hotels Pont du Gard](https://www.sokohotels.com/en/home-english/)
 - [Nîmes Tourisme](https://www.nimes-tourisme.com/en/)
 - [Nîmes Tourisme ticketing](https://www.nimes-tourisme.com/en/billetterie/)
-- [Avignon Tourisme](https://www.avignon-tourisme.com/en/)
+- [Appart'City Collection Nîmes Arènes](https://www.appartcity.com/en/destinations/france/occitania/nimes/nimes-arenes)
+- [Odalys City Nîmes Arènes Palais des Congrès](https://www.odalys-vacances.com/location-mer/languedoc-roussillon/nimes/odalys-city-nimes-arenes-palais-des-congres.html)
+- [Pont du Gard officiële site](https://pontdugard.fr/en)
+- [Pont du Gard praktische informatie](https://pontdugard.fr/en/getting-here)
 
 ## Nog doen
 
-- [ ] Soko Hotels direct checken op 12-13 juli 2026 voor vijf personen of twee kamers.
-- [ ] Appartementen rond Remoulins/Pont du Gard als fallback checken.
-- [ ] Beslissen of Pont du Gard avondlichtshow realistisch is of te laat met de rit naar Beaune erna.
+- [ ] Appart'City en Odalys checken op 12-13 juli 2026 voor 5 personen / 2 units.
+- [ ] Bij centrumhotel expliciet parkinghoogte, laadmogelijkheid en check-in checken.
+- [ ] Beslissen of Pont du Gard op 13 juli ochtend past vóór de rit naar Beaune.
 - [ ] Na boeken: shortlist verwijderen en alleen boekingsdetails zonder privégegevens laten staan.
 
 ## Let op
 
-- Zondag 12 juli zit in hoogseizoen; boek deze stop snel zodra de kamerindeling klopt.
-- Airco is belangrijker dan charme.
-- Parking bij Pont du Gard staat los van sommige tickets; reken die apart.
+- Voor vijf personen is één centrumappartement waarschijnlijk lastig; reken realistisch op twee units/kamers.
+- Nîmes centrum is precies de reden voor deze keuze: niet buiten de stad boeken tenzij zwembad/parking zwaarder weegt.
+- Airco is in juli belangrijker dan charme.
 - Laat geen boekingsnummers, betaalgegevens of privégegevens op deze publieke pagina staan.
