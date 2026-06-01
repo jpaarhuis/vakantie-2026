@@ -37,7 +37,7 @@ Beschikbaarheidscheck bijgewerkt op 22 mei 2026. Waar een boekingssite geen hard
 | Carcassonne | Loft centre-ville Parking, clim, wifi | <span class="status-ok">geboekt</span> Booking.com: huis met 3 slaapkamers voor 4-5 juli 2026; adres en parkeerinstructies nog offline bewaren. |
 | Sant Antoni | Eurocamping Best Village | <span class="status-ok">geboekt</span> Eurocamping Best Village is vastgelegd voor 5-12 juli 2026; check-in express en betaalstatus later nog praktisch controleren. |
 | Nîmes / Uzès / Pont du Gard | Airbnb in Arpaillargues-et-Aureillac | <span class="status-ok">geboekt</span> Home in Arpaillargues-et-Aureillac geboekt voor 12-13 juli; gratis annuleren tot 11 juli 17:00. Op 12 juli Nîmes bekijken, volgende ochtend Uzès/Pont du Gard en daarna door naar Beaune. |
-| Beaune | B&B HOTEL Beaune Nord | <span class="status-risk">boekingscorrectie nodig</span> Foutief 14-15 juli geboekt; gewenste nacht is 13-14 juli. Eerst juiste nacht vastleggen, daarna foutieve flexibele boeking annuleren. |
+| Beaune | B&B HOTEL Beaune Nord | <span class="status-ok">geboekt</span> B&B HOTEL Beaune Nord is geboekt voor 13-14 juli 2026; twee kamers, ontbijt en flexibele annulering volgens bevestiging. Boekingsnummer, bedrag en namen offline bewaren. |
 
 ## Hoofdadvies
 
@@ -65,7 +65,7 @@ Een gezin van vijf is in Frankrijk net onhandig: veel familiekamers stoppen bij 
 | Carcassonne | Loft centre-ville Parking, clim, wifi | Geboekt; centrale tussenstop met airco en parking |
 | Sant Antoni | Eurocamping Best Village | Geboekt; hoofdweek aan de Costa Brava met privézwembadzone |
 | Nîmes / Uzès / Pont du Gard | Airbnb in Arpaillargues-et-Aureillac | Geboekt; 12 juli Nîmes, overnachten bij Uzès, 13 juli Uzès/Pont du Gard vóór Beaune |
-| Beaune | B&B HOTEL Beaune Nord | Mobiliteit eerst: snelweg dichtbij, parking, EV-lader; datum nog corrigeren naar 13-14 juli |
+| Beaune | B&B HOTEL Beaune Nord | Geboekt; mobiliteit eerst: snelweg dichtbij, parking, EV-lader en snelle terugrit naar Nederland |
 
 ## Nog controleren vóór boeken
 
