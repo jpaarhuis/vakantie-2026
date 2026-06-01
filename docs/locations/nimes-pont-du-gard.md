@@ -1,20 +1,20 @@
-# Uzès / Pont du Gard
+# Nîmes / Uzès / Pont du Gard
 
 **Reisdata:** 12 tot 13 juli 2026, één nacht.  
-**Doel:** rustige overnachting bij Uzès/Pont du Gard, met Nîmes optioneel en Pont du Gard + Uzès op 13 juli vóór Beaune.
+**Doel:** vroeg vertrekken uit Sant Antoni, Nîmes bekijken op 12 juli, daarna overnachten bij Uzès; op 13 juli Uzès en Pont du Gard meepakken vóór Beaune.
 **Gezelschap:** twee volwassenen en drie tieners.
 
 ## Status
 
 Status op 1 juni 2026: <span class="status-ok">Airbnb geboekt</span>
 
-Geboekt: **Home in Arpaillargues-et-Aureillac**, bij Uzès en praktisch voor Pont du Gard. Dit verschuift de stop van “Nîmes te voet” naar **Uzès + Pont du Gard op 13 juli**, daarna door naar Beaune.
+Geboekt: **Home in Arpaillargues-et-Aureillac**, bij Uzès en praktisch voor Pont du Gard. De dagindeling wordt nu: **Nîmes op 12 juli**, daarna naar de Airbnb; **Uzès + Pont du Gard op 13 juli**, daarna door naar Beaune.
 
 Belangrijk om te onthouden: gratis annuleren kan tot **11 juli, 17:00**. Dat geeft nog ruimte als de route of planning later verandert. Geen bevestigingscode of privégegevens op deze publieke pagina zetten.
 
 <figure class="place-hero">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Arena_of_Nimes_banner.jpg" alt="Arena van Nîmes in het centrum" loading="eager" decoding="async">
-  <figcaption><strong>Nîmes centrum.</strong> De stop draait om de stad zelf: Arènes, Maison Carrée, Romeinse resten, terrassen en een compacte avondwandeling. Bron: <a href="https://commons.wikimedia.org/wiki/File:Arena_of_Nimes_banner.jpg">Wikimedia Commons</a>.</figcaption>
+  <figcaption><strong>Nîmes centrum.</strong> De stop op 12 juli draait om de stad zelf: Arènes, Maison Carrée, Romeinse resten, terrassen en een compacte wandeling. Bron: <a href="https://commons.wikimedia.org/wiki/File:Arena_of_Nimes_banner.jpg">Wikimedia Commons</a>.</figcaption>
 </figure>
 
 <div class="image-gallery" aria-label="Nîmes en Pont du Gard beeldgalerie">
@@ -34,7 +34,7 @@ Belangrijk om te onthouden: gratis annuleren kan tot **11 juli, 17:00**. Dat gee
 
 ## Locatie
 
-De overnachting ligt in **Arpaillargues-et-Aureillac**, vlak bij Uzès en logisch ten opzichte van Pont du Gard. Nîmes blijft mogelijk als korte stadsstop, maar is niet meer het zwaartepunt van deze etappe. Exact adres en check-ininstructies blijven offline bij de Airbnb-boeking.
+De overnachting ligt in **Arpaillargues-et-Aureillac**, vlak bij Uzès en logisch ten opzichte van Pont du Gard. Nîmes is de bewuste stadsstop op 12 juli; Uzès en Pont du Gard zijn de logische stops op 13 juli. Exact adres en check-ininstructies blijven offline bij de Airbnb-boeking.
 
 ## Reisinfo voor onderweg
 
@@ -46,13 +46,14 @@ De overnachting ligt in **Arpaillargues-et-Aureillac**, vlak bij Uzès en logisc
 | Voor vijf personen | 2 volwassenen + 3 kinderen/tieners geboekt; huisregels noemen maximaal 9 gasten |
 | Praktische pluspunten | Airco, zwembad, lockbox/self check-in, bedlinnen en handdoeken inbegrepen |
 | Annulering | Gratis annuleren tot 11 juli 17:00; daarna niet restitueerbaar |
+| 12 juli plan | Vroeg vertrekken uit Sant Antoni, Nîmes bekijken, daarna naar de Airbnb bij Uzès |
 | 13 juli plan | Vroeg uitchecken, Uzès en Pont du Gard meepakken, daarna door naar Beaune |
 
 ## Kaart en bezienswaardigheden
 
 <div class="map-embed" role="group" aria-label="Google Maps kaart voor Arpaillargues, Uzès en Pont du Gard">
   <iframe title="Google Maps kaart Arpaillargues Uzès Pont du Gard Nîmes" src="https://www.google.com/maps?q=Arpaillargues-et-Aureillac%20Uz%C3%A8s%20Pont%20du%20Gard%20N%C3%AEmes&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <p>Zoekkaart voor de geboekte overnachting bij Arpaillargues-et-Aureillac, met Uzès en Pont du Gard als logische stops op 13 juli.</p>
+  <p>Zoekkaart voor Nîmes op 12 juli en de geboekte overnachting bij Arpaillargues-et-Aureillac, met Uzès en Pont du Gard als logische stops op 13 juli.</p>
 </div>
 
 - [Airbnb-listing op Airbnb](https://www.airbnb.com/rooms/1541222468825533916)
@@ -92,14 +93,13 @@ De overnachting ligt in **Arpaillargues-et-Aureillac**, vlak bij Uzès en logisc
 
 | Plek | Waarom interessant | Praktisch |
 |---|---|---|
-| Uzès | Mooie, compacte stad vlak bij de overnachting. | Beste eerste stop op 13 juli als iedereen op tijd weg is. Houd het licht: wandelen, koffie, markt/centrum als timing klopt. |
+| Nîmes centrum | Stadstop voor de volledigheid: Romeins erfgoed, terrassen en compacte wandeling. | Doen op 12 juli vóór de Airbnb. Focus op Arènes, Maison Carrée en eventueel Jardins de la Fontaine. |
+| Uzès | Mooie, compacte stad vlak bij de overnachting. | Eerste stop op 13 juli als iedereen op tijd weg is. Houd het licht: wandelen, koffie, markt/centrum als timing klopt. |
 | Pont du Gard | De sterke Romeinse hoofdstop voor deze etappe. | Logische stop na Uzès of direct als het warm wordt. Daarna door naar Beaune. |
-| Arènes de Nîmes | Iconische Nîmes-optie. | Alleen op 12 juli als jullie vroeg en fit aankomen; niet meer forceren. |
-| Maison Carrée / Jardins de la Fontaine | Compacte stadswandeling in Nîmes. | Mooie bonus, maar minder logisch dan Uzès/Pont du Gard na deze boeking. |
 
 ## Mogelijk dagritme
 
-**12 juli:** Sant Antoni uitrijden richting Arpaillargues-et-Aureillac. Check-in kan na 17:00 via lockbox. Plan vooral rustig aankomen, spullen neerzetten, eten en afkoelen. Nîmes centrum alleen doen als jullie verrassend vroeg en fit aankomen.
+**12 juli:** vroeg vertrekken uit Sant Antoni. Eerst Nîmes bekijken voor de volledigheid: Arènes, Maison Carrée en eventueel Jardins de la Fontaine als het qua hitte en energie past. Daarna door naar Arpaillargues-et-Aureillac; check-in kan na 17:00 via lockbox. Plan bij aankomst vooral rustig eten, afkoelen en niet nog een extra programma.
 
 **13 juli:** vóór 10:00 uitchecken. Daarna Uzès en Pont du Gard meenemen, en vervolgens door naar Beaune. Bij warmte of vertraging: kies Pont du Gard als hoofdstop en houd Uzès kort.
 
@@ -114,11 +114,12 @@ De overnachting ligt in **Arpaillargues-et-Aureillac**, vlak bij Uzès en logisc
 
 - [ ] Airbnb-details offline bewaren: adres, hostcontact, lockbox/check-ininstructies en routebeschrijving.
 - [ ] Parkeren bij/rond het huis praktisch checken in Airbnb-berichten of Google Maps.
+- [ ] Route 12 juli bepalen: waar parkeren in Nîmes en hoeveel tijd daar realistisch is vóór check-in bij Uzès.
 - [ ] Route 13 juli bepalen: Uzès eerst of Pont du Gard eerst, afhankelijk van hitte en vertrektijd.
 - [ ] Als het plan toch wijzigt: annuleren kan gratis tot 11 juli 17:00.
 
 ## Let op
 
-- Deze stop is nu Uzès / Pont du Gard-first; Nîmes centrum is bonus, geen verplichting.
+- Nîmes staat op 12 juli bewust in het plan, maar compact houden zodat check-in en rust bij Uzès niet in de knel komen.
 - Airco en soepel uitchecken zijn belangrijker dan nog een extra stadsprogramma proppen.
 - Laat geen boekingsnummers, betaalgegevens of privégegevens op deze publieke pagina staan.
