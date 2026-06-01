@@ -1,14 +1,16 @@
 # Beaune
 
-**Reisdata:** 13 tot 15 juli 2026, twee nachten.  
-**Doel:** laatste rustiger tussenstation in Bourgogne, met 14 juli als activiteitendag en 15 juli als lange terugrit naar Nederland.
+**Reisdata:** 14 tot 15 juli 2026, één nacht.
+**Doel:** laatste praktische tussenstop in Bourgogne, met 14 juli als korte Beaune-dag en 15 juli als lange terugrit naar Nederland.
 **Gezelschap:** twee volwassenen en drie tieners.
 
 ## Status
 
 Status op 1 juni 2026: <span class="status-check">shortlist gestart</span>
 
-Beaune blijft logisch als laatste stop: compact centrum, Hospices de Beaune, wijnroute, goede A6-aansluiting en genoeg opties voor een rustige dag zonder weer een grote stad te hoeven doen. Rond **14 juli** is vroeg boeken extra belangrijk door Franse nationale feestdag, drukte en mogelijk afwijkende openingstijden.
+Beaune blijft logisch als laatste stop: compact centrum, Hospices de Beaune, goede A6-aansluiting en genoeg opties voor een rustige dag zonder weer een grote stad te hoeven doen. Rond **14 juli** is vroeg boeken extra belangrijk door Franse nationale feestdag, drukte en mogelijk afwijkende openingstijden.
+
+Nieuw boekingsprofiel: voor één nacht telt **mobiliteit en bereikbaarheid zwaarder dan centrumligging**. Ideaal is parkeren zonder gedoe, snelle aansluiting op A6/A31/A36, airco en liefst één unit voor vijf. Als één unit niet lukt, zijn twee praktische kamers bij een snelwegvriendelijk hotel acceptabeler dan een sfeervolle centrumplek met parkeerstress.
 
 <figure class="place-hero">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Hospices_beaune_toits1.jpg" alt="Geglazuurde daken van de Hospices de Beaune" loading="eager" decoding="async">
@@ -36,10 +38,12 @@ Voor Beaune zijn er twee logische richtingen:
 
 | Zone | Waarom handig | Aandachtspunt |
 |---|---|---|
+| Beaune Nord / Savigny-lès-Beaune / afrit 24 | Beste stopover-logica: direct bij A6/A31/A36, snel weg richting Nederland, minder centrumdrukte. | Centrum/Hospices meestal met auto/taxi; hotelkamers vaak max 4 personen. |
 | Beaune Sud / Palais des Congrès / A6 | Praktisch voor aankomst vanaf Pont du Gard en vertrek naar Nederland; veel hotels met parking en soms laadpunt. | Minder sfeervol dan centrum, maar meestal makkelijk parkeren en snel weg. |
 | Centrum / Hospices | Mooier voor avondwandeling, eten en Hospices zonder auto. | Voor vijf personen vaak twee kamers, duurder en parkeren kan beperkter zijn. |
+| Montagny-lès-Beaune / Levernois / randdorpen | Interessant voor één ruime unit, parking, EV en rust; vaak makkelijker dan centrum. | Beschikbaarheid voor één nacht en prijs goed checken. |
 
-Mijn eerste gevoel: **B&B Beaune Sud 2 of B&B Beaune Sud 1** als praktische prijs/parking/laad-optie, **Campanile** als comfort/zwembad/restaurant zwaarder weegt, en **Kyriad** als tussenweg. Centrumhotels blijven interessant voor sfeer, maar zijn vermoedelijk duurder en minder robuust voor vijf personen.
+Mijn eerste gevoel na herweging: **B&B HOTEL Beaune Nord** is de beste pure mobiliteitskeuze als twee kamers oké zijn. Als één unit voor vijf zwaarder weegt, zijn **Beaune Hôtel** en **Hostellerie de la Bretonnière** de beste officiële vondsten: allebei noemen expliciet 5-persoons familiekamers/suites. **Hôtel Le Clos** blijft interessant als charmante randdorpoptie met familieconfiguratie + extra bed op aanvraag, plus parking, EV en zwembad.
 
 ## Kaart
 
@@ -58,23 +62,29 @@ Mijn eerste gevoel: **B&B Beaune Sud 2 of B&B Beaune Sud 1** als praktische prij
 
 | Optie | Opzet voor 5 | Rating / bronindruk | Parking / laden | Praktisch oordeel |
 |---|---|---|---|---|
-| [B&B HOTEL Beaune Sud 2](https://www.hotel-bb.com/en/hotel/beaune-sud-2) | Waarschijnlijk 2 kamers; kamerindeling checken | 4.2/5 uit B&B-pagina; 900 m centrum, 600 m Hospices | Gratis afgesloten parking, EV-lader, automatische receptie | **Sterke eerste check**: goedkoop-praktisch, dicht genoeg bij centrum, goed voor aankomst/vertrek. |
-| [B&B HOTEL Beaune Sud 1 Palais des Congrès](https://www.hotel-bb.com/en/hotel/beaune-sud-1-palais-des-congres) | Waarschijnlijk 2 kamers; kamerindeling checken | 4.1/5 uit B&B-pagina; 900 m centrum, bij Palais des Congrès | Gratis afgesloten parking, EV-lader, automatische receptie | Vergelijkbaar met Sud 2; kies op prijs, beschikbaarheid en kameropzet. |
-| [Campanile Beaune](https://beaune.campanile.com/en-us/) | Waarschijnlijk 2 kamers; standaardkamer max lijkt beperkt | 4.1 TrustYou; 3 km centrum | Beveiligde parking, EV-laadpunt, restaurant, buitenzwembad | **Beste comfort-roadtripoptie** door zwembad/restaurant/laden; centrum minder lopend. |
-| [Kyriad Beaune](https://beaune.kyriad.com/en-us/) | Waarschijnlijk 2 kamers; standaardkamer tot 4 volgens pagina | 4.1 TrustYou; circa 1 km centrum | Beveiligde parking, restaurant/bar, airco | Goede middenoptie als B&B vol/duur is of Campanile te ver voelt. |
-| Mercure Beaune Centre | Waarschijnlijk 2 kamers | Accor-pagina redirectte naar login, dus apart controleren | Bekend als centrum/zwembad-kandidaat, maar details opnieuw checken | Interessant als centrum + zwembad belangrijker zijn dan laagste prijs. |
-| Novotel Beaune | Mogelijk familievriendelijk, maar details opnieuw checken | Accor-pagina redirectte naar login | Apart controleren | Kan goed zijn voor gezin/zwembad, maar ligt waarschijnlijk praktischer dan sfeervol. |
-| [Logis Hôtel Belle Époque](https://www.hotel-belleepoque-beaune.com/en/) | Capaciteit voor 5 expliciet vragen | Charmant centrumhotel; check-in vanaf 15:00, check-out 11:00 | Parking/ruimte checken | Sfeeroptie dicht bij centrum; alleen zinnig als 5 personen netjes past. |
+| [B&B HOTEL Beaune Nord](https://www.hotel-bb.com/en/hotel/beaune-nord) | Waarschijnlijk 2 kamers; B&B noemt tot 4-persoonskamers voor families | 4.3/5 uit B&B-pagina; 2 min van A6, 5 min van centrum/Hospices | Gratis parking met cameratoezicht, EV-lader, automatische receptie | **Nieuwe nummer 1 voor mobiliteit**: beste stopover-ligging, snel naar Nederland, geen centrumgedoe. Eén unit voor 5 waarschijnlijk niet haalbaar. |
+| [Beaune Hôtel](https://www.beaunehotel.com/chambres-et-suites-hotel-beaune-bourgogne) | Echte suites voor 5: begane grond 45 m² met 2 communicerende kamers of 1e verdieping 26 m² | 9.1/10 eigen reviewblok; 5 min lopen van historisch centrum | Privéparking tegen betaling, EV-laadpunt, airco | **Beste bewezen één-unit-voor-5-kandidaat**. Minder snelweggericht dan B&B Nord, maar zeer passend qua gezinsopzet. |
+| [Hostellerie de la Bretonnière](https://www.hotelbretonniere.com/infos-offres-hotel-beaune-bourgogne,chambre-familiale-5-personnes,1605) | Echte familiekamer voor 5: 2 tweepersoonsbedden + 1 eenpersoonsbed, gelijkvloers in tuin | Expliciete kamerpagina voor 5 personen | Gratis beveiligde parking, airco; check EV apart | **Sterke één-kameroptie voor 5**. Goede balans als één unit zwaarder weegt dan snelwegafstand. |
+| [Maison Cabotte](https://maison-cabotte-beaune.com/en/rooms-for-3-to-5-people/) | Pagina voor kamers 3-5 personen, details niet goed uitgelezen | Officiële pagina + zoekresultaat noemt gratis bewaakte parking | Parking lijkt sterk punt; airco/soundproofing genoemd | Interessante check, vooral als prijs/annulering goed is; officiële details nog handmatig controleren. |
+| [Hôtel Le Clos](https://www.hotelleclos.com/en/chambres) | Familieopzet: 2 communicerende kamers voor 4, extra bed op aanvraag | 9.2 Fairguest via toerisme; 4-sterren in Montagny-lès-Beaune | Parking, EV-laden, zwembad, airco | Mooie randdorpoptie; minder hard bewezen voor 5 dan Beaune Hôtel/Bretonnière, maar veel comfort. |
+| [Campanile Beaune](https://beaune.campanile.com/en-us/) | Waarschijnlijk 2 kamers; standaardkamer max lijkt 3 | 4.1 TrustYou; 3 km centrum, goede autobereikbaarheid | Beveiligde parking, EV-laadpunt, restaurant, buitenzwembad | **Beste comfort-roadtripoptie** door zwembad/restaurant/laden; goed voor één nacht zonder centrumstress. |
+| [B&B HOTEL Beaune Sud 2](https://www.hotel-bb.com/en/hotel/beaune-sud-2) | Waarschijnlijk 2 kamers; B&B-familiekamers tot 4 | 4.2/5 uit B&B-pagina; 900 m centrum, 600 m Hospices | Gratis afgesloten parking, EV-lader, automatische receptie | Sterk als Hospices/centrum te voet belangrijk blijft; minder logisch dan Nord als mobiliteit de hoofdzaak is. |
+| [B&B HOTEL Beaune Sud 1 Palais des Congrès](https://www.hotel-bb.com/en/hotel/beaune-sud-1-palais-des-congres) | Waarschijnlijk 2 kamers; B&B-familiekamers tot 4 | 4.1/5 uit B&B-pagina; 900 m centrum, bij Palais des Congrès | Gratis afgesloten parking, EV-lader, automatische receptie | Vergelijkbaar met Sud 2; kies alleen boven Nord als centrum/Hospices nog zwaarder weegt. |
+| Novotel Beaune | Waarschijnlijk 2 kamers; gezinskamer-capaciteit apart checken | 8.4 Fairguest via toerisme; 127 kamers | Parking, zwembad, airco; Accor-pagina redirectte naar login | Interessant als grote hotelzekerheid/zwembad belangrijk is. Niet beste voor één unit. |
+| [Château de Challanges](https://www.chateaudechallanges.com/en/rooms/) | Mooie ruime opties, maar officiële kamerinfo lijkt max 4 voor Rotonde en 3 voor suite | 8.9 Fairguest via toerisme | Parking, zwembad, EV-laden volgens site | Sfeer/comfort, maar voor 5 minder passend dan Le Clos en waarschijnlijk duurder. |
+| [Kyriad Beaune](https://beaune.kyriad.com/en-us/) | Waarschijnlijk 2 kamers; standaardkamer tot 4 volgens pagina | 4.1 TrustYou; circa 1 km centrum | Beveiligde parking, restaurant/bar, airco | Degelijke back-up, maar zonder EV/pool-signaal minder sterk dan B&B Nord, Campanile of Le Clos. |
+| Mercure Beaune Centre | Waarschijnlijk 2 kamers | Accor-pagina redirectte naar login, dus apart controleren | Bekend als centrum/zwembad-kandidaat, maar details opnieuw checken | Minder logisch nu centrum niet belangrijk is. |
+| [Logis Hôtel Belle Époque](https://www.hotel-belleepoque-beaune.com/en/) | Capaciteit voor 5 expliciet vragen | Charmant centrumhotel; check-in vanaf 15:00, check-out 11:00 | Parking/ruimte checken | Sfeeroptie dicht bij centrum; zakt omlaag door mobiliteitscriterium. |
 | [L'Hôtel de Beaune](https://www.lhoteldebeaune.com/en/) | Suites mogelijk ruim, maar luxe segment | Zeer luxe centrumoptie | Niet de praktische default | Alleen als jullie bewust luxe willen; waarschijnlijk te duur voor roadtripbalans. |
 | Gîte / Airbnb rond Beaune, Pommard, Savigny of Meursault | Vaak goed voor 5 | Afhankelijk van aanbieder | Parking vaak beter, laden expliciet vragen | Ruim en fijn, maar rond 14 juli vaak minimumverblijf of dure kalender. |
 
 ## Aanpak voor boeken
 
-1. Check eerst B&B Sud 2 en B&B Sud 1 op 13-15 juli, 5 personen, twee kamers, airco, gratis annuleren en EV-lader.
-2. Zet Campanile ernaast als comfortoptie door zwembad, restaurant en laadpunt; accepteer dat centrum dan eerder met auto/taxi is.
-3. Check Kyriad als middenweg: dichter bij centrum dan Campanile, wel praktisch met parking/restaurant.
-4. Alleen daarna Accor-opties zoals Mercure/Novotel checken, omdat de officiële pagina’s nu niet betrouwbaar uitleesbaar waren.
-5. Centrumopties zoals Belle Époque alleen doen als parkeren en capaciteit voor vijf hard bevestigd zijn.
+1. Check eerst **B&B Beaune Nord** voor 14-15 juli als mobiliteit boven alles gaat: waarschijnlijk 2 kamers, maar snelste stopover-logica.
+2. Check direct daarna de echte 5-persoonsopties: **Beaune Hôtel**, **Hostellerie de la Bretonnière** en **Maison Cabotte**. Let op één nacht, annuleerbaarheid, airco, parking en EV.
+3. Check **Hôtel Le Clos** als comfort/rust/zwembad aantrekkelijker is en extra bed in familieopzet bevestigd kan worden.
+4. Zet **Campanile** ernaast als praktische comfortoptie door zwembad, restaurant en laadpunt; accepteer dat het waarschijnlijk 2 kamers wordt.
+5. Check **B&B Sud 2 / Sud 1** alleen als Hospices/centrum te voet toch belangrijker blijkt dan snelle snelweglogica.
 
 ## Activiteiten voor 14 juli
 
@@ -113,9 +123,9 @@ Nog later checken: gemeentelijke agenda van Beaune, toerisme-agenda en eventueel
 
 ## Mogelijk dagritme
 
-**13 juli:** na Uzès en Pont du Gard door naar Beaune. Aankomst, parkeren, inchecken, simpel eten. Geen zwaar programma meer plannen.
+**14 juli:** vanuit vorige stop naar Beaune. Als aankomst vroeg genoeg is: Hospices de Beaune met ticket als hoofdactiviteit, daarna centrumwandeling en lunch/avondeten. Bij latere aankomst: alleen centrum/eten en Hospices overslaan of kort houden.
 
-**14 juli:** Hospices de Beaune als hoofdactiviteit met ticket. Daarna centrumwandeling en lunch. Kies daarna één niet-wijnactiviteit: Fallot-mosterdmuseum, Château de Savigny-lès-Beaune of Les Étangs d'Or. Bij hitte: terug naar hotel/zwembad en alleen ’s avonds centrum.
+**Middagkeuze 14 juli:** kies één niet-wijnactiviteit als er energie is: Fallot-mosterdmuseum, Château de Savigny-lès-Beaune of Les Étangs d'Or. Bij hitte: terug naar hotel/zwembad en alleen ’s avonds centrum.
 
 **15 juli:** vroeg ontbijt, auto laden indien mogelijk, lange rit naar Nederland. Verblijf kiezen op soepele parking en snelle route-uitgang.
 
@@ -131,16 +141,26 @@ Nog later checken: gemeentelijke agenda van Beaune, toerisme-agenda en eventueel
 - [Ville de Beaune - agenda](https://www.beaune.fr/agenda/)
 - [B&B HOTEL Beaune Sud 2](https://www.hotel-bb.com/en/hotel/beaune-sud-2)
 - [B&B HOTEL Beaune Sud 1 Palais des Congrès](https://www.hotel-bb.com/en/hotel/beaune-sud-1-palais-des-congres)
+- [B&B HOTEL Beaune Nord](https://www.hotel-bb.com/en/hotel/beaune-nord)
 - [Campanile Beaune](https://beaune.campanile.com/en-us/)
 - [Kyriad Beaune](https://beaune.kyriad.com/en-us/)
+- [Beaune Hôtel - suites voor 4 tot 5 personen](https://www.beaunehotel.com/chambres-et-suites-hotel-beaune-bourgogne)
+- [Hostellerie de la Bretonnière - chambre familiale 5 personnes](https://www.hotelbretonniere.com/infos-offres-hotel-beaune-bourgogne,chambre-familiale-5-personnes,1605)
+- [Maison Cabotte - rooms for 3 to 5 people](https://maison-cabotte-beaune.com/en/rooms-for-3-to-5-people/)
+- [Hôtel Le Clos - kamers en familieopzet](https://www.hotelleclos.com/en/chambres)
+- [Château de Challanges - kamers](https://www.chateaudechallanges.com/en/rooms/)
 - [Logis Hôtel Belle Époque](https://www.hotel-belleepoque-beaune.com/en/)
 - [L'Hôtel de Beaune](https://www.lhoteldebeaune.com/en/)
 
 ## Nog doen
 
-- [ ] B&B Sud 2 en B&B Sud 1 controleren voor 13-15 juli, 5 personen, twee kamers en annuleerbaarheid.
-- [ ] Campanile controleren op beschikbaarheid, kameropzet, EV-laadpunt en zwembadopening.
-- [ ] Kyriad controleren als middenoptie.
+- [ ] B&B Beaune Nord controleren voor 14-15 juli, 5 personen, twee kamers, annuleerbaarheid en EV-lader.
+- [ ] Beaune Hôtel controleren: suite familiale 5 personnes, begane grond vs verdieping, privéparking, EV-lader, totaalprijs.
+- [ ] Hostellerie de la Bretonnière controleren: chambre familiale 5 personnes, gratis beveiligde parking, EV-optie, totaalprijs.
+- [ ] Maison Cabotte controleren: kamer 3-5 personen, gratis bewaakte parking, details bedden, totaalprijs.
+- [ ] Hôtel Le Clos controleren voor familieopzet + extra bed: past dit echt voor 5, is één nacht mogelijk, wat is de totaalprijs?
+- [ ] Campanile controleren op beschikbaarheid, twee kamers, EV-laadpunt, restaurant en zwembadopening.
+- [ ] B&B Sud 2 / Sud 1 alleen vergelijken als centrum/Hospices te voet toch belangrijk blijft.
 - [ ] Restaurant voor 14 juli reserveren zodra verblijf vaststaat.
 - [ ] Hospices-tickets checken/kopen voor 14 juli, liefst ochtend of vroege middag.
 - [ ] Beslissen welke niet-wijnactiviteit ernaast past: Fallot, Château de Savigny-lès-Beaune of Les Étangs d'Or.
