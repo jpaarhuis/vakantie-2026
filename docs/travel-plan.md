@@ -13,8 +13,8 @@ Beschikbaarheidscheck bijgewerkt op 22 mei 2026. Waar een boekingssite geen hard
 | 4 juli 2026 | Beauval → Carcassonne | Zuidwaarts, middeleeuwse stad |
 | 5 juli 2026 | Carcassonne → Sant Antoni | Korte eindrit naar de kust |
 | 5–12 juli 2026 | Sant Antoni | Verblijf op Eurocamping |
-| 12 juli 2026 | Sant Antoni → Nîmes / Pont du Gard | Romeins erfgoed / tussenstop |
-| 13 juli 2026 | Nîmes → Beaune | Bourgogne, rustigere terugweg |
+| 12 juli 2026 | Sant Antoni → Arpaillargues-et-Aureillac / Uzès | Rustige Airbnb-stop bij Uzès |
+| 13 juli 2026 | Uzès / Pont du Gard → Beaune | Uzès en Pont du Gard, daarna Bourgogne |
 | 14 juli 2026 | Beaune en omgeving | Activiteitendag |
 | 15 juli 2026 | Beaune → Nederland | Laatste lange rijddag |
 
@@ -26,7 +26,7 @@ Beschikbaarheidscheck bijgewerkt op 22 mei 2026. Waar een boekingssite geen hard
 	<li><strong><a href="locations/beauval.md">Beauval / Saint-Aignan</a></strong><br>2 tot 4 juli 2026. Dierentuinanker, twee nachten, voorkeur voor officiële Beauval-hotels of appartement.</li>
 	<li><strong><a href="locations/carcassonne.md">Carcassonne</a></strong><br>4 tot 5 juli 2026. Eén nacht bij de Cité, liefst zonder autorit naar het centrum.</li>
 	<li><strong><a href="locations/sant-antoni.md">Sant Antoni</a></strong><br>5 tot 12 juli 2026. Hoofdweek bij Eurocamping Best Village, geboekt.</li>
-	<li><strong><a href="locations/nimes-pont-du-gard.md">Nîmes / Pont du Gard</a></strong><br>12 tot 13 juli 2026. Terugwegstop met Romeins erfgoed, zwembad en makkelijke route.</li>
+	<li><strong><a href="locations/nimes-pont-du-gard.md">Uzès / Pont du Gard</a></strong><br>12 tot 13 juli 2026. Airbnb bij Arpaillargues-et-Aureillac geboekt; Uzès en Pont du Gard op 13 juli.</li>
 	<li><strong><a href="locations/beaune.md">Beaune</a></strong><br>13 tot 15 juli 2026. Laatste tweedaagse stop in Bourgogne, praktisch richting Nederland.</li>
 </ul>
 
@@ -37,7 +37,7 @@ Beschikbaarheidscheck bijgewerkt op 22 mei 2026. Waar een boekingssite geen hard
 | Beauval | Les Pagodes de Beauval + losse ZooParc-tickets | <span class="status-ok">hotel geboekt</span> Les Pagodes is geboekt voor 2 nachten; ZooParc-tickets voor vrijdag 3 juli moeten nog los geboekt worden. |
 | Carcassonne | Loft centre-ville Parking, clim, wifi | <span class="status-ok">geboekt</span> Booking.com: huis met 3 slaapkamers voor 4-5 juli 2026; adres en parkeerinstructies nog offline bewaren. |
 | Sant Antoni | Eurocamping Best Village | <span class="status-ok">geboekt</span> Eurocamping Best Village is vastgelegd voor 5-12 juli 2026; check-in express en betaalstatus later nog praktisch controleren. |
-| Nîmes / Pont du Gard | C Suites, Airbnb-optie, Appart'City Arènes of Villa Majestic | <span class="status-check">shortlist aangescherpt</span> C Suites is praktisch door prijs/parking/overnachtladen, maar rating en centrumafstand zijn zwak. Airbnb toont meerdere één-unit opties; Appart'City Arènes en Villa Majestic blijven open. |
+| Uzès / Pont du Gard | Airbnb in Arpaillargues-et-Aureillac | <span class="status-ok">geboekt</span> Home in Arpaillargues-et-Aureillac geboekt voor 12-13 juli; gratis annuleren tot 11 juli 17:00. Volgende ochtend Uzès/Pont du Gard en daarna door naar Beaune. |
 | Beaune | Campanile, Première Classe of Mercure/centrumoptie | <span class="status-check">te controleren</span> Zoekresultaten tonen familievriendelijke hotelpagina’s; voor vijf personen waarschijnlijk twee kamers of familiekamer bevestigen. |
 
 ## Hoofdadvies
@@ -65,7 +65,7 @@ Een gezin van vijf is in Frankrijk net onhandig: veel familiekamers stoppen bij 
 | Beauval | Les Pagodes de Beauval | Geboekt; alleen ZooParc-tickets nog apart regelen |
 | Carcassonne | Loft centre-ville Parking, clim, wifi | Geboekt; centrale tussenstop met airco en parking |
 | Sant Antoni | Eurocamping Best Village | Geboekt; hoofdweek aan de Costa Brava met privézwembadzone |
-| Nîmes / Pont du Gard | C Suites of goede Airbnb in/naast centrum | C Suites voor laden/parking/prijs; Airbnb mogelijk beter voor één unit en centrumgevoel |
+| Uzès / Pont du Gard | Airbnb in Arpaillargues-et-Aureillac | Geboekt; rustige stop bij Uzès, Pont du Gard logisch op 13 juli vóór Beaune |
 | Beaune | Campanile Beaune of Mercure Beaune Centre | Zwembad, parking, goede roadtripbalans |
 
 ## Nog controleren vóór boeken
