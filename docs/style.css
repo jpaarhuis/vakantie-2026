@@ -98,82 +98,56 @@ h1 {
   backdrop-filter: blur(10px);
 }
 
-.route-timeline {
-  position: relative;
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: .28rem;
-  padding: 1rem;
-  background:
-    linear-gradient(90deg, transparent 0 2.1rem, rgba(255,255,255,.26) 2.1rem 2.28rem, transparent 2.28rem),
-    linear-gradient(145deg, rgba(255,255,255,.18), rgba(255,255,255,.06));
-}
-
-.route-timeline__stop {
-  display: grid;
-  grid-template-columns: 2.7rem 1fr;
-  gap: .7rem;
-  align-items: center;
-  min-height: 2.85rem;
-}
-
-.route-timeline__dot {
-  position: relative;
-  z-index: 1;
-  justify-self: center;
-  width: .95rem;
-  height: .95rem;
-  border: 3px solid #fff;
-  border-radius: 50%;
-  background: var(--accent);
-  box-shadow: 0 0 0 4px rgba(255,255,255,.18);
-}
-
-.route-timeline__stop--home .route-timeline__dot {
-  background: var(--accent-2);
-}
-
-.route-timeline__stop--coast .route-timeline__dot {
-  width: 1.15rem;
-  height: 1.15rem;
-  background: #fff;
-  border-color: var(--accent-2);
-}
-
-.route-timeline__stop strong,
-.route-timeline__stop small {
+.route-diagram {
   display: block;
-  color: #fff;
+  width: 100%;
+  height: auto;
+  min-height: 300px;
+  background: #e4f2ec;
 }
 
-.route-timeline__stop strong {
-  font-size: 1rem;
-  line-height: 1.1;
+.route-diagram__pin circle {
+  fill: #fff;
+  stroke: var(--accent);
+  stroke-width: 4;
 }
 
-.route-timeline__stop small {
-  margin-top: .12rem;
-  color: rgba(255,255,255,.76);
-  font-size: .78rem;
-  line-height: 1.15;
+.route-diagram__pin--home circle {
+  fill: var(--accent-2);
+  stroke: #fff;
 }
 
-.route-timeline__leg {
-  width: fit-content;
-  margin-left: 3.35rem;
-  border: 1px solid rgba(255,255,255,.24);
-  border-radius: 999px;
-  padding: .16rem .55rem;
-  background: rgba(255,255,255,.14);
-  color: rgba(255,255,255,.84);
-  font-size: .75rem;
+.route-diagram__pin--sea circle {
+  fill: #74bac0;
+  stroke: #fff;
+}
+
+.route-diagram__pin text {
+  fill: #1f2933;
+  font-size: 18px;
+  font-weight: 850;
+  paint-order: stroke;
+  stroke: rgba(255,255,255,.86);
+  stroke-width: 5px;
+  stroke-linejoin: round;
+}
+
+.route-diagram__label text {
+  fill: rgba(31, 41, 51, .68);
+  font-size: 17px;
   font-weight: 800;
-  line-height: 1.25;
 }
 
-.route-timeline__leg--return {
-  border-color: rgba(255,255,255,.34);
-  background: rgba(164,93,59,.32);
+.route-diagram__badge rect {
+  fill: rgba(255,255,255,.72);
+  stroke: rgba(31, 111, 120, .18);
+}
+
+.route-diagram__badge text {
+  fill: var(--accent);
+  font-size: 15px;
+  font-weight: 850;
+  text-anchor: middle;
 }
 
 .trip-map a {
@@ -238,19 +212,12 @@ h1 {
     grid-template-columns: 1fr;
   }
 
-  .route-timeline {
-    padding: .9rem .75rem;
-    background:
-      linear-gradient(90deg, transparent 0 1.85rem, rgba(255,255,255,.26) 1.85rem 2.03rem, transparent 2.03rem),
-      linear-gradient(145deg, rgba(255,255,255,.18), rgba(255,255,255,.06));
+  .route-diagram {
+    min-height: 265px;
   }
 
-  .route-timeline__stop {
-    grid-template-columns: 2.25rem 1fr;
-  }
-
-  .route-timeline__leg {
-    margin-left: 2.85rem;
+  .route-diagram__pin text {
+    font-size: 17px;
   }
 
   .route-card {

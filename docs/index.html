@@ -59,43 +59,71 @@
           </table>
         </div>
 
-        <aside class="trip-map" aria-label="Route van de hele reis">
-          <div class="route-timeline" aria-label="Route in volgorde">
-            <div class="route-timeline__stop route-timeline__stop--home">
-              <span class="route-timeline__dot"></span>
-              <div><strong>Ommen</strong><small>Start</small></div>
-            </div>
-            <div class="route-timeline__leg">9u25 · 805 km</div>
-            <div class="route-timeline__stop">
-              <span class="route-timeline__dot"></span>
-              <div><strong>Beauval</strong><small>ZooParc</small></div>
-            </div>
-            <div class="route-timeline__leg">6u15 · 565 km</div>
-            <div class="route-timeline__stop">
-              <span class="route-timeline__dot"></span>
-              <div><strong>Carcassonne</strong><small>Cité-avond</small></div>
-            </div>
-            <div class="route-timeline__leg">2u45 · 250 km</div>
-            <div class="route-timeline__stop route-timeline__stop--coast">
-              <span class="route-timeline__dot"></span>
-              <div><strong>Sant Antoni</strong><small>Hoofdweek aan zee</small></div>
-            </div>
-            <div class="route-timeline__leg">4u00 · 370 km</div>
-            <div class="route-timeline__stop">
-              <span class="route-timeline__dot"></span>
-              <div><strong>Nîmes / Uzès</strong><small>Romeins erfgoed</small></div>
-            </div>
-            <div class="route-timeline__leg">4u15 · 390 km</div>
-            <div class="route-timeline__stop">
-              <span class="route-timeline__dot"></span>
-              <div><strong>Beaune</strong><small>Avondstop</small></div>
-            </div>
-            <div class="route-timeline__leg route-timeline__leg--return">8u45 · 800 km</div>
-            <div class="route-timeline__stop route-timeline__stop--home">
-              <span class="route-timeline__dot"></span>
-              <div><strong>Ommen</strong><small>Thuis</small></div>
-            </div>
-          </div>
+        <aside class="trip-map" aria-label="Visuele route van de hele reis">
+          <svg class="route-diagram" viewBox="0 0 560 390" role="img" aria-labelledby="routeDiagramTitle routeDiagramDesc">
+            <title id="routeDiagramTitle">Visuele route Sant Antoni Roadtrip 2026</title>
+            <desc id="routeDiagramDesc">Schematische route van Ommen via Beauval, Carcassonne, Sant Antoni, Nîmes, Pont du Gard en Beaune terug naar Ommen.</desc>
+            <defs>
+              <linearGradient id="routeCardBg" x1="0" y1="0" x2="1" y2="1">
+                <stop offset="0" stop-color="#fff8ea" />
+                <stop offset=".56" stop-color="#e4f2ec" />
+                <stop offset="1" stop-color="#b9dfe1" />
+              </linearGradient>
+              <linearGradient id="routeLine" x1="0" y1="0" x2="1" y2="1">
+                <stop offset="0" stop-color="#f6c27d" />
+                <stop offset=".48" stop-color="#ffffff" />
+                <stop offset="1" stop-color="#7ec5cb" />
+              </linearGradient>
+              <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+                <feDropShadow dx="0" dy="10" stdDeviation="7" flood-color="#1f2933" flood-opacity=".18" />
+              </filter>
+            </defs>
+
+            <rect width="560" height="390" rx="24" fill="url(#routeCardBg)" />
+            <path d="M0 290 C80 253 150 258 220 301 C300 350 420 320 560 292 L560 390 L0 390 Z" fill="#74bac0" opacity=".76" />
+            <path d="M44 70 C122 34 193 35 254 73 C332 120 412 100 519 54" fill="none" stroke="#fff" stroke-width="22" stroke-linecap="round" opacity=".42" />
+            <path d="M86 318 C146 250 170 181 224 134 C278 87 353 73 452 58" fill="none" stroke="rgba(31,41,51,.14)" stroke-width="18" stroke-linecap="round" />
+            <path d="M86 318 C146 250 170 181 224 134 C278 87 353 73 452 58" fill="none" stroke="url(#routeLine)" stroke-width="11" stroke-linecap="round" filter="url(#softShadow)" />
+            <path d="M452 58 C423 92 401 126 376 166" fill="none" stroke="#a45d3b" stroke-width="5" stroke-linecap="round" stroke-dasharray="9 9" opacity=".78" />
+
+            <g class="route-diagram__pin route-diagram__pin--home" transform="translate(452 58)">
+              <circle r="13" />
+              <text x="20" y="5">Ommen</text>
+            </g>
+            <g class="route-diagram__pin" transform="translate(224 134)">
+              <circle r="10" />
+              <text x="-105" y="5">Beauval</text>
+            </g>
+            <g class="route-diagram__pin" transform="translate(86 318)">
+              <circle r="10" />
+              <text x="17" y="5">Carcassonne</text>
+            </g>
+            <g class="route-diagram__pin route-diagram__pin--sea" transform="translate(142 289)">
+              <circle r="12" />
+              <text x="17" y="5">Sant Antoni</text>
+            </g>
+            <g class="route-diagram__pin" transform="translate(286 218)">
+              <circle r="10" />
+              <text x="16" y="5">Nîmes</text>
+            </g>
+            <g class="route-diagram__pin" transform="translate(318 188)">
+              <circle r="10" />
+              <text x="16" y="5">Pont du Gard</text>
+            </g>
+            <g class="route-diagram__pin" transform="translate(376 166)">
+              <circle r="10" />
+              <text x="16" y="5">Beaune</text>
+            </g>
+
+            <g class="route-diagram__label" transform="translate(34 28)">
+              <text>heenweg in etappes</text>
+              <text y="21">terug via Beaune</text>
+            </g>
+            <g class="route-diagram__badge" transform="translate(358 310)">
+              <rect width="154" height="40" rx="20" />
+              <text x="77" y="25">Costa Brava week</text>
+            </g>
+          </svg>
           <a href="https://www.google.com/maps/dir/Ommen%2C%20Netherlands/ZooParc%20de%20Beauval%2C%20Saint-Aignan%2C%20France/Carcassonne%2C%20France/Eurocamping%2C%20Avinguda%20Catalunya%2015%2C%2017252%20Calonge%20i%20Sant%20Antoni%2C%20Spain/N%C3%AEmes%2C%20France/Pont%20du%20Gard%2C%20France/B%26B%20HOTEL%20Beaune%20Nord%2C%2020%20Rue%20du%20Tacot%2C%2021420%20Savigny-l%C3%A8s-Beaune%2C%20France/Ommen%2C%20Netherlands" target="_blank" rel="noopener noreferrer">Open de hele route in Google Maps</a>
         </aside>
       </div>
