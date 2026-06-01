@@ -34,9 +34,7 @@ Belangrijk om te onthouden: gratis annuleren kan tot **11 juli, 17:00**. Dat gee
 
 ## Locatie
 
-De overnachting ligt in **Arpaillargues-et-Aureillac**, vlak bij Uzès en logisch ten opzichte van Pont du Gard. Nîmes blijft mogelijk als korte stadsstop, maar is niet meer het zwaartepunt van deze etappe.
-
-Adres voor navigatie: **15 Grand Rue François Mitterrand, 30700 Arpaillargues-et-Aureillac, France**.
+De overnachting ligt in **Arpaillargues-et-Aureillac**, vlak bij Uzès en logisch ten opzichte van Pont du Gard. Nîmes blijft mogelijk als korte stadsstop, maar is niet meer het zwaartepunt van deze etappe. Exact adres en check-ininstructies blijven offline bij de Airbnb-boeking.
 
 ## Reisinfo voor onderweg
 
@@ -58,7 +56,7 @@ Adres voor navigatie: **15 Grand Rue François Mitterrand, 30700 Arpaillargues-e
 </div>
 
 - [Airbnb-listing op Airbnb](https://www.airbnb.com/rooms/1541222468825533916)
-- [Arpaillargues-et-Aureillac op Google Maps](https://www.google.com/maps/search/?api=1&query=15%20Grand%20Rue%20Fran%C3%A7ois%20Mitterrand%2030700%20Arpaillargues-et-Aureillac%20France)
+- [Arpaillargues-et-Aureillac op Google Maps](https://www.google.com/maps/search/?api=1&query=Arpaillargues-et-Aureillac)
 - [Uzès op Google Maps](https://www.google.com/maps/search/?api=1&query=Uz%C3%A8s)
 - [Pont du Gard op Google Maps](https://www.google.com/maps/search/?api=1&query=Pont%20du%20Gard)
 - [Arènes de Nîmes op Google Maps](https://www.google.com/maps/search/?api=1&query=Ar%C3%A8nes%20de%20N%C3%AEmes)
