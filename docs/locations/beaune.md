@@ -36,13 +36,15 @@ Boekingsprofiel: voor één nacht telt **mobiliteit en bereikbaarheid zwaarder d
 
 ## Kaart
 
-<div class="map-embed" role="group" aria-label="Google Maps kaart voor B&B HOTEL Beaune Nord en Hospices de Beaune">
-	<iframe title="Google Maps kaart B&B HOTEL Beaune Nord en Hospices de Beaune" src="https://www.google.com/maps?q=B%26B%20HOTEL%20Beaune%20Nord%20Hospices%20de%20Beaune&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-	<p>B&B HOTEL Beaune Nord ligt aan de noordkant van Beaune, praktisch bij de snelweg en op korte rijafstand van het centrum en de Hospices.</p>
+<div class="map-embed" role="group" aria-label="Google Maps kaart voor B&B HOTEL Beaune Nord en bezienswaardigheden in Beaune">
+	<iframe title="Google Maps kaart B&B HOTEL Beaune Nord, Hospices de Beaune en centrum" src="https://www.google.com/maps?q=B%26B%20HOTEL%20Beaune%20Nord%20Hospices%20de%20Beaune%20Place%20Carnot%20La%20Moutarderie%20Fallot%20Beaune&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	<p>Kaart voor de avondstop: B&B HOTEL Beaune Nord, Hospices de Beaune, Place Carnot / centrum en La Moutarderie Fallot als herkenningspunten.</p>
 </div>
 
 - [B&B HOTEL Beaune Nord op Google Maps](https://www.google.com/maps/search/?api=1&query=B%26B%20HOTEL%20Beaune%20Nord)
 - [Hospices de Beaune op Google Maps](https://www.google.com/maps/search/?api=1&query=Hospices%20de%20Beaune)
+- [Place Carnot / centrum Beaune op Google Maps](https://www.google.com/maps/search/?api=1&query=Place%20Carnot%20Beaune)
+- [La Moutarderie Fallot op Google Maps](https://www.google.com/maps/search/?api=1&query=La%20Moutarderie%20Fallot%20Beaune)
 - [Pommard op Google Maps](https://www.google.com/maps/search/?api=1&query=Pommard)
 - [Savigny-lès-Beaune op Google Maps](https://www.google.com/maps/search/?api=1&query=Savigny-l%C3%A8s-Beaune)
 - [Meursault op Google Maps](https://www.google.com/maps/search/?api=1&query=Meursault)
