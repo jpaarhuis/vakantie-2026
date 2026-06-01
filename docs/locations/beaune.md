@@ -1,7 +1,7 @@
 # Beaune
 
 **Reisdata:** 13 tot 14 juli 2026, één nacht.
-**Doel:** laatste praktische tussenstop in Bourgogne, met 13 juli als aankomst na Uzès / Pont du Gard en 14 juli als korte Beaune-ochtend plus lange terugrit naar Nederland.
+**Doel:** laatste praktische tussenstop in Bourgogne, met 13 juli als aankomst na Uzès / Pont du Gard en 14 juli vroeg op voor de lange rit naar Ommen.
 **Gezelschap:** twee volwassenen en drie tieners.
 
 ## Status
@@ -10,7 +10,7 @@ Status op 1 juni 2026: <span class="status-ok">geboekt</span>
 
 B&B HOTEL Beaune Nord is geboekt voor **13-14 juli 2026**. Publiek bewaren we geen boekingsnummer, bedrag, e-mail, namen op kamers of andere reizigersdetails.
 
-Beaune blijft logisch als laatste stop: compact centrum, Hospices de Beaune, goede A6-aansluiting en genoeg opties voor een rustige ochtend zonder weer een grote stad te hoeven doen. Rond **14 juli** is het extra belangrijk om openingstijden en restaurantdrukte kort vooraf nog te checken.
+Beaune blijft logisch als laatste stop: compact centrum, Hospices de Beaune, goede A6-aansluiting en weinig gedoe bij aankomst en vertrek. Het programma blijft bewust licht: hooguit op 13 juli 's avonds nog even Beaune in, daarna slapen en de volgende ochtend vroeg naar Ommen.
 
 Boekingsprofiel: voor één nacht telt **mobiliteit en bereikbaarheid zwaarder dan centrumligging**. B&B HOTEL Beaune Nord past daar goed bij: parkeren zonder gedoe, snelle aansluiting op A6/A31/A36, airco en twee praktische kamers.
 
@@ -22,7 +22,7 @@ Boekingsprofiel: voor één nacht telt **mobiliteit en bereikbaarheid zwaarder d
 <div class="image-gallery" aria-label="Beaune beeldgalerie">
 	<figure>
 		<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hospices_de_Beaune_0100_26.jpg" alt="Binnenplaats van de Hospices de Beaune" loading="lazy" decoding="async">
-		<figcaption><strong>Hospices / Hôtel-Dieu.</strong> Beste hoofdactiviteit voor 14 juli, vooral als het warm is. Bron: <a href="https://commons.wikimedia.org/wiki/File:Hospices_de_Beaune_0100_26.jpg">Wikimedia Commons</a>.</figcaption>
+		<figcaption><strong>Hospices / Hôtel-Dieu.</strong> Vooral handig als korte avondwandeling langs de buitenkant; een echt bezoek past waarschijnlijk minder goed door de vroege terugrit. Bron: <a href="https://commons.wikimedia.org/wiki/File:Hospices_de_Beaune_0100_26.jpg">Wikimedia Commons</a>.</figcaption>
 	</figure>
 	<figure>
 		<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Route_des_Grands_Crus_-_Couchey_-_Rue_Jean_Jaur%C3%A8s_%2834961679484%29.jpg" alt="Route des Grands Crus door een Bourgondisch dorp" loading="lazy" decoding="async">
@@ -66,21 +66,17 @@ Boekingsprofiel: voor één nacht telt **mobiliteit en bereikbaarheid zwaarder d
 - Betaal- en prijsdetails.
 - Annuleringsbevestiging van de foutieve datum, als die los is afgehandeld.
 
-## Activiteiten voor 14 juli
+## Avond in Beaune
 
 | Activiteit | Waarom passend | Praktisch |
 |---|---|---|
-| Hospices de Beaune / Hôtel-Dieu | Must-see, compact, iconische daken en binnenplaats; gaat vooral over geschiedenis, zorg en architectuur, niet over wijn drinken. | Beste hoofdanker. Tickets nodig voor het echte bezoek; zie aparte notitie hieronder. |
-| La Moutarderie Fallot | Niet-wijn, typisch Bourgondisch en interactief: mosterdmuseum/proefroute. | Vol tarief rond €12, kindertarief rond €9; dagelijks 09:30-18:00 volgens toerisme-info. Vooraf tijdslot checken. |
-| Beaune centrum | Compact wandelen, eten, ijs/terras, winkels, Place Carnot en oude straatjes. | Goed rond lunch of avond; restaurant reserveren vanwege 14 juli. |
-| Château de Savigny-lès-Beaune | Tienervriendelijker door collecties met auto’s, motoren, vliegtuigen en bijzondere objecten. | Sterke optie als iedereen even iets anders wil dan museum/centrum. Check openingstijden. |
-| Les Étangs d'Or bij Merceuil/Tailly | Buitenlucht, wandelen, natuur en meren op korte afstand van Beaune. | Goed bij mooi weer of als de stad druk is; parkeren aanwezig volgens toerisme-info. |
-| Cité des Climats et vins de Bourgogne | Modern gebouw, uitzicht en uitleg over landschap/terroir; kan ook interessant zijn zonder wijnproeven. | Alleen doen als architectuur/uitzicht/educatief verhaal aanspreekt; niet plannen als “wijnactiviteit”. |
-| Zwembad/rustmoment | Nodig na veel reisdagen. | Daarom heeft Campanile/Mercure/Novotel extra waarde. |
+| Beaune centrum | Compact genoeg voor een korte avondwandeling na aankomst. | Alleen doen als iedereen nog energie heeft; parkeren bij centrum/Hospices of taxi vanaf hotel. |
+| Hospices de Beaune buitenkant | Iconische daken en gevels zijn ook zonder museumbezoek leuk om even te zien. | Voor het echte museumbezoek zijn tickets nodig, maar dat past waarschijnlijk niet meer in deze stop. |
+| Eenvoudig eten | Belangrijker dan nog een vol programma. | Door 14 juli-drukte liever vooraf een simpele optie kiezen of flexibel bij het hotel/centrum eten. |
 
 ## Hospices praktisch
 
-Je kunt de buitenkant en de omgeving van de Hospices natuurlijk even bekijken zonder ticket, maar de beroemde binnenplaats, de zalen, apotheek en het echte Hôtel-Dieu-verhaal zitten achter de museumroute. Voor “er echt kijken” moet je dus tickets kopen.
+Je kunt de buitenkant en de omgeving van de Hospices natuurlijk even bekijken zonder ticket. De beroemde binnenplaats, de zalen, apotheek en het echte Hôtel-Dieu-verhaal zitten achter de museumroute. Voor “er echt kijken” moet je dus tickets kopen, maar met een vroege rit naar Ommen is dat waarschijnlijk geen prioriteit meer.
 
 | Vraag | Antwoord |
 |---|---|
@@ -88,26 +84,25 @@ Je kunt de buitenkant en de omgeving van de Hospices natuurlijk even bekijken zo
 | Opening op 14 juli? | De toerisme-pagina noemt tot 15 november 2026 dagelijks **09:00-19:30**. Omdat 14 juli feestdag is: kort vooraf nog even checken. |
 | Wat doe je daar? | Zelfstandig bezoek met audioguide of parcours: binnenplaats, geglazuurde daken, oude ziekenzaal, apotheek, geschiedenis van het ziekenhuis en de stichting uit 1443. |
 | Is het geschikt voor ons? | Ja, als compact hoofdbezoek. Het is visueel sterk en historisch; niet afhankelijk van wijn drinken. |
-| Reserveren? | Aanrader, zeker rond 14 juli. Kies liever ochtend of vroege middag en houd daarna ruimte voor lunch/rust. |
+| Reserveren? | Alleen doen als jullie bewust een museumbezoek willen plannen. Voor deze stop is buitenkant + korte centrumwandeling waarschijnlijk realistischer. |
 
-## 14 juli: wat is er te beleven zonder wijnfocus?
+## 14 juli: vroeg naar Ommen
 
-De officiële Beaune Tourism- en gemeentelijke agenda’s tonen nu nog geen hard 14-juli-avondprogramma zoals vuurwerk of concert op die datum. Dat kan later alsnog verschijnen. Voor nu is dit de beste niet-wijnroute:
+De officiële Beaune Tourism- en gemeentelijke agenda’s tonen nu nog geen hard 14-juli-avondprogramma zoals vuurwerk of concert. Dat is ook minder belangrijk geworden: 14 juli is vooral de lange terugreisdag naar Ommen.
 
-1. **Ochtend:** Hospices de Beaune met ticket.
-2. **Lunch / vroege middag:** centrum, Place Carnot, ijs/terras of rustig eten.
-3. **Middagkeuze:** Fallot-mosterdmuseum als binnenactiviteit, Château de Savigny-lès-Beaune als tienervriendelijke uitstap, of Les Étangs d'Or als buitenlucht/rust.
-4. **Avond:** centrum of hotelrestaurant, afhankelijk van drukte en hitte. Restaurant vroeg reserveren.
+1. **Vroeg ontbijt of snelle start:** geen Beaune-programma meer stapelen.
+2. **Auto klaar / laden checken:** liever de avond ervoor regelen waar mogelijk.
+3. **Vertrek richting Ommen:** de rit naar huis is de hoofdactiviteit van de dag.
 
-Nog later checken: gemeentelijke agenda van Beaune, toerisme-agenda en eventueel lokale aankondigingen voor **Fête Nationale / 14 juillet**.
+Nog later checken: alleen praktische zaken zoals ontbijturen, uitchecken, laadmogelijkheid en actuele reistijd.
 
 ## Mogelijk dagritme
 
-**13 juli:** na Uzès en Pont du Gard door naar Beaune. Inchecken bij B&B HOTEL Beaune Nord, auto praktisch parkeren/laden waar mogelijk, daarna simpel eten. Geen zwaar programma meer plannen.
+**13 juli:** na Uzès en Pont du Gard door naar Beaune. Inchecken bij B&B HOTEL Beaune Nord, auto praktisch parkeren/laden waar mogelijk, daarna simpel eten. Hooguit nog even Beaune centrum / Hospices buitenkant bekijken als iedereen daar zin in heeft.
 
-**14 juli:** kort Beaune-programma vóór de lange rit: ontbijt, eventueel Hospices de Beaune als vroeg ticketblok of alleen korte centrumwandeling. Niet te veel stapelen; terugrit naar Nederland blijft de hoofdactiviteit.
+**14 juli:** vroeg op en door naar Ommen. Geen ochtendprogramma in Beaune plannen; hooguit ontbijt, uitchecken en weg.
 
-**Middagkeuze 14 juli:** alleen doen als de terugritplanning dat toelaat. Fallot-mosterdmuseum of centrum is realistischer dan Château de Savigny-lès-Beaune of Les Étangs d'Or.
+**Belangrijk:** laad- en vertrekstress vermijden door de avond ervoor al te bepalen waar de eerste laadstop richting Nederland/Ommen komt.
 
 ## Bronnen om later terug te pakken
 
@@ -125,14 +120,14 @@ Nog later checken: gemeentelijke agenda van Beaune, toerisme-agenda en eventueel
 
 - [ ] Bevestigingsmail en boekingsnummer offline bewaren.
 - [ ] Controleren dat de oude foutieve datum offline geannuleerd is, als dat nog niet is gedaan.
-- [ ] Restaurant voor 13 juli of lunchplek voor 14 juli kiezen als jullie in Beaune willen eten.
-- [ ] Hospices-tickets checken/kopen voor 14 juli, liefst ochtend of vroege middag.
-- [ ] Beslissen welke niet-wijnactiviteit ernaast past: Fallot, Château de Savigny-lès-Beaune of Les Étangs d'Or.
-- [ ] Kort voor vertrek nog Fête Nationale / 14-juli-programma checken bij Ville de Beaune en Beaune Tourism.
+- [ ] Eenvoudige eetoptie voor 13 juli kiezen, liefst zonder omrijden of lang wachten.
+- [ ] Beslissen of een korte avondwandeling langs centrum/Hospices buitenkant nog de moeite is.
+- [ ] Ontbijt- en uitchecktijd controleren voor vroeg vertrek naar Ommen.
+- [ ] Eerste laadstop richting Ommen bepalen.
 
 ## Let op
 
-- 14 juli kan drukte, aangepaste openingstijden en restaurantdrukte geven.
+- 14 juli kan drukte, aangepaste openingstijden en restaurantdrukte geven; daarom niet afhankelijk worden van een ochtendactiviteit in Beaune.
 - Airco en parkeren zijn belangrijker dan charme als de terugrit de dag erna lang is.
 - Bij EV-laden: vraag of laden echt beschikbaar is, welk type aansluiting, en of reserveren nodig is.
-- Als Beaune duur of vol zit: kijk naar Chorey-lès-Beaune, Savigny-lès-Beaune, Pommard of Meursault, maar bewaak de terugrit naar Nederland.
+- Terugrit naar Ommen is lang genoeg; maak Beaune niet zwaarder dan nodig.
