@@ -51,9 +51,14 @@ De overnachting ligt in **Arpaillargues-et-Aureillac**, vlak bij Uzès en logisc
 
 ## Kaart en bezienswaardigheden
 
-<div class="map-embed" role="group" aria-label="Google Maps kaart voor Arpaillargues, Uzès en Pont du Gard">
-  <iframe title="Google Maps kaart Arpaillargues Uzès Pont du Gard Nîmes" src="https://www.google.com/maps?q=Arpaillargues-et-Aureillac%20Uz%C3%A8s%20Pont%20du%20Gard%20N%C3%AEmes&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <p>Zoekkaart voor Nîmes op 12 juli en de geboekte overnachting bij Arpaillargues-et-Aureillac, met Uzès en Pont du Gard als logische stops op 13 juli.</p>
+<div class="map-embed" role="group" aria-label="Google Maps kaart voor Nîmes centrum">
+  <iframe title="Google Maps kaart Nîmes centrum" src="https://www.google.com/maps?q=Ar%C3%A8nes%20de%20N%C3%AEmes%20Maison%20Carr%C3%A9e%20Jardins%20de%20la%20Fontaine%20N%C3%AEmes&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <p>Kaart voor 12 juli: Nîmes centrum met Arènes, Maison Carrée en Jardins de la Fontaine als compacte stadswandeling.</p>
+</div>
+
+<div class="map-embed" role="group" aria-label="Google Maps kaart voor Uzès en Pont du Gard">
+  <iframe title="Google Maps kaart Uzès Pont du Gard Arpaillargues" src="https://www.google.com/maps?q=Arpaillargues-et-Aureillac%20Uz%C3%A8s%20Pont%20du%20Gard&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <p>Kaart voor 13 juli: overnachtingsomgeving bij Arpaillargues-et-Aureillac, met Uzès en Pont du Gard als logische stops vóór Beaune.</p>
 </div>
 
 - [Airbnb-listing op Airbnb](https://www.airbnb.com/rooms/1541222468825533916)
