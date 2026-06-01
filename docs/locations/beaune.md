@@ -1,16 +1,25 @@
 # Beaune
 
-**Reisdata:** 14 tot 15 juli 2026, één nacht.
-**Doel:** laatste praktische tussenstop in Bourgogne, met 14 juli als korte Beaune-dag en 15 juli als lange terugrit naar Nederland.
+**Reisdata:** gewenste nacht is 13 tot 14 juli 2026, één nacht.
+**Doel:** laatste praktische tussenstop in Bourgogne, met 13 juli als aankomst na Uzès / Pont du Gard en 14 juli als korte Beaune-ochtend plus lange terugrit naar Nederland.
 **Gezelschap:** twee volwassenen en drie tieners.
 
 ## Status
 
-Status op 1 juni 2026: <span class="status-check">shortlist gestart</span>
+Status op 1 juni 2026: <span class="status-risk">boekingscorrectie nodig</span>
+
+Er is per ongeluk een flexibele B&B HOTEL Beaune Nord-boeking voor **14-15 juli 2026** gemaakt. De gewenste nacht is **13-14 juli 2026**. Publiek bewaren we geen boekingsnummer, bedrag, e-mail of reizigersdetails.
+
+Correctievolgorde:
+
+1. Eerst **B&B HOTEL Beaune Nord voor 13-14 juli** opnieuw boeken of omboeken, liefst met dezelfde flexibele annulering en ontbijt.
+2. Pas daarna de foutieve 14-15 juli-boeking annuleren.
+3. Controleren dat de nieuwe boeking twee kamers dekt: 4-persoonskamer + double room, ontbijt inbegrepen, city tax inbegrepen.
+4. Offline bewaren: boekingsnummer, bevestigingsmail en namen op de kamers.
 
 Beaune blijft logisch als laatste stop: compact centrum, Hospices de Beaune, goede A6-aansluiting en genoeg opties voor een rustige dag zonder weer een grote stad te hoeven doen. Rond **14 juli** is vroeg boeken extra belangrijk door Franse nationale feestdag, drukte en mogelijk afwijkende openingstijden.
 
-Nieuw boekingsprofiel: voor één nacht telt **mobiliteit en bereikbaarheid zwaarder dan centrumligging**. Ideaal is parkeren zonder gedoe, snelle aansluiting op A6/A31/A36, airco en liefst één unit voor vijf. Als één unit niet lukt, zijn twee praktische kamers bij een snelwegvriendelijk hotel acceptabeler dan een sfeervolle centrumplek met parkeerstress.
+Boekingsprofiel: voor één nacht telt **mobiliteit en bereikbaarheid zwaarder dan centrumligging**. B&B HOTEL Beaune Nord past daar goed bij: parkeren zonder gedoe, snelle aansluiting op A6/A31/A36, airco en twee praktische kamers. Eén unit voor vijf blijft fijn, maar is hier minder belangrijk dan soepele aankomst en vertrek.
 
 <figure class="place-hero">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Hospices_beaune_toits1.jpg" alt="Geglazuurde daken van de Hospices de Beaune" loading="eager" decoding="async">
@@ -58,7 +67,19 @@ Mijn eerste gevoel na herweging: **B&B HOTEL Beaune Nord** is de beste pure mobi
 - [Savigny-lès-Beaune op Google Maps](https://www.google.com/maps/search/?api=1&query=Savigny-l%C3%A8s-Beaune)
 - [Meursault op Google Maps](https://www.google.com/maps/search/?api=1&query=Meursault)
 
-## Accommodatieshortlist
+## Gekozen verblijf, na datumcorrectie
+
+| Onderdeel | Praktisch |
+|---|---|
+| Hotel | [B&B HOTEL Beaune Nord](https://www.hotel-bb.com/en/hotel/beaune-nord) |
+| Gewenste nacht | 13-14 juli 2026 |
+| Foutieve boeking | 14-15 juli 2026, nog corrigeren/annuleren nadat 13-14 veilig is |
+| Kameropzet | Twee kamers: 4-persoonskamer + double room |
+| Tariefsoort | Flexibel pakket met ontbijt; gratis annuleren tot 19:00 op aankomstdag volgens bevestiging |
+| Parking / laden | Gratis parking met cameratoezicht en EV-lader volgens B&B-pagina |
+| Waarom deze keuze | Beste mobiliteitskeuze: direct bij A6/A31/A36, 5 minuten van centrum/Hospices, snel weg richting Nederland |
+
+## Afgevallen shortlist
 
 | Optie | Opzet voor 5 | Rating / bronindruk | Parking / laden | Praktisch oordeel |
 |---|---|---|---|---|
@@ -80,7 +101,7 @@ Mijn eerste gevoel na herweging: **B&B HOTEL Beaune Nord** is de beste pure mobi
 
 ## Aanpak voor boeken
 
-1. Check eerst **B&B Beaune Nord** voor 14-15 juli als mobiliteit boven alles gaat: waarschijnlijk 2 kamers, maar snelste stopover-logica.
+1. Check eerst **B&B Beaune Nord** voor 13-14 juli als mobiliteit boven alles gaat: waarschijnlijk 2 kamers, maar snelste stopover-logica.
 2. Check direct daarna de echte 5-persoonsopties: **Beaune Hôtel**, **Hostellerie de la Bretonnière** en **Maison Cabotte**. Let op één nacht, annuleerbaarheid, airco, parking en EV.
 3. Check **Hôtel Le Clos** als comfort/rust/zwembad aantrekkelijker is en extra bed in familieopzet bevestigd kan worden.
 4. Zet **Campanile** ernaast als praktische comfortoptie door zwembad, restaurant en laadpunt; accepteer dat het waarschijnlijk 2 kamers wordt.
@@ -123,11 +144,11 @@ Nog later checken: gemeentelijke agenda van Beaune, toerisme-agenda en eventueel
 
 ## Mogelijk dagritme
 
-**14 juli:** vanuit vorige stop naar Beaune. Als aankomst vroeg genoeg is: Hospices de Beaune met ticket als hoofdactiviteit, daarna centrumwandeling en lunch/avondeten. Bij latere aankomst: alleen centrum/eten en Hospices overslaan of kort houden.
+**13 juli:** na Uzès en Pont du Gard door naar Beaune. Inchecken bij B&B HOTEL Beaune Nord, auto praktisch parkeren/laden waar mogelijk, daarna simpel eten. Geen zwaar programma meer plannen.
 
-**Middagkeuze 14 juli:** kies één niet-wijnactiviteit als er energie is: Fallot-mosterdmuseum, Château de Savigny-lès-Beaune of Les Étangs d'Or. Bij hitte: terug naar hotel/zwembad en alleen ’s avonds centrum.
+**14 juli:** kort Beaune-programma vóór de lange rit: ontbijt, eventueel Hospices de Beaune als vroeg ticketblok of alleen korte centrumwandeling. Niet te veel stapelen; terugrit naar Nederland blijft de hoofdactiviteit.
 
-**15 juli:** vroeg ontbijt, auto laden indien mogelijk, lange rit naar Nederland. Verblijf kiezen op soepele parking en snelle route-uitgang.
+**Middagkeuze 14 juli:** alleen doen als de terugritplanning dat toelaat. Fallot-mosterdmuseum of centrum is realistischer dan Château de Savigny-lès-Beaune of Les Étangs d'Or.
 
 ## Bronnen om later terug te pakken
 
@@ -154,7 +175,8 @@ Nog later checken: gemeentelijke agenda van Beaune, toerisme-agenda en eventueel
 
 ## Nog doen
 
-- [ ] B&B Beaune Nord controleren voor 14-15 juli, 5 personen, twee kamers, annuleerbaarheid en EV-lader.
+- [ ] B&B Beaune Nord corrigeren naar 13-14 juli, 5 personen, twee kamers, ontbijt, annuleerbaarheid en EV-lader.
+- [ ] Pas na veilige 13-14 boeking de foutieve 14-15 juli-boeking annuleren.
 - [ ] Beaune Hôtel controleren: suite familiale 5 personnes, begane grond vs verdieping, privéparking, EV-lader, totaalprijs.
 - [ ] Hostellerie de la Bretonnière controleren: chambre familiale 5 personnes, gratis beveiligde parking, EV-optie, totaalprijs.
 - [ ] Maison Cabotte controleren: kamer 3-5 personen, gratis bewaakte parking, details bedden, totaalprijs.

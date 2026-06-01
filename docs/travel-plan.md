@@ -14,9 +14,8 @@ Beschikbaarheidscheck bijgewerkt op 22 mei 2026. Waar een boekingssite geen hard
 | 5 juli 2026 | Carcassonne → Sant Antoni | Korte eindrit naar de kust |
 | 5–12 juli 2026 | Sant Antoni | Verblijf op Eurocamping |
 | 12 juli 2026 | Sant Antoni → Nîmes → Arpaillargues-et-Aureillac / Uzès | Nîmes bekijken, daarna Airbnb bij Uzès |
-| 13 juli 2026 | Uzès / Pont du Gard → Beaune | Uzès en Pont du Gard, daarna Bourgogne |
-| 14 juli 2026 | Beaune en omgeving | Activiteitendag |
-| 15 juli 2026 | Beaune → Nederland | Laatste lange rijddag |
+| 13 juli 2026 | Uzès / Pont du Gard → Beaune | Uzès en Pont du Gard, daarna praktische stop bij Beaune |
+| 14 juli 2026 | Beaune → Nederland | Korte Beaune-ochtend, daarna laatste lange rijddag |
 
 > Belangrijk: juli is hoogseizoen in Frankrijk. Rond 14 juli is het extra druk door de Franse nationale feestdag. Gîtes kunnen in deze periode een minimumverblijf van drie of zeven nachten eisen.
 
@@ -27,7 +26,7 @@ Beschikbaarheidscheck bijgewerkt op 22 mei 2026. Waar een boekingssite geen hard
 	<li><strong><a href="locations/carcassonne.md">Carcassonne</a></strong><br>4 tot 5 juli 2026. Eén nacht bij de Cité, liefst zonder autorit naar het centrum.</li>
 	<li><strong><a href="locations/sant-antoni.md">Sant Antoni</a></strong><br>5 tot 12 juli 2026. Hoofdweek bij Eurocamping Best Village, geboekt.</li>
 	<li><strong><a href="locations/nimes-pont-du-gard.md">Nîmes / Uzès / Pont du Gard</a></strong><br>12 tot 13 juli 2026. Eerst Nîmes bekijken, daarna Airbnb bij Arpaillargues-et-Aureillac; Uzès en Pont du Gard op 13 juli.</li>
-	<li><strong><a href="locations/beaune.md">Beaune</a></strong><br>13 tot 15 juli 2026. Laatste tweedaagse stop in Bourgogne, praktisch richting Nederland.</li>
+	<li><strong><a href="locations/beaune.md">Beaune</a></strong><br>13 tot 14 juli 2026. Laatste praktische stop in Bourgogne, direct bij snelweg richting Nederland.</li>
 </ul>
 
 ## Samenvatting beschikbaarheid
@@ -38,7 +37,7 @@ Beschikbaarheidscheck bijgewerkt op 22 mei 2026. Waar een boekingssite geen hard
 | Carcassonne | Loft centre-ville Parking, clim, wifi | <span class="status-ok">geboekt</span> Booking.com: huis met 3 slaapkamers voor 4-5 juli 2026; adres en parkeerinstructies nog offline bewaren. |
 | Sant Antoni | Eurocamping Best Village | <span class="status-ok">geboekt</span> Eurocamping Best Village is vastgelegd voor 5-12 juli 2026; check-in express en betaalstatus later nog praktisch controleren. |
 | Nîmes / Uzès / Pont du Gard | Airbnb in Arpaillargues-et-Aureillac | <span class="status-ok">geboekt</span> Home in Arpaillargues-et-Aureillac geboekt voor 12-13 juli; gratis annuleren tot 11 juli 17:00. Op 12 juli Nîmes bekijken, volgende ochtend Uzès/Pont du Gard en daarna door naar Beaune. |
-| Beaune | B&B Beaune Sud 2 / B&B Sud 1, daarna Campanile of Kyriad | <span class="status-check">shortlist gestart</span> B&B-opties lijken sterk door gratis afgesloten parking, EV-lader en ligging bij centrum/A6; Campanile is comfortoptie met zwembad/restaurant/laadpunt. |
+| Beaune | B&B HOTEL Beaune Nord | <span class="status-risk">boekingscorrectie nodig</span> Foutief 14-15 juli geboekt; gewenste nacht is 13-14 juli. Eerst juiste nacht vastleggen, daarna foutieve flexibele boeking annuleren. |
 
 ## Hoofdadvies
 
@@ -66,7 +65,7 @@ Een gezin van vijf is in Frankrijk net onhandig: veel familiekamers stoppen bij 
 | Carcassonne | Loft centre-ville Parking, clim, wifi | Geboekt; centrale tussenstop met airco en parking |
 | Sant Antoni | Eurocamping Best Village | Geboekt; hoofdweek aan de Costa Brava met privézwembadzone |
 | Nîmes / Uzès / Pont du Gard | Airbnb in Arpaillargues-et-Aureillac | Geboekt; 12 juli Nîmes, overnachten bij Uzès, 13 juli Uzès/Pont du Gard vóór Beaune |
-| Beaune | B&B Beaune Sud 2 of Campanile Beaune | B&B voor prijs/parking/laden/ligging; Campanile als zwembad en restaurant belangrijker zijn |
+| Beaune | B&B HOTEL Beaune Nord | Mobiliteit eerst: snelweg dichtbij, parking, EV-lader; datum nog corrigeren naar 13-14 juli |
 
 ## Nog controleren vóór boeken
 
