@@ -10,7 +10,7 @@
 
 Geboekt: **Les Pagodes de Beauval**, quintuple room voor 5 personen, **overnight stay and breakfast included**, 2 nachten van donderdag 2 juli tot zaterdag 4 juli 2026. Dit is bewust de variant **zonder 2-day+ ZooParc hotel ticket** en zonder dinerarrangement.
 
-Open actie: boek nog **losse ZooParc-tickets voor vrijdag 3 juli 2026** voor 2 volwassenen en 3 kinderen. Richtprijs uit de eerdere check: **€195 totaal**. Sla de tickets daarna offline op in telefoon/wallet en zet ze bij de reisdocumenten.
+Open actie: boek nog **losse ZooParc-tickets voor vrijdag 3 juli 2026** voor 2 volwassenen en 3 kinderen. Sla de tickets daarna offline op in telefoon/wallet en zet ze bij de reisdocumenten.
 
 <figure class="place-hero">
 	<img src="https://cdn-images.zoobeauval.com/q1dtuHjsfrMu1zfElib-Gka_wcw=/1200x600/https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fimages.zoobeauval.com%2F2021%2F01%2Fhotels-zpdb9i8542-5ff7381d1c486.jpg" alt="Les Pagodes de Beauval met pagode-stijl en waterpartij" loading="eager" decoding="async">
@@ -52,15 +52,13 @@ Beauval ligt bij Saint-Aignan in de Loirestreek. Voor deze stop is de dierentuin
 | Parktickets | Nog boeken: losse tickets voor vrijdag 3 juli 2026 |
 | Parkeren | Gratis parkeren bij het hotel volgens Beauval |
 | Afstand ZooParc | Les Pagodes ligt op ongeveer 7 minuten lopen van de ingang |
-| Kosten hotel | Bevestiging toont €520 totaal voor hotel/flex-optie, plus €4,84 toeristenbelasting ter plaatse |
-
-Bewaar de reserveringsbevestiging apart in mail/offline documenten. Zet het reserveringsnummer niet in deze publieke reispagina.
+Bewaar de reserveringsbevestiging apart in mail/offline documenten.
 
 ## Kaart en bezienswaardigheden
 
 <div class="map-embed" role="group" aria-label="Google Maps kaart voor Beauval en Saint-Aignan">
 	<iframe title="Google Maps kaart Beauval en Saint-Aignan" src="https://www.google.com/maps?q=bezienswaardigheden%20Saint-Aignan%20ZooParc%20de%20Beauval%20Chateau%20de%20Saint-Aignan&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-	<p>Zoekkaart voor de omgeving van Les Pagodes de Beauval, ZooParc en Saint-Aignan. Voor een vaste eigen Google-lijst kan deze embed later worden vervangen door een gedeelde My Maps-kaart.</p>
+	<p>Kaart voor Les Pagodes de Beauval, ZooParc en Saint-Aignan.</p>
 </div>
 
 - [Les Pagodes de Beauval op Google Maps](https://www.google.com/maps/search/?api=1&query=Les%20Pagodes%20de%20Beauval%20Route%20de%20Beauval%2041110%20Saint-Aignan)
@@ -68,7 +66,7 @@ Bewaar de reserveringsbevestiging apart in mail/offline documenten. Zet het rese
 - [Saint-Aignan centrum op Google Maps](https://www.google.com/maps/search/?api=1&query=Saint-Aignan%2041110%20centre)
 - [Chateau de Saint-Aignan op Google Maps](https://www.google.com/maps/search/?api=1&query=Chateau%20de%20Saint-Aignan%2041110)
 
-## Nog doen
+## Praktische reminders
 
 - [ ] **ZooParc-tickets boeken voor vrijdag 3 juli 2026**: 2 volwassenen + 3 kinderen, losse tickets, geen 2-day+ hotelpass.
 - [ ] Tickets downloaden of opslaan in wallet/offline map.
@@ -78,6 +76,4 @@ Bewaar de reserveringsbevestiging apart in mail/offline documenten. Zet het rese
 
 - De hotelboeking bevat ontbijt, maar **geen ZooParc-tickets**.
 - Kies bij tickets voor losse toegang op vrijdag 3 juli; vermijd alsnog de 2-day+ hotelpass tenzij jullie plan verandert.
-- Toeristenbelasting staat als lokaal te betalen bedrag in de bevestiging.
-- De reserveringsbevestiging bevat persoonlijke gegevens en betaalinformatie; bewaar die buiten deze publieke pagina.
 - Vraag EV-laden expliciet na als dat onderweg doorslaggevend wordt.

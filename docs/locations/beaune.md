@@ -15,22 +15,22 @@ Beaune blijft logisch als laatste stop: compact centrum, Hospices de Beaune, goe
 Boekingsprofiel: voor één nacht telt **mobiliteit en bereikbaarheid zwaarder dan centrumligging**. B&B HOTEL Beaune Nord past daar goed bij: parkeren zonder gedoe, snelle aansluiting op A6/A31/A36, airco en twee praktische kamers.
 
 <figure class="place-hero">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Hospices_beaune_toits1.jpg" alt="Geglazuurde daken van de Hospices de Beaune" loading="eager" decoding="async">
-	<figcaption><strong>Hospices de Beaune.</strong> De klassieke Beaune-stop: compact, fotogeniek en goed te combineren met een rustige Bourgogne-dag. Bron: <a href="https://commons.wikimedia.org/wiki/File:Hospices_beaune_toits1.jpg">Wikimedia Commons</a>.</figcaption>
+	<img src="https://res.cloudinary.com/hzekpb1cg/image/upload/c_fill,h_1000,w_1600,f_auto/s3/public/prod/s3fs-public/hotel-beaune-nord_4703_exterior.fdca6695-28753.jpg" alt="B&B HOTEL Beaune Nord" loading="eager" decoding="async">
+	<figcaption><strong>B&B HOTEL Beaune Nord.</strong> Praktische slaapstop bij de snelweg: parkeren, ontbijt, airco en de volgende ochtend vroeg door naar Ommen. Bron: <a href="https://www.hotel-bb.com/en/hotel/beaune-nord">B&B HOTELS</a>.</figcaption>
 </figure>
 
-<div class="image-gallery" aria-label="Beaune beeldgalerie">
+<div class="image-gallery" aria-label="Beaune beeldgalerie en accommodatie">
 	<figure>
-		<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hospices_de_Beaune_0100_26.jpg" alt="Binnenplaats van de Hospices de Beaune" loading="lazy" decoding="async">
-		<figcaption><strong>Hospices / Hôtel-Dieu.</strong> Vooral handig als korte avondwandeling langs de buitenkant; een echt bezoek past waarschijnlijk minder goed door de vroege terugrit. Bron: <a href="https://commons.wikimedia.org/wiki/File:Hospices_de_Beaune_0100_26.jpg">Wikimedia Commons</a>.</figcaption>
+		<img src="https://res.cloudinary.com/hzekpb1cg/image/upload/c_fill,h_1000,w_1600,f_auto/s3/public/prod/s3fs-public/hotel-beaune-nord_4703_family-room.eb157445-28755.jpg" alt="Familiekamer bij B&B HOTEL Beaune Nord" loading="lazy" decoding="async">
+		<figcaption><strong>Familiekamer.</strong> Simpel en precies genoeg voor één nacht. Bron: <a href="https://www.hotel-bb.com/en/hotel/beaune-nord">B&B HOTELS</a>.</figcaption>
 	</figure>
 	<figure>
-		<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Route_des_Grands_Crus_-_Couchey_-_Rue_Jean_Jaur%C3%A8s_%2834961679484%29.jpg" alt="Route des Grands Crus door een Bourgondisch dorp" loading="lazy" decoding="async">
-		<figcaption><strong>Route des Grands Crus.</strong> Korte autorit door wijndorpen richting Pommard, Volnay, Meursault of Savigny. Bron: <a href="https://commons.wikimedia.org/wiki/File:Route_des_Grands_Crus_-_Couchey_-_Rue_Jean_Jaur%C3%A8s_(34961679484).jpg">Wikimedia Commons</a>.</figcaption>
+		<img src="https://res.cloudinary.com/hzekpb1cg/image/upload/c_fill,h_1000,w_1600,f_auto/s3/public/prod/s3fs-public/hotel-beaune-nord_4703_electric-charger.149a8491-28752.jpg" alt="Laadpunt bij B&B HOTEL Beaune Nord" loading="lazy" decoding="async">
+		<figcaption><strong>Laden.</strong> Fijn als de auto 's avonds of vroeg in de ochtend nog wat extra bereik nodig heeft. Bron: <a href="https://www.hotel-bb.com/en/hotel/beaune-nord">B&B HOTELS</a>.</figcaption>
 	</figure>
 	<figure>
-		<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Ch%C3%A2teau-Savigny-l%C3%A8s-Beaune_08.jpg" alt="Château de Savigny-lès-Beaune" loading="lazy" decoding="async">
-		<figcaption><strong>Savigny-lès-Beaune.</strong> Fijn als tienervriendelijke afwisseling naast centrum en wijnroute. Bron: <a href="https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau-Savigny-l%C3%A8s-Beaune_08.jpg">Wikimedia Commons</a>.</figcaption>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Hospices_beaune_toits1.jpg" alt="Geglazuurde daken van de Hospices de Beaune" loading="lazy" decoding="async">
+		<figcaption><strong>Hospices buitenkant.</strong> Mooi doel voor een korte avondwandeling als iedereen nog zin heeft. Bron: <a href="https://commons.wikimedia.org/wiki/File:Hospices_beaune_toits1.jpg">Wikimedia Commons</a>.</figcaption>
 	</figure>
 </div>
 
@@ -71,20 +71,8 @@ Boekingsprofiel: voor één nacht telt **mobiliteit en bereikbaarheid zwaarder d
 | Activiteit | Waarom passend | Praktisch |
 |---|---|---|
 | Beaune centrum | Compact genoeg voor een korte avondwandeling na aankomst. | Alleen doen als iedereen nog energie heeft; parkeren bij centrum/Hospices of taxi vanaf hotel. |
-| Hospices de Beaune buitenkant | Iconische daken en gevels zijn ook zonder museumbezoek leuk om even te zien. | Voor het echte museumbezoek zijn tickets nodig, maar dat past waarschijnlijk niet meer in deze stop. |
+| Hospices de Beaune buitenkant | Iconische daken en gevels zijn ook zonder museumbezoek leuk om even te zien. | Alleen als korte wandeling; geen museumbezoek plannen. |
 | Eenvoudig eten | Belangrijker dan nog een vol programma. | Door 14 juli-drukte liever vooraf een simpele optie kiezen of flexibel bij het hotel/centrum eten. |
-
-## Hospices praktisch
-
-Je kunt de buitenkant en de omgeving van de Hospices natuurlijk even bekijken zonder ticket. De beroemde binnenplaats, de zalen, apotheek en het echte Hôtel-Dieu-verhaal zitten achter de museumroute. Voor “er echt kijken” moet je dus tickets kopen, maar met een vroege rit naar Ommen is dat waarschijnlijk geen prioriteit meer.
-
-| Vraag | Antwoord |
-|---|---|
-| Moet je tickets kopen? | Ja, voor het echte bezoek aan Hôtel-Dieu / Hospices de Beaune. De toerisme-pagina noemt online boeken en een regulier tarief van **€12,50**. |
-| Opening op 14 juli? | De toerisme-pagina noemt tot 15 november 2026 dagelijks **09:00-19:30**. Omdat 14 juli feestdag is: kort vooraf nog even checken. |
-| Wat doe je daar? | Zelfstandig bezoek met audioguide of parcours: binnenplaats, geglazuurde daken, oude ziekenzaal, apotheek, geschiedenis van het ziekenhuis en de stichting uit 1443. |
-| Is het geschikt voor ons? | Ja, als compact hoofdbezoek. Het is visueel sterk en historisch; niet afhankelijk van wijn drinken. |
-| Reserveren? | Alleen doen als jullie bewust een museumbezoek willen plannen. Voor deze stop is buitenkant + korte centrumwandeling waarschijnlijk realistischer. |
 
 ## 14 juli: vroeg naar Ommen
 
@@ -104,24 +92,19 @@ Nog later checken: alleen praktische zaken zoals ontbijturen, uitchecken, laadmo
 
 **Belangrijk:** laad- en vertrekstress vermijden door de avond ervoor al te bepalen waar de eerste laadstop richting Nederland/Ommen komt.
 
-## Bronnen om later terug te pakken
+## Handige links
 
 - [Beaune Tourism](https://www.beaune-tourism.com/)
 - [Beaune Tourism - Hospices de Beaune](https://www.beaune-tourism.com/explore/discover-the-hospices-de-beaune/)
-- [Hôtel-Dieu / Hospices de Beaune praktische info en tickets](https://www.beaune-tourism.com/to-see-and-do/cultural-heritage/hotel-dieu-hospices-de-beaune-beaune-en-3860146/)
-- [Beaune Tourism - Route des Grands Crus](https://www.beaune-tourism.com/explore/the-route-des-grands-crus/)
-- [Beaune Tourism - Family](https://www.beaune-tourism.com/to-see-and-do/family/)
-- [La Moutarderie Fallot - Parcours Découvertes](https://www.beaune-tourism.com/to-see-and-do/cultural-heritage/la-moutarderie-fallot-parcours-decouvertes-beaune-en-3860767/)
-- [Les Étangs d'Or - Parc Eco Loisirs](https://www.beaune-tourism.com/organize-your-stay/what-to-see-what-to-do/leisure-activities/les-etangs-dor-parc-eco-loisirs-de-merceuil-tailly-merceuil-en-3861037/)
 - [Ville de Beaune - agenda](https://www.beaune.fr/agenda/)
 - [B&B HOTEL Beaune Nord](https://www.hotel-bb.com/en/hotel/beaune-nord)
 
-## Nog doen
+## Praktische reminders
 
 - [ ] Bevestigingsmail en boekingsnummer offline bewaren.
 - [ ] Controleren dat de oude foutieve datum offline geannuleerd is, als dat nog niet is gedaan.
 - [ ] Eenvoudige eetoptie voor 13 juli kiezen, liefst zonder omrijden of lang wachten.
-- [ ] Beslissen of een korte avondwandeling langs centrum/Hospices buitenkant nog de moeite is.
+- [ ] Ter plekke beslissen of een korte avondwandeling langs centrum/Hospices buitenkant nog de moeite is.
 - [ ] Ontbijt- en uitchecktijd controleren voor vroeg vertrek naar Ommen.
 - [ ] Eerste laadstop richting Ommen bepalen.
 

@@ -107,9 +107,8 @@ async function loadMarkdown(markdownFile = getMarkdownFile()) {
     wireInternalMarkdownLinks();
   } catch (error) {
     content.innerHTML = `
-      <h2>Kon het reisplan niet laden</h2>
-      <p>Controleer of <code>${markdownFile}</code> in de map <code>docs</code> staat.</p>
-      <p><code>${error.message}</code></p>
+      <h2>Deze stop laadt even niet</h2>
+      <p>Probeer de pagina te verversen of kies een andere stop in de balk hierboven.</p>
     `;
   }
 }

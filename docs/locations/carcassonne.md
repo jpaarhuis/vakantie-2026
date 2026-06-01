@@ -10,7 +10,7 @@ Status op 25 mei 2026: <span class="status-ok">geboekt</span>
 
 [Loft centre-ville Parking, clim, wifi](https://www.booking.com/hotel/fr/loft-centre-ville-parking-clim-wifi.nl.html) is geboekt via Booking.com voor zaterdag 4 juli tot zondag 5 juli 2026, één nacht. De boeking noemt een huis met 3 slaapkamers.
 
-Bevestigingsnummer, pincode en e-mailadres staan bewust niet op deze publieke pagina.
+Bewaar bevestiging en toegangsgegevens offline bij de reisdocumenten.
 
 <figure class="place-hero">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ciudadela%2C_Carcasona%2C_Francia%2C_2023-01-07%2C_DD_216-218_HDR.jpg" alt="Avondzicht op de verlichte Cité de Carcassonne" loading="eager" decoding="async">
@@ -52,7 +52,7 @@ Handig voor onderweg: sla de volledige Booking-bevestiging offline op op telefoo
 
 <div class="map-embed" role="group" aria-label="Google Maps kaart voor Carcassonne">
 	<iframe title="Google Maps kaart Carcassonne bezienswaardigheden" src="https://www.google.com/maps?q=bezienswaardigheden%20Carcassonne%20Cite%20de%20Carcassonne%20Pont%20Vieux%20Basilique%20Saint-Nazaire%20Chateau%20Comtal&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-	<p>Zoekkaart voor de avondwandeling rond de loft, de benedenstad en de middeleeuwse Cité. Voor een vaste eigen Google-lijst kan deze embed later worden vervangen door een gedeelde My Maps-kaart.</p>
+	<p>Kaart voor de avondwandeling rond de loft, de benedenstad en de middeleeuwse Cité.</p>
 </div>
 
 - [Loft-adres op Google Maps](https://www.google.com/maps/search/?api=1&query=43%20Rue%20Voltaire%2011000%20Carcassonne%20France)
@@ -62,12 +62,11 @@ Handig voor onderweg: sla de volledige Booking-bevestiging offline op op telefoo
 - [Pont Vieux op Google Maps](https://www.google.com/maps/search/?api=1&query=Pont%20Vieux%20Carcassonne)
 - [Carcassonne Cathedral op Google Maps](https://www.google.com/maps/search/?api=1&query=Carcassonne%20Cathedral)
 
-## Nog doen
+## Praktische reminders
 
 1. Sla de Booking-bevestiging offline op op telefoon.
 2. Voeg later check-in/out en eventuele specifieke sleutel- of parkeerinstructies toe aan deze pagina.
 3. Controleer of airco in de slaapkamers aanwezig is, niet alleen in de woonkamer.
-4. Zet bevestigingsnummer, pincode en betaalgegevens niet op deze publieke pagina.
 
 ## Let op
 

@@ -10,7 +10,7 @@
 
 Eurocamping **Best Village** staat vast voor zondag 5 juli tot zondag 12 juli 2026, zeven nachten, voor 2 volwassenen en 3 kinderen/tieners. De gedeelde bevestiging noemt een verblijf voor maximaal 5 personen in de Best Village-zone met privézwembad.
 
-Privégegevens uit de boekingsmail, zoals identiteitsgegevens, thuisadres, kenteken en contactgegevens van reizigers, staan bewust niet op deze publieke pagina.
+Privégegevens uit de boekingsmail, zoals identiteitsgegevens, thuisadres, kenteken en contactgegevens van reizigers, bewaren we offline bij de reisdocumenten.
 
 <figure class="place-hero">
 	<img src="https://www.euro-camping.com/wp-content/uploads/28032019-5-2200x1467.jpg" alt="Zwembad en terras bij Best Village op Eurocamping" loading="eager" decoding="async" referrerpolicy="no-referrer">
@@ -56,10 +56,9 @@ Sant Antoni is de ankerweek van de reis: strand, zwembad, kustdorpen, rust en la
 | Comfort | Airco, tv/satelliet, gratis wifi, bedlinnen en handdoeken inbegrepen |
 | Buiten | Woonzone met privézwembad, barbecue, tuinmeubilair en 2 ligbedden |
 | Parkeren | 1 parkeerplaats bij de accommodatie |
-| Kosten | €2.116,24 verblijf incl. btw volgens bevestiging, plus €100 restitueerbare borg |
 | Check-in / check-out | Volgens Eurocamping-accommodatievoorwaarden: aankomst vanaf 17:00, vertrek vóór 11:00 |
 
-Bewaar de volledige bevestiging en latere check-in-instructies offline. Zet reserveringsnummer, thuisadres, ID-gegevens, kenteken en betaalinformatie niet op deze publieke pagina.
+Bewaar de volledige bevestiging en latere check-in-instructies offline.
 
 ## Kaart en bezienswaardigheden
 
@@ -112,7 +111,7 @@ Snorkeltips voor ons:
 - Niet aanraken, voeren of meenemen: kijk naar vissen, algen, zee-egels en nudibranchs, maar laat alles liggen.
 - Check op de dag zelf vlaggen, kwallenmeldingen, stroming en lokale regels; bij twijfel een begeleide trip boeken.
 
-## Bronnen om later terug te pakken
+## Handige links
 
 - [Calonge i Sant Antoni toeristische kaart](https://www.calonge-santantoni.cat/en/map?categories=all)
 - [Costa Brava water sports](https://costabrava.org/en/experiences/water-sports/)
@@ -123,7 +122,7 @@ Snorkeltips voor ons:
 - [Costa Brava snorkel: What's under the sea?](https://costabrava.org/en/experiencia/under-the-sea-water/)
 - [Costa Brava snorkel: Medes Islands](https://costabrava.org/en/experiencia/guided-snorkeling-at-the-medes-islands/)
 
-## Nog doen
+## Praktische reminders
 
 - [ ] Controleer of de door Eurocamping genoemde boeking inmiddels ook als definitief bevestigd en/of aanbetaald staat in hun systeem.
 - [ ] Let op de check-in express mail die ongeveer 5 dagen voor aankomst zou moeten komen.

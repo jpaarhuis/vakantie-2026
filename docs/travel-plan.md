@@ -1,8 +1,8 @@
 # Reisoverzicht Sant Antoni Roadtrip 2026
 
-Dit document is de centrale index voor een gezin van vijf: twee volwassenen en drie tieners. Het doel is een relaxte EV-roadtrip richting Eurocamping / Sant Antoni, met onderweg genoeg afwisseling, cultuur, natuur en praktische laadruimte.
+Dit is ons compacte roadbook voor een gezin van vijf: twee volwassenen en drie tieners. Het doel is een relaxte EV-roadtrip richting Eurocamping / Sant Antoni, met onderweg genoeg afwisseling, cultuur, natuur, strand en praktische laadruimte.
 
-Beschikbaarheidscheck bijgewerkt op 22 mei 2026. Waar een boekingssite geen harde datumvoorraad in platte tekst toont, staat de status bewust als te controleren. Zie per locatie het eigen bestand met opties, bronnen en aandachtspunten.
+De grote lijn staat vast: de meeste slaapstops zijn geboekt, Sant Antoni is de hoofdweek en op de terugweg houden we Beaune bewust licht zodat de rit naar Ommen niet zwaarder wordt dan nodig.
 
 ## Reisroute
 
@@ -39,11 +39,11 @@ Beschikbaarheidscheck bijgewerkt op 22 mei 2026. Waar een boekingssite geen hard
 | Nîmes / Uzès / Pont du Gard | Airbnb in Arpaillargues-et-Aureillac | <span class="status-ok">geboekt</span> Home in Arpaillargues-et-Aureillac geboekt voor 12-13 juli; gratis annuleren tot 11 juli 17:00. Op 12 juli Nîmes bekijken, volgende ochtend Uzès/Pont du Gard en daarna door naar Beaune. |
 | Beaune | B&B HOTEL Beaune Nord | <span class="status-ok">geboekt</span> B&B HOTEL Beaune Nord is geboekt voor 13-14 juli 2026; twee kamers, ontbijt en flexibele annulering volgens bevestiging. Boekingsnummer, bedrag en namen offline bewaren. |
 
-## Hoofdadvies
+## Reiskarakter
 
-Voor een gezin van vijf zijn appartementen, vakantiehuizen, campings en aparthotels minder kwetsbaar dan klassieke familiekamers. Bij hotels steeds expliciet controleren of de boeking voor vijf personen in één unit mag, of dat twee kamers nodig zijn.
+We kiezen onderweg steeds voor rust boven volproppen. Eén goede wandeling, één mooie stad of één duidelijke activiteit per reisdag is genoeg. De tieners moeten ook gewoon kunnen hangen, zwemmen, opladen en niet elke dag een nieuw museum in.
 
-## Tips
+## Tips voor onderweg
 
 ## EV en laden
 
@@ -67,26 +67,11 @@ Een gezin van vijf is in Frankrijk net onhandig: veel familiekamers stoppen bij 
 | Nîmes / Uzès / Pont du Gard | Airbnb in Arpaillargues-et-Aureillac | Geboekt; 12 juli Nîmes, overnachten bij Uzès, 13 juli Uzès/Pont du Gard vóór Beaune |
 | Beaune | B&B HOTEL Beaune Nord | Geboekt; mobiliteit eerst: snelweg dichtbij, parking, EV-lader en vroeg vertrek naar Ommen |
 
-## Nog controleren vóór boeken
+## Nog praktisch regelen
 
-- Is de kamer of gîte echt geschikt voor vijf personen?
-- Is er airco?
-- Is parkeren inbegrepen?
-- Is EV-laden aanwezig of in de buurt?
-- Is bedlinnen inbegrepen?
-- Zijn eindschoonmaak en toeristenbelasting inbegrepen?
-- Wat is de annuleringsvoorwaarde?
-- Is er een minimumverblijf in juli?
-- Hoe laat kun je inchecken bij aankomst na een lange rijddag?
-
-## Handige zoektermen
-
-- `family room 5 people Beauval`
-- `gîte 5 personnes Saint-Aignan Beauval`
-- `family room 5 persons Carcassonne`
-- `gîte Carcassonne 5 personnes piscine`
-- `Pont du Gard appartement 6 personnes`
-- `Nîmes family room 5 persons`
-- `Beaune family room 5 people`
-- `gîte Beaune 5 personnes piscine`
+- ZooParc-tickets voor vrijdag 3 juli los boeken en offline opslaan.
+- Per verblijf de bevestiging, aankomstinstructies en eventuele toegangscodes offline bewaren.
+- Voor Sant Antoni de check-in express mail en borg/eindschoonmaak nog even controleren.
+- Voor Nîmes / Uzès de parkeerkeuze in Nîmes en volgorde Uzès / Pont du Gard bepalen op basis van hitte en energie.
+- Voor Beaune de eerste laadstop richting Ommen de avond ervoor klaarzetten.
 

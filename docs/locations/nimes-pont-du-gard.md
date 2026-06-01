@@ -10,7 +10,7 @@ Status op 1 juni 2026: <span class="status-ok">Airbnb geboekt</span>
 
 Geboekt: **Home in Arpaillargues-et-Aureillac**, bij Uzès en praktisch voor Pont du Gard. De dagindeling wordt nu: **Nîmes op 12 juli**, daarna naar de Airbnb; **Uzès + Pont du Gard op 13 juli**, daarna door naar Beaune.
 
-Belangrijk om te onthouden: gratis annuleren kan tot **11 juli, 17:00**. Dat geeft nog ruimte als de route of planning later verandert. Geen codes of privégegevens op deze publieke pagina zetten.
+Belangrijk om te onthouden: gratis annuleren kan tot **11 juli, 17:00**. Dat geeft nog ruimte als de route of planning later verandert. Codes, hostberichten en exacte aankomstinstructies bewaren we offline.
 
 <figure class="place-hero">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Arena_of_Nimes_banner.jpg" alt="Arena van Nîmes in het centrum" loading="eager" decoding="async">
@@ -139,14 +139,14 @@ Airbnb heeft geen nette officiële embed voor listings, maar de publieke listing
 
 **13 juli:** vóór 10:00 uitchecken. Daarna Uzès en Pont du Gard meenemen, en vervolgens door naar Beaune. Bij warmte of vertraging: kies Pont du Gard als hoofdstop en houd Uzès kort.
 
-## Bronnen om later terug te pakken
+## Handige links
 
 - [Airbnb-listing](https://www.airbnb.com/rooms/1541222468825533916)
 - [Uzès Tourisme](https://www.uzes-pontdugard.com/)
 - [Pont du Gard officiële site](https://pontdugard.fr/en)
 - [Pont du Gard praktische informatie](https://pontdugard.fr/en/getting-here)
 
-## Nog doen
+## Praktische reminders
 
 - [ ] Airbnb-details offline bewaren: adres, hostcontact, lockbox/check-ininstructies en routebeschrijving.
 - [ ] Parkeren bij/rond het huis praktisch checken in Airbnb-berichten of Google Maps.
@@ -158,4 +158,3 @@ Airbnb heeft geen nette officiële embed voor listings, maar de publieke listing
 
 - Nîmes staat op 12 juli bewust in het plan, maar compact houden zodat check-in en rust bij Uzès niet in de knel komen.
 - Airco en soepel uitchecken zijn belangrijker dan nog een extra stadsprogramma proppen.
-- Laat geen boekingsnummers, betaalgegevens of privégegevens op deze publieke pagina staan.

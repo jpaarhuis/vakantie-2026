@@ -5,56 +5,65 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Sant Antoni Roadtrip 2026</title>
   <meta name="robots" content="noindex, nofollow" />
-  <meta name="description" content="Mobiel reisoverzicht voor de roadtrip naar Sant Antoni, met tussenstops, verblijfopties en EV-notities." />
-  <link rel="stylesheet" href="style.css?v=20260601-new-badge" />
+  <meta name="description" content="Familie-roadbook voor de roadtrip naar Sant Antoni, met alle stops, overnachtingen en praktische reminders." />
+  <link rel="stylesheet" href="style.css?v=20260601-roadbook" />
 </head>
 <body>
   <header class="hero">
     <div class="hero__inner">
-      <p class="eyebrow">Roadtrip · gezin van 5 · zomer 2026</p>
-      <h1>Sant Antoni Roadtrip 2026</h1>
-      <p class="subtitle">Een bewerkbare GitHub Pages-versie van het reisplan, geschikt voor mobiel gebruik onderweg.</p>
-      <table class="route-card" aria-label="Route samenvatting">
-        <thead>
-          <tr>
-            <th scope="col">Van</th>
-            <th scope="col">Rijden</th>
-            <th scope="col">Naar</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Ommen</td>
-            <td><strong>9u25 · 805 km</strong></td>
-            <td>Beauval</td>
-          </tr>
-          <tr>
-            <td>Beauval</td>
-            <td><strong>6u15 · 565 km</strong></td>
-            <td>Carcassonne</td>
-          </tr>
-          <tr>
-            <td>Carcassonne</td>
-            <td><strong>2u45 · 250 km</strong></td>
-            <td>Sant Antoni</td>
-          </tr>
-          <tr>
-            <td>Sant Antoni</td>
-            <td><strong>4u00 · 370 km</strong></td>
-            <td>Nîmes → Uzès / Pont du Gard</td>
-          </tr>
-          <tr>
-            <td>Uzès / Pont du Gard</td>
-            <td><strong>4u15 · 390 km</strong></td>
-            <td>Beaune</td>
-          </tr>
-          <tr>
-            <td>Beaune</td>
-            <td><strong>8u45 · 800 km</strong></td>
-            <td>Ommen</td>
-          </tr>
-        </tbody>
-      </table>
+      <div class="hero__layout">
+        <div>
+          <p class="eyebrow">Roadtrip · gezin van 5 · zomer 2026</p>
+          <h1>Sant Antoni Roadtrip 2026</h1>
+          <p class="subtitle">Ons roadbook voor de rit naar de Costa Brava: slapen, rijden, zwemmen, steden kijken en genoeg ruimte houden om gewoon vakantie te vieren.</p>
+          <table class="route-card" aria-label="Route samenvatting">
+            <thead>
+              <tr>
+                <th scope="col">Van</th>
+                <th scope="col">Rijden</th>
+                <th scope="col">Naar</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Ommen</td>
+                <td><strong>9u25 · 805 km</strong></td>
+                <td>Beauval</td>
+              </tr>
+              <tr>
+                <td>Beauval</td>
+                <td><strong>6u15 · 565 km</strong></td>
+                <td>Carcassonne</td>
+              </tr>
+              <tr>
+                <td>Carcassonne</td>
+                <td><strong>2u45 · 250 km</strong></td>
+                <td>Sant Antoni</td>
+              </tr>
+              <tr>
+                <td>Sant Antoni</td>
+                <td><strong>4u00 · 370 km</strong></td>
+                <td>Nîmes / Uzès</td>
+              </tr>
+              <tr>
+                <td>Uzès</td>
+                <td><strong>4u15 · 390 km</strong></td>
+                <td>Beaune</td>
+              </tr>
+              <tr>
+                <td>Beaune</td>
+                <td><strong>8u45 · 800 km</strong></td>
+                <td>Ommen</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <aside class="trip-map" aria-label="Kaart van de hele route">
+          <iframe title="Google Maps route Ommen, Beauval, Carcassonne, Sant Antoni, Nîmes, Pont du Gard, Beaune en Ommen" src="https://www.google.com/maps?output=embed&saddr=Ommen%2C%20Netherlands&daddr=ZooParc%20de%20Beauval%20to%20Carcassonne%20to%20Eurocamping%20Sant%20Antoni%20de%20Calonge%20to%20N%C3%AEmes%20to%20Pont%20du%20Gard%20to%20B%26B%20HOTEL%20Beaune%20Nord%20to%20Ommen%2C%20Netherlands" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <a href="https://www.google.com/maps/dir/?api=1&origin=Ommen%2C%20Netherlands&destination=Ommen%2C%20Netherlands&waypoints=ZooParc%20de%20Beauval%7CCarcassonne%7CEurocamping%20Sant%20Antoni%20de%20Calonge%7CN%C3%AEmes%7CPont%20du%20Gard%7CB%26B%20HOTEL%20Beaune%20Nord&travelmode=driving" target="_blank" rel="noopener noreferrer">Open de hele route in Google Maps</a>
+        </aside>
+      </div>
     </div>
   </header>
 
@@ -69,20 +78,16 @@
   </nav>
 
   <main class="page">
-    <section class="notice">
-      <strong>Bewerken:</strong> pas <code>docs/travel-plan.md</code> of een bestand in <code>docs/locations</code> aan in GitHub. Deze pagina laadt de Markdown automatisch.
-    </section>
-
     <article id="content" class="content" aria-live="polite">
       <p>Reisplan wordt geladen…</p>
     </article>
   </main>
 
   <footer class="footer">
-    <p>Static GitHub Pages site · inhoud uit <code>travel-plan.md</code></p>
+    <p>Samen op pad: van Ommen naar Beauval, Carcassonne, Sant Antoni, Nîmes, Uzès, Beaune en weer thuis.</p>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <script src="app.js?v=20260525-sant-antoni"></script>
+  <script src="app.js?v=20260601-roadbook"></script>
 </body>
 </html>
