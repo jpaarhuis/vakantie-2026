@@ -80,18 +80,42 @@ Mijn eerste gevoel: **B&B Beaune Sud 2 of B&B Beaune Sud 1** als praktische prij
 
 | Activiteit | Waarom passend | Praktisch |
 |---|---|---|
-| Hospices de Beaune / Hôtel-Dieu | Must-see, compact, iconische daken en binnenplaats. | Beste hoofdanker; vooraf tickets/openingstijden checken vanwege 14 juli. |
-| Beaune centrum | Compact wandelen, eten, ijs/terras, niet te zwaar. | Goed rond lunch of avond; restaurant reserveren. |
-| Route des Grands Crus | Mooie korte autorit door Pommard, Volnay, Meursault of Savigny. | Niet te ambitieus maken; kies 1-2 dorpen. |
-| Château de Savigny-lès-Beaune | Tienervriendelijker door collecties met auto’s/motoren/vliegtuigen. | Sterke optie als iedereen even iets anders wil dan wijn/centrum. |
-| Cité des Climats et vins de Bourgogne | Educatief en modern, ook als het warm is. | Alleen doen als er energie is naast Hospices. |
+| Hospices de Beaune / Hôtel-Dieu | Must-see, compact, iconische daken en binnenplaats; gaat vooral over geschiedenis, zorg en architectuur, niet over wijn drinken. | Beste hoofdanker. Tickets nodig voor het echte bezoek; zie aparte notitie hieronder. |
+| La Moutarderie Fallot | Niet-wijn, typisch Bourgondisch en interactief: mosterdmuseum/proefroute. | Vol tarief rond €12, kindertarief rond €9; dagelijks 09:30-18:00 volgens toerisme-info. Vooraf tijdslot checken. |
+| Beaune centrum | Compact wandelen, eten, ijs/terras, winkels, Place Carnot en oude straatjes. | Goed rond lunch of avond; restaurant reserveren vanwege 14 juli. |
+| Château de Savigny-lès-Beaune | Tienervriendelijker door collecties met auto’s, motoren, vliegtuigen en bijzondere objecten. | Sterke optie als iedereen even iets anders wil dan museum/centrum. Check openingstijden. |
+| Les Étangs d'Or bij Merceuil/Tailly | Buitenlucht, wandelen, natuur en meren op korte afstand van Beaune. | Goed bij mooi weer of als de stad druk is; parkeren aanwezig volgens toerisme-info. |
+| Cité des Climats et vins de Bourgogne | Modern gebouw, uitzicht en uitleg over landschap/terroir; kan ook interessant zijn zonder wijnproeven. | Alleen doen als architectuur/uitzicht/educatief verhaal aanspreekt; niet plannen als “wijnactiviteit”. |
 | Zwembad/rustmoment | Nodig na veel reisdagen. | Daarom heeft Campanile/Mercure/Novotel extra waarde. |
+
+## Hospices praktisch
+
+Je kunt de buitenkant en de omgeving van de Hospices natuurlijk even bekijken zonder ticket, maar de beroemde binnenplaats, de zalen, apotheek en het echte Hôtel-Dieu-verhaal zitten achter de museumroute. Voor “er echt kijken” moet je dus tickets kopen.
+
+| Vraag | Antwoord |
+|---|---|
+| Moet je tickets kopen? | Ja, voor het echte bezoek aan Hôtel-Dieu / Hospices de Beaune. De toerisme-pagina noemt online boeken en een regulier tarief van **€12,50**. |
+| Opening op 14 juli? | De toerisme-pagina noemt tot 15 november 2026 dagelijks **09:00-19:30**. Omdat 14 juli feestdag is: kort vooraf nog even checken. |
+| Wat doe je daar? | Zelfstandig bezoek met audioguide of parcours: binnenplaats, geglazuurde daken, oude ziekenzaal, apotheek, geschiedenis van het ziekenhuis en de stichting uit 1443. |
+| Is het geschikt voor ons? | Ja, als compact hoofdbezoek. Het is visueel sterk en historisch; niet afhankelijk van wijn drinken. |
+| Reserveren? | Aanrader, zeker rond 14 juli. Kies liever ochtend of vroege middag en houd daarna ruimte voor lunch/rust. |
+
+## 14 juli: wat is er te beleven zonder wijnfocus?
+
+De officiële Beaune Tourism- en gemeentelijke agenda’s tonen nu nog geen hard 14-juli-avondprogramma zoals vuurwerk of concert op die datum. Dat kan later alsnog verschijnen. Voor nu is dit de beste niet-wijnroute:
+
+1. **Ochtend:** Hospices de Beaune met ticket.
+2. **Lunch / vroege middag:** centrum, Place Carnot, ijs/terras of rustig eten.
+3. **Middagkeuze:** Fallot-mosterdmuseum als binnenactiviteit, Château de Savigny-lès-Beaune als tienervriendelijke uitstap, of Les Étangs d'Or als buitenlucht/rust.
+4. **Avond:** centrum of hotelrestaurant, afhankelijk van drukte en hitte. Restaurant vroeg reserveren.
+
+Nog later checken: gemeentelijke agenda van Beaune, toerisme-agenda en eventueel lokale aankondigingen voor **Fête Nationale / 14 juillet**.
 
 ## Mogelijk dagritme
 
 **13 juli:** na Uzès en Pont du Gard door naar Beaune. Aankomst, parkeren, inchecken, simpel eten. Geen zwaar programma meer plannen.
 
-**14 juli:** Hospices de Beaune als hoofdactiviteit. Daarna centrumwandeling of korte Route des Grands Crus. Bij hitte: terug naar hotel/zwembad en alleen ’s avonds centrum.
+**14 juli:** Hospices de Beaune als hoofdactiviteit met ticket. Daarna centrumwandeling en lunch. Kies daarna één niet-wijnactiviteit: Fallot-mosterdmuseum, Château de Savigny-lès-Beaune of Les Étangs d'Or. Bij hitte: terug naar hotel/zwembad en alleen ’s avonds centrum.
 
 **15 juli:** vroeg ontbijt, auto laden indien mogelijk, lange rit naar Nederland. Verblijf kiezen op soepele parking en snelle route-uitgang.
 
@@ -99,8 +123,12 @@ Mijn eerste gevoel: **B&B Beaune Sud 2 of B&B Beaune Sud 1** als praktische prij
 
 - [Beaune Tourism](https://www.beaune-tourism.com/)
 - [Beaune Tourism - Hospices de Beaune](https://www.beaune-tourism.com/explore/discover-the-hospices-de-beaune/)
+- [Hôtel-Dieu / Hospices de Beaune praktische info en tickets](https://www.beaune-tourism.com/to-see-and-do/cultural-heritage/hotel-dieu-hospices-de-beaune-beaune-en-3860146/)
 - [Beaune Tourism - Route des Grands Crus](https://www.beaune-tourism.com/explore/the-route-des-grands-crus/)
 - [Beaune Tourism - Family](https://www.beaune-tourism.com/to-see-and-do/family/)
+- [La Moutarderie Fallot - Parcours Découvertes](https://www.beaune-tourism.com/to-see-and-do/cultural-heritage/la-moutarderie-fallot-parcours-decouvertes-beaune-en-3860767/)
+- [Les Étangs d'Or - Parc Eco Loisirs](https://www.beaune-tourism.com/organize-your-stay/what-to-see-what-to-do/leisure-activities/les-etangs-dor-parc-eco-loisirs-de-merceuil-tailly-merceuil-en-3861037/)
+- [Ville de Beaune - agenda](https://www.beaune.fr/agenda/)
 - [B&B HOTEL Beaune Sud 2](https://www.hotel-bb.com/en/hotel/beaune-sud-2)
 - [B&B HOTEL Beaune Sud 1 Palais des Congrès](https://www.hotel-bb.com/en/hotel/beaune-sud-1-palais-des-congres)
 - [Campanile Beaune](https://beaune.campanile.com/en-us/)
@@ -114,7 +142,9 @@ Mijn eerste gevoel: **B&B Beaune Sud 2 of B&B Beaune Sud 1** als praktische prij
 - [ ] Campanile controleren op beschikbaarheid, kameropzet, EV-laadpunt en zwembadopening.
 - [ ] Kyriad controleren als middenoptie.
 - [ ] Restaurant voor 14 juli reserveren zodra verblijf vaststaat.
-- [ ] Beslissen of 14 juli vooral Hospices + centrum wordt, of Hospices + korte wijnroute.
+- [ ] Hospices-tickets checken/kopen voor 14 juli, liefst ochtend of vroege middag.
+- [ ] Beslissen welke niet-wijnactiviteit ernaast past: Fallot, Château de Savigny-lès-Beaune of Les Étangs d'Or.
+- [ ] Kort voor vertrek nog Fête Nationale / 14-juli-programma checken bij Ville de Beaune en Beaune Tourism.
 
 ## Let op
 
