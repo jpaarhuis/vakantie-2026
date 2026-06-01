@@ -8,7 +8,7 @@
 
 Status op 25 mei 2026: <span class="status-ok">geboekt</span>
 
-[Loft centre-ville Parking, clim, wifi](https://www.booking.com/hotel/fr/loft-centre-ville-parking-clim-wifi.nl.html) is geboekt via Booking.com voor zaterdag 4 juli tot zondag 5 juli 2026, één nacht. De bevestiging noemt een huis met 3 slaapkamers en een totaal betaald bedrag van €255,15.
+[Loft centre-ville Parking, clim, wifi](https://www.booking.com/hotel/fr/loft-centre-ville-parking-clim-wifi.nl.html) is geboekt via Booking.com voor zaterdag 4 juli tot zondag 5 juli 2026, één nacht. De boeking noemt een huis met 3 slaapkamers.
 
 Bevestigingsnummer, pincode en e-mailadres staan bewust niet op deze publieke pagina.
 
@@ -42,7 +42,6 @@ Bevestigingsnummer, pincode en e-mailadres staan bewust niet op deze publieke pa
 Boeking: Booking.com.  
 Verblijf: zaterdag 4 juli tot zondag 5 juli 2026, één nacht.  
 Type: huis met 3 slaapkamers.  
-Kosten: €255,15 totaal betaald volgens Booking-bevestiging.  
 Adres: 43 Rue Voltaire, 11000 Carcassonne, Frankrijk.  
 Parkeren: Booking-pagina noemt privéparkeren op het terrein.  
 Ligging: bij Carcassonne Cathedral en Memorial House; luchthaven Carcassonne ligt volgens Booking op ongeveer 3 km.

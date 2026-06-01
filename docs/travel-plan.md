@@ -38,7 +38,7 @@ Beschikbaarheidscheck bijgewerkt op 22 mei 2026. Waar een boekingssite geen hard
 | Carcassonne | Loft centre-ville Parking, clim, wifi | <span class="status-ok">geboekt</span> Booking.com: huis met 3 slaapkamers voor 4-5 juli 2026; adres en parkeerinstructies nog offline bewaren. |
 | Sant Antoni | Eurocamping Best Village | <span class="status-ok">geboekt</span> Eurocamping Best Village is vastgelegd voor 5-12 juli 2026; check-in express en betaalstatus later nog praktisch controleren. |
 | Nîmes / Uzès / Pont du Gard | Airbnb in Arpaillargues-et-Aureillac | <span class="status-ok">geboekt</span> Home in Arpaillargues-et-Aureillac geboekt voor 12-13 juli; gratis annuleren tot 11 juli 17:00. Op 12 juli Nîmes bekijken, volgende ochtend Uzès/Pont du Gard en daarna door naar Beaune. |
-| Beaune | Campanile, Première Classe of Mercure/centrumoptie | <span class="status-check">te controleren</span> Zoekresultaten tonen familievriendelijke hotelpagina’s; voor vijf personen waarschijnlijk twee kamers of familiekamer bevestigen. |
+| Beaune | B&B Beaune Sud 2 / B&B Sud 1, daarna Campanile of Kyriad | <span class="status-check">shortlist gestart</span> B&B-opties lijken sterk door gratis afgesloten parking, EV-lader en ligging bij centrum/A6; Campanile is comfortoptie met zwembad/restaurant/laadpunt. |
 
 ## Hoofdadvies
 
@@ -66,7 +66,7 @@ Een gezin van vijf is in Frankrijk net onhandig: veel familiekamers stoppen bij 
 | Carcassonne | Loft centre-ville Parking, clim, wifi | Geboekt; centrale tussenstop met airco en parking |
 | Sant Antoni | Eurocamping Best Village | Geboekt; hoofdweek aan de Costa Brava met privézwembadzone |
 | Nîmes / Uzès / Pont du Gard | Airbnb in Arpaillargues-et-Aureillac | Geboekt; 12 juli Nîmes, overnachten bij Uzès, 13 juli Uzès/Pont du Gard vóór Beaune |
-| Beaune | Campanile Beaune of Mercure Beaune Centre | Zwembad, parking, goede roadtripbalans |
+| Beaune | B&B Beaune Sud 2 of Campanile Beaune | B&B voor prijs/parking/laden/ligging; Campanile als zwembad en restaurant belangrijker zijn |
 
 ## Nog controleren vóór boeken
 
