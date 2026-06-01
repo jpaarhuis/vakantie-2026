@@ -36,18 +36,16 @@ Boekingsprofiel: voor één nacht telt **mobiliteit en bereikbaarheid zwaarder d
 
 ## Kaart
 
-<div class="map-embed" role="group" aria-label="Google Maps kaart voor B&B HOTEL Beaune Nord en bezienswaardigheden in Beaune">
-	<iframe title="Google Maps kaart B&B HOTEL Beaune Nord, Hospices de Beaune en centrum" src="https://www.google.com/maps?q=B%26B%20HOTEL%20Beaune%20Nord%20Hospices%20de%20Beaune%20Place%20Carnot%20La%20Moutarderie%20Fallot%20Beaune&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-	<p>Kaart voor de avondstop: B&B HOTEL Beaune Nord, Hospices de Beaune, Place Carnot / centrum en La Moutarderie Fallot als herkenningspunten.</p>
+<div class="map-embed" role="group" aria-label="Google Maps routekaart van B&B HOTEL Beaune Nord naar Beaune centrum">
+	<iframe title="Google Maps route B&B HOTEL Beaune Nord naar Hospices de Beaune" src="https://www.google.com/maps?output=embed&saddr=B%26B%20HOTEL%20Beaune%20Nord%2C%2020%20Rue%20du%20Tacot%2C%2021420%20Savigny-l%C3%A8s-Beaune&daddr=Hospices%20de%20Beaune%2C%20Rue%20de%20l%27H%C3%B4tel-Dieu%2C%2021200%20Beaune" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	<p>Routekaart voor de avondstop: van B&B HOTEL Beaune Nord naar Hospices de Beaune / centrum. Gebruik de links hieronder voor Place Carnot en La Moutarderie Fallot.</p>
 </div>
 
+- [Avondroute hotel → Hospices → Place Carnot → Fallot op Google Maps](https://www.google.com/maps/dir/?api=1&origin=B%26B%20HOTEL%20Beaune%20Nord%2C%2020%20Rue%20du%20Tacot%2C%2021420%20Savigny-l%C3%A8s-Beaune&destination=La%20Moutarderie%20Fallot%2C%20Beaune&waypoints=Hospices%20de%20Beaune%7CPlace%20Carnot%20Beaune&travelmode=driving)
 - [B&B HOTEL Beaune Nord op Google Maps](https://www.google.com/maps/search/?api=1&query=B%26B%20HOTEL%20Beaune%20Nord)
 - [Hospices de Beaune op Google Maps](https://www.google.com/maps/search/?api=1&query=Hospices%20de%20Beaune)
 - [Place Carnot / centrum Beaune op Google Maps](https://www.google.com/maps/search/?api=1&query=Place%20Carnot%20Beaune)
 - [La Moutarderie Fallot op Google Maps](https://www.google.com/maps/search/?api=1&query=La%20Moutarderie%20Fallot%20Beaune)
-- [Pommard op Google Maps](https://www.google.com/maps/search/?api=1&query=Pommard)
-- [Savigny-lès-Beaune op Google Maps](https://www.google.com/maps/search/?api=1&query=Savigny-l%C3%A8s-Beaune)
-- [Meursault op Google Maps](https://www.google.com/maps/search/?api=1&query=Meursault)
 
 ## Gekozen verblijf
 
