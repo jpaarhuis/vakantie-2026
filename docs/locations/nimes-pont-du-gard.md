@@ -10,7 +10,7 @@ Status op 1 juni 2026: <span class="status-ok">Airbnb geboekt</span>
 
 Geboekt: **Home in Arpaillargues-et-Aureillac**, bij Uzès en praktisch voor Pont du Gard. De dagindeling wordt nu: **Nîmes op 12 juli**, daarna naar de Airbnb; **Uzès + Pont du Gard op 13 juli**, daarna door naar Beaune.
 
-Belangrijk om te onthouden: gratis annuleren kan tot **11 juli, 17:00**. Dat geeft nog ruimte als de route of planning later verandert. Geen bevestigingscode of privégegevens op deze publieke pagina zetten.
+Belangrijk om te onthouden: gratis annuleren kan tot **11 juli, 17:00**. Dat geeft nog ruimte als de route of planning later verandert. Geen codes of privégegevens op deze publieke pagina zetten.
 
 <figure class="place-hero">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Arena_of_Nimes_banner.jpg" alt="Arena van Nîmes in het centrum" loading="eager" decoding="async">
@@ -35,6 +35,37 @@ Belangrijk om te onthouden: gratis annuleren kan tot **11 juli, 17:00**. Dat gee
 ## Locatie
 
 De overnachting ligt in **Arpaillargues-et-Aureillac**, vlak bij Uzès en logisch ten opzichte van Pont du Gard. Nîmes is de bewuste stadsstop op 12 juli; Uzès en Pont du Gard zijn de logische stops op 13 juli. Exact adres en check-ininstructies blijven offline bij de Airbnb-boeking.
+
+## Airbnb-foto's
+
+Airbnb heeft geen nette officiële embed voor listings, maar de publieke listingfoto's kunnen wel als klikbare preview naar de accommodatie dienen.
+
+<div class="image-gallery" aria-label="Airbnb foto previews">
+  <figure>
+    <a href="https://www.airbnb.com/rooms/1541222468825533916">
+      <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1541222468825533916/original/c01eb4ed-0eb3-496a-a2df-d29c0adce39c.jpeg?im_w=720&amp;width=720&amp;quality=70&amp;auto=webp" alt="Airbnb in Arpaillargues-et-Aureillac bij Uzès" loading="lazy" decoding="async" referrerpolicy="no-referrer">
+    </a>
+    <figcaption><strong>Airbnb bij Uzès.</strong> Klik door naar de publieke Airbnb-listing.</figcaption>
+  </figure>
+  <figure>
+    <a href="https://www.airbnb.com/rooms/1541222468825533916">
+      <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1541222468825533916/original/733c5f73-c440-4c18-85b5-bd595e31f3c2.jpeg" alt="Foto van de geboekte Airbnb bij Uzès" loading="lazy" decoding="async" referrerpolicy="no-referrer">
+    </a>
+    <figcaption><strong>Geboekte accommodatie.</strong> Publieke listingfoto via Airbnb.</figcaption>
+  </figure>
+  <figure>
+    <a href="https://www.airbnb.com/rooms/1541222468825533916">
+      <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1541222468825533916/original/c71ed2b6-b61d-48c5-b2a6-87faca2f538c.jpeg" alt="Airbnb previewfoto van het verblijf bij Uzès" loading="lazy" decoding="async" referrerpolicy="no-referrer">
+    </a>
+    <figcaption><strong>Voor één nacht.</strong> Rustige basis na Nîmes en vóór Uzès/Pont du Gard.</figcaption>
+  </figure>
+  <figure>
+    <a href="https://www.airbnb.com/rooms/1541222468825533916">
+      <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1541222468825533916/original/965ab241-b6b3-4405-8499-ceaa58531c08.jpeg" alt="Airbnb previewfoto van de accommodatie in de omgeving van Uzès" loading="lazy" decoding="async" referrerpolicy="no-referrer">
+    </a>
+    <figcaption><strong>Listingfoto.</strong> Open de Airbnb-link voor de volledige fotoreeks.</figcaption>
+  </figure>
+</div>
 
 ## Reisinfo voor onderweg
 
