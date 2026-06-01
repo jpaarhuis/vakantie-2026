@@ -132,6 +132,24 @@ h1 {
   stroke-linejoin: round;
 }
 
+.route-diagram__country {
+  stroke: rgba(31, 41, 51, .22);
+  stroke-width: 2;
+  vector-effect: non-scaling-stroke;
+}
+
+.route-diagram__country--france {
+  fill: #f5ecd9;
+}
+
+.route-diagram__country--spain {
+  fill: #e5d4b8;
+}
+
+.route-diagram__country--secondary {
+  fill: rgba(245,236,217,.78);
+}
+
 .route-diagram__label text {
   fill: rgba(31, 41, 51, .68);
   font-size: 17px;
