@@ -37,7 +37,7 @@ Beschikbaarheidscheck bijgewerkt op 22 mei 2026. Waar een boekingssite geen hard
 | Beauval | Les Pagodes de Beauval + losse ZooParc-tickets | <span class="status-ok">hotel geboekt</span> Les Pagodes is geboekt voor 2 nachten; ZooParc-tickets voor vrijdag 3 juli moeten nog los geboekt worden. |
 | Carcassonne | Loft centre-ville Parking, clim, wifi | <span class="status-ok">geboekt</span> Booking.com: huis met 3 slaapkamers voor 4-5 juli 2026; adres en parkeerinstructies nog offline bewaren. |
 | Sant Antoni | Eurocamping Best Village | <span class="status-ok">geboekt</span> Eurocamping Best Village is vastgelegd voor 5-12 juli 2026; check-in express en betaalstatus later nog praktisch controleren. |
-| Nîmes / Pont du Gard | Appart'City Arènes, Hôtel/Villa Majestic of Odalys Arènes | <span class="status-check">prijs/rating-check klaar</span> Voorkeur is Nîmes centrum: vergelijk totaalprijs voor 5 personen, rating en afstand tot Arènes. Twee units is prima; Appart'City Centre blijft budget-/T3-fallback. |
+| Nîmes / Pont du Gard | C Suites, Airbnb-optie, Appart'City Arènes of Villa Majestic | <span class="status-check">shortlist aangescherpt</span> C Suites is praktisch door prijs/parking/overnachtladen, maar rating en centrumafstand zijn zwak. Airbnb toont meerdere één-unit opties; Appart'City Arènes en Villa Majestic blijven open. |
 | Beaune | Campanile, Première Classe of Mercure/centrumoptie | <span class="status-check">te controleren</span> Zoekresultaten tonen familievriendelijke hotelpagina’s; voor vijf personen waarschijnlijk twee kamers of familiekamer bevestigen. |
 
 ## Hoofdadvies
@@ -65,7 +65,7 @@ Een gezin van vijf is in Frankrijk net onhandig: veel familiekamers stoppen bij 
 | Beauval | Les Pagodes de Beauval | Geboekt; alleen ZooParc-tickets nog apart regelen |
 | Carcassonne | Loft centre-ville Parking, clim, wifi | Geboekt; centrale tussenstop met airco en parking |
 | Sant Antoni | Eurocamping Best Village | Geboekt; hoofdweek aan de Costa Brava met privézwembadzone |
-| Nîmes / Pont du Gard | Appart'City Arènes of Hôtel/Villa Majestic | Nîmes zelf zien; kiezen op totaalprijs, rating en afstand tot Arènes, Pont du Gard als korte rit |
+| Nîmes / Pont du Gard | C Suites of goede Airbnb in/naast centrum | C Suites voor laden/parking/prijs; Airbnb mogelijk beter voor één unit en centrumgevoel |
 | Beaune | Campanile Beaune of Mercure Beaune Centre | Zwembad, parking, goede roadtripbalans |
 
 ## Nog controleren vóór boeken
