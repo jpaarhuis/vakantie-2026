@@ -98,11 +98,62 @@ h1 {
   backdrop-filter: blur(10px);
 }
 
-.trip-map iframe {
+.trip-map__art {
   display: block;
   width: 100%;
-  height: 310px;
-  border: 0;
+  height: auto;
+  min-height: 310px;
+  background: #d7f0ef;
+}
+
+.trip-map__route {
+  fill: none;
+  stroke: #1f6f78;
+  stroke-width: 7;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  filter: url(#routeShadow);
+}
+
+.trip-map__route--return {
+  stroke: #a45d3b;
+  stroke-width: 5;
+  stroke-dasharray: 8 9;
+}
+
+.trip-map__stop circle {
+  fill: #fff;
+  stroke: #1f6f78;
+  stroke-width: 4;
+}
+
+.trip-map__stop--home circle {
+  stroke: #a45d3b;
+}
+
+.trip-map__stop--coast circle {
+  fill: #a45d3b;
+  stroke: #fff;
+}
+
+.trip-map__stop text,
+.trip-map__country {
+  font-weight: 800;
+  paint-order: stroke;
+  stroke: rgba(255,255,255,.82);
+  stroke-width: 5px;
+  stroke-linejoin: round;
+}
+
+.trip-map__stop text {
+  fill: #1f2933;
+  font-size: 18px;
+}
+
+.trip-map__country {
+  fill: rgba(31, 41, 51, .55);
+  font-size: 16px;
+  letter-spacing: .02em;
 }
 
 .trip-map a {
@@ -167,8 +218,8 @@ h1 {
     grid-template-columns: 1fr;
   }
 
-  .trip-map iframe {
-    height: 260px;
+  .trip-map__art {
+    min-height: 245px;
   }
 
   .route-card {
