@@ -138,6 +138,27 @@ h1 {
   font-weight: 800;
 }
 
+.route-diagram__map-label,
+.route-diagram__water-label {
+  font-weight: 850;
+  paint-order: stroke;
+  stroke: rgba(255,255,255,.62);
+  stroke-width: 5px;
+  stroke-linejoin: round;
+  text-anchor: middle;
+}
+
+.route-diagram__map-label {
+  fill: rgba(31, 41, 51, .42);
+  font-size: 18px;
+  letter-spacing: .04em;
+}
+
+.route-diagram__water-label {
+  fill: rgba(31, 111, 120, .62);
+  font-size: 14px;
+}
+
 .route-diagram__badge rect {
   fill: rgba(255,255,255,.72);
   stroke: rgba(31, 111, 120, .18);
