@@ -378,7 +378,8 @@ h1 {
 
 .content .status-ok,
 .content .status-check,
-.content .status-risk {
+.content .status-risk,
+.content .status-new {
   display: inline-block;
   border-radius: 999px;
   padding: .08rem .5rem;
@@ -389,10 +390,12 @@ h1 {
 .content .status-ok { background: #dff5e8; color: #16613a; }
 .content .status-check { background: #fff1cf; color: #7a4b00; }
 .content .status-risk { background: #ffe1dc; color: #8a2d1e; }
+.content .status-new { background: #e6edff; color: #24418f; }
 
 :root.dark .content .status-ok { background: #163927; color: #9be0b9; }
 :root.dark .content .status-check { background: #42320e; color: #ffd983; }
 :root.dark .content .status-risk { background: #4a211c; color: #ffafa0; }
+:root.dark .content .status-new { background: #1e2b55; color: #aebfff; }
 
 .content li + li { margin-top: .4rem; }
 
