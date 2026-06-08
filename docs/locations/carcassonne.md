@@ -6,6 +6,8 @@
 
 ## Status
 
+> 🔒 **Privé-boekingsgegevens** (bevestigingsnummer, pincode, prijs, persoonsgegevens) staan in het privédocument in Google Drive — zie sectie *Carcassonne*: [Boekingen & privé-info](https://docs.google.com/document/d/1943jVIBcvzyHOALnLJw3XJVb020pXnXjl9MxDdk-7KI/edit). Bewust niet op deze publieke pagina.
+
 Status op 25 mei 2026: <span class="status-ok">geboekt</span>
 
 [Loft centre-ville Parking, clim, wifi](https://www.booking.com/hotel/fr/loft-centre-ville-parking-clim-wifi.nl.html) is geboekt via Booking.com voor zaterdag 4 juli tot zondag 5 juli 2026, één nacht. De boeking noemt een huis met 3 slaapkamers.

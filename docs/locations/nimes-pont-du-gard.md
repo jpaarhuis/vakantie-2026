@@ -6,6 +6,8 @@
 
 ## Status
 
+> 🔒 **Privé-boekingsgegevens** (Airbnb-reservering, codes, prijs) staan in het privédocument in Google Drive — zie sectie *Nîmes / Uzès / Pont du Gard*: [Boekingen & privé-info](https://docs.google.com/document/d/1943jVIBcvzyHOALnLJw3XJVb020pXnXjl9MxDdk-7KI/edit). Bewust niet op deze publieke pagina.
+
 Status op 1 juni 2026: <span class="status-ok">Airbnb geboekt</span>
 
 Geboekt: **Home in Arpaillargues-et-Aureillac**, bij Uzès en praktisch voor Pont du Gard. De dagindeling wordt nu: **Nîmes op 12 juli**, daarna naar de Airbnb; **Uzès + Pont du Gard op 13 juli**, daarna door naar Beaune.

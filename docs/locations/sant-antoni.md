@@ -6,6 +6,8 @@
 
 ## Status
 
+> 🔒 **Privé-boekingsgegevens** (volledige Eurocamping-bevestiging, prijzen, identiteits-, adres-, kenteken- en reizigersgegevens) staan in het privédocument in Google Drive — zie sectie *Sant Antoni / Calonge*: [Boekingen & privé-info](https://docs.google.com/document/d/1943jVIBcvzyHOALnLJw3XJVb020pXnXjl9MxDdk-7KI/edit). Bewust niet op deze publieke pagina.
+
 <span class="status-ok">geboekt</span>
 
 Eurocamping **Best Village** staat vast voor zondag 5 juli tot zondag 12 juli 2026, zeven nachten, voor 2 volwassenen en 3 kinderen/tieners. De gedeelde bevestiging noemt een verblijf voor maximaal 5 personen in de Best Village-zone met privézwembad.
