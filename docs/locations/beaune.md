@@ -6,6 +6,8 @@
 
 ## Status
 
+> 🔒 **Privé-boekingsgegevens** (boekingsnummer, bedrag, namen op kamers) staan in het privédocument in Google Drive — zie sectie *Beaune*: [Boekingen & privé-info](https://docs.google.com/document/d/1943jVIBcvzyHOALnLJw3XJVb020pXnXjl9MxDdk-7KI/edit). Bewust niet op deze publieke pagina.
+
 Status op 1 juni 2026: <span class="status-ok">geboekt</span>
 
 B&B HOTEL Beaune Nord is geboekt voor **13-14 juli 2026**. Publiek bewaren we geen boekingsnummer, bedrag, e-mail, namen op kamers of andere reizigersdetails.

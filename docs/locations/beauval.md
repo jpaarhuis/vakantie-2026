@@ -6,6 +6,8 @@
 
 ## Status
 
+> 🔒 **Privé-boekingsgegevens** (bevestiging, prijzen, persoonsgegevens) staan in het privédocument in Google Drive — zie sectie *Beauval*: [Boekingen & privé-info](https://docs.google.com/document/d/1943jVIBcvzyHOALnLJw3XJVb020pXnXjl9MxDdk-7KI/edit). Bewust niet op deze publieke pagina.
+
 <span class="status-ok">Hotel geboekt</span> / <span class="status-risk">ZooParc-tickets nog boeken</span>
 
 Geboekt: **Les Pagodes de Beauval**, quintuple room voor 5 personen, **overnight stay and breakfast included**, 2 nachten van donderdag 2 juli tot zaterdag 4 juli 2026. Dit is bewust de variant **zonder 2-day+ ZooParc hotel ticket** en zonder dinerarrangement.
