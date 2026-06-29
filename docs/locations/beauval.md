@@ -8,11 +8,11 @@
 
 > 🔒 **Privé-boekingsgegevens** (bevestiging, prijzen, persoonsgegevens) staan in het privédocument in Google Drive — zie sectie *Beauval*: [Boekingen & privé-info](https://docs.google.com/document/d/1943jVIBcvzyHOALnLJw3XJVb020pXnXjl9MxDdk-7KI/edit). Bewust niet op deze publieke pagina.
 
-<span class="status-ok">Hotel geboekt</span> / <span class="status-risk">ZooParc-tickets nog boeken</span>
+<span class="status-ok">Hotel geboekt</span> / <span class="status-ok">ZooParc-tickets geboekt</span>
 
 Geboekt: **Les Pagodes de Beauval**, quintuple room voor 5 personen, **overnight stay and breakfast included**, 2 nachten van donderdag 2 juli tot zaterdag 4 juli 2026. Dit is bewust de variant **zonder 2-day+ ZooParc hotel ticket** en zonder dinerarrangement.
 
-Open actie: boek nog **losse ZooParc-tickets voor vrijdag 3 juli 2026** voor 2 volwassenen en 3 kinderen. Sla de tickets daarna offline op in telefoon/wallet en zet ze bij de reisdocumenten.
+**Losse ZooParc-tickets voor vrijdag 3 juli 2026** (2 volwassenen + 3 kinderen) zijn geboekt en binnen in de mailbox. Nog wel even offline opslaan in telefoon/wallet en bij de reisdocumenten zetten.
 
 <figure class="place-hero">
 	<img src="https://cdn-images.zoobeauval.com/q1dtuHjsfrMu1zfElib-Gka_wcw=/1200x600/https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fimages.zoobeauval.com%2F2021%2F01%2Fhotels-zpdb9i8542-5ff7381d1c486.jpg" alt="Les Pagodes de Beauval met pagode-stijl en waterpartij" loading="eager" decoding="async">
@@ -77,7 +77,7 @@ Het grootste Loire-kasteel (16e eeuw, koninklijk paleis, dubbele wenteltrap toeg
 
 ## Praktische reminders
 
-- [ ] **ZooParc-tickets boeken voor vrijdag 3 juli 2026**: 2 volwassenen + 3 kinderen, losse tickets, geen 2-day+ hotelpass.
+- [x] **ZooParc-tickets geboekt voor vrijdag 3 juli 2026**: 2 volwassenen + 3 kinderen, losse tickets, geen 2-day+ hotelpass. Bevestiging staat in de mailbox.
 - [ ] Tickets downloaden of opslaan in wallet/offline map.
 - [ ] Check een paar weken vooraf of je diner bij Les Pagodes of elders in Saint-Aignan wilt reserveren.
 

@@ -52,7 +52,7 @@ Totaal ± 3.207 km / ± 35 uur rijden (volgens Google Maps, zonder activiteiten)
 
 | Locatie | Beste eerste keuze | Status |
 |---|---|---|
-| Beauval | Les Pagodes de Beauval + losse ZooParc-tickets | <span class="status-ok">hotel geboekt</span> Les Pagodes is geboekt voor 2 nachten; ZooParc-tickets voor vrijdag 3 juli moeten nog los geboekt worden. |
+| Beauval | Les Pagodes de Beauval + losse ZooParc-tickets | <span class="status-ok">geboekt</span> Les Pagodes is geboekt voor 2 nachten; losse ZooParc-tickets voor vrijdag 3 juli zijn binnen (in de mailbox), nog offline opslaan. |
 | Carcassonne | Loft centre-ville Parking, clim, wifi | <span class="status-ok">geboekt</span> Booking.com: huis met 3 slaapkamers voor 4-5 juli 2026; adres en parkeerinstructies nog offline bewaren. |
 | Sant Antoni | Eurocamping Best Village | <span class="status-ok">geboekt</span> Eurocamping Best Village is vastgelegd voor 5-12 juli 2026; check-in express en betaalstatus later nog praktisch controleren. |
 | Nîmes / Uzès / Pont du Gard | Airbnb in Arpaillargues-et-Aureillac | <span class="status-ok">geboekt</span> Home in Arpaillargues-et-Aureillac geboekt voor 12-13 juli; gratis annuleren tot 11 juli 17:00. Op 12 juli Nîmes bekijken, volgende ochtend Uzès/Pont du Gard en daarna door naar Beaune. |
@@ -80,7 +80,7 @@ Een gezin van vijf is in Frankrijk net onhandig: veel familiekamers stoppen bij 
 
 | Stop | Voorkeur | Waarom |
 |---|---|---|
-| Beauval | Les Pagodes de Beauval | Geboekt; alleen ZooParc-tickets nog apart regelen |
+| Beauval | Les Pagodes de Beauval | Geboekt; ZooParc-tickets ook binnen |
 | Carcassonne | Loft centre-ville Parking, clim, wifi | Geboekt; centrale tussenstop met airco en parking |
 | Sant Antoni | Eurocamping Best Village | Geboekt; hoofdweek aan de Costa Brava met privézwembadzone |
 | Nîmes / Uzès / Pont du Gard | Airbnb in Arpaillargues-et-Aureillac | Geboekt; 12 juli Nîmes, overnachten bij Uzès, 13 juli Uzès/Pont du Gard vóór Beaune |
@@ -88,7 +88,7 @@ Een gezin van vijf is in Frankrijk net onhandig: veel familiekamers stoppen bij 
 
 ## Nog praktisch regelen
 
-- ZooParc-tickets voor vrijdag 3 juli los boeken en offline opslaan.
+- ZooParc-tickets voor vrijdag 3 juli (binnen in de mailbox) nog offline opslaan in wallet/reisdocumenten.
 - Per verblijf de bevestiging, aankomstinstructies en eventuele toegangscodes offline bewaren.
 - Voor Sant Antoni de check-in express mail en borg/eindschoonmaak nog even controleren.
 - Voor Nîmes / Uzès de parkeerkeuze in Nîmes en volgorde Uzès / Pont du Gard bepalen op basis van hitte en energie.
