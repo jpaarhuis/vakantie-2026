@@ -143,6 +143,7 @@ Op de rit van Sant Antoni naar Nîmes (12 juli) kun je zuidwaarts afbuigen langs
 
 - [Kort: Eurocamping → Aigues-Mortes → Nîmes](https://www.google.com/maps/dir/?api=1&origin=Eurocamping%2C%20Avinguda%20Catalunya%2015%2C%2017252%20Calonge%20i%20Sant%20Antoni&destination=N%C3%AEmes%2C%20France&waypoints=Aigues-Mortes%2C%20France&travelmode=driving) — alleen de ommuurde stad + zoutpannen, beperkte omweg.
 - [Scenic: Eurocamping → Aigues-Mortes → Saintes-Maries → Pont de Gau → Nîmes](https://www.google.com/maps/dir/?api=1&origin=Eurocamping%2C%20Avinguda%20Catalunya%2015%2C%2017252%20Calonge%20i%20Sant%20Antoni&destination=N%C3%AEmes%2C%20France&waypoints=Aigues-Mortes%2C%20France%7CSaintes-Maries-de-la-Mer%2C%20France%7CParc%20Ornithologique%20du%20Pont%20de%20Gau&travelmode=driving) — de hele Camargue-lus, ± halve dag extra.
+- [Scenic (jouw volgorde): Eurocamping → Aigues-Mortes → Pont de Gau → Saintes-Maries → Cacharel-weg → Nîmes](https://www.google.com/maps/dir/?api=1&origin=Eurocamping%2C%20Avinguda%20Catalunya%2015%2C%2017252%20Calonge%20i%20Sant%20Antoni&destination=N%C3%AEmes%2C%20France&waypoints=Aigues-Mortes%2C%20France%7CParc%20Ornithologique%20du%20Pont%20de%20Gau%7CSaintes-Maries-de-la-Mer%2C%20France%7CRoute%20de%20Cacharel%20Saintes-Maries-de-la-Mer&travelmode=driving) — Pont de Gau, dan Saintes-Maries, dan de Cacharel-weg eruit.
 
 **Vaste stops onderweg (west → oost → noord), zoals lokale routegidsen ze aanhouden:**
 
