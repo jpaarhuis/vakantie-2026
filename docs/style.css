@@ -264,6 +264,28 @@ h1 {
   font-size: .82em;
 }
 
+.charger-link {
+  display: inline-flex;
+  align-items: center;
+  margin-left: .35rem;
+  vertical-align: middle;
+  color: #ffd66b;
+  opacity: .85;
+  transition: opacity .15s ease, transform .15s ease;
+}
+
+.charger-link:hover,
+.charger-link:focus-visible {
+  opacity: 1;
+  transform: scale(1.12);
+}
+
+.charger-link__icon {
+  width: 1.05em;
+  height: 1.05em;
+  fill: currentColor;
+}
+
 @media (max-width: 640px) {
   .hero__layout {
     grid-template-columns: 1fr;

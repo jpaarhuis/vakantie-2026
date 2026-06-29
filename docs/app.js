@@ -3,6 +3,7 @@ const themeButton = document.querySelector('#toggleTheme');
 
 const markdownFiles = new Set([
   'travel-plan.md',
+  'chargers.md',
   'locations/beauval.md',
   'locations/carcassonne.md',
   'locations/sant-antoni.md',
@@ -34,6 +35,13 @@ function slugify(text) {
     .replace(/[\u0300-\u036f]/g, '')
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/(^-|-$)/g, '');
+}
+
+function scrollToHash() {
+  const hash = window.location.hash.slice(1);
+  if (!hash) return;
+  const target = document.getElementById(decodeURIComponent(hash));
+  if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 function getMarkdownFile() {
@@ -105,6 +113,7 @@ async function loadMarkdown(markdownFile = getMarkdownFile()) {
     });
 
     wireInternalMarkdownLinks();
+    scrollToHash();
   } catch (error) {
     content.innerHTML = `
       <h2>Deze stop laadt even niet</h2>
