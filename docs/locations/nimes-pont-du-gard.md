@@ -139,11 +139,22 @@ Airbnb heeft geen nette officiële embed voor listings, maar de publieke listing
 
 Op de rit van Sant Antoni naar Nîmes (12 juli) kun je zuidwaarts afbuigen langs de Camargue. **Aigues-Mortes** is een volledig ommuurde middeleeuwse stad met de roze zoutpannen (Salins du Midi) en flamingo's er pal naast — Camargue-sfeer zonder de grote lus naar Saintes-Maries-de-la-Mer.
 
-- [Omleidingsroute: Eurocamping → Aigues-Mortes → Nîmes (Google Maps)](https://www.google.com/maps/dir/?api=1&origin=Eurocamping%2C%20Avinguda%20Catalunya%2015%2C%2017252%20Calonge%20i%20Sant%20Antoni&destination=N%C3%AEmes%2C%20France&waypoints=Aigues-Mortes%2C%20France&travelmode=driving)
-- [Aigues-Mortes op Google Maps](https://www.google.com/maps/search/?api=1&query=Aigues-Mortes%2C%20France)
-- [Salins du Midi / Salin d'Aigues-Mortes op Google Maps](https://www.google.com/maps/search/?api=1&query=Salin%20d%27Aigues-Mortes)
+**Twee routevarianten (klikbaar):**
 
-Dieper de Camargue in (kost flink meer tijd, maakt het een halve dag): voeg **Saintes-Maries-de-la-Mer** of het flamingopark **Parc Ornithologique du Pont de Gau** toe als extra waypoint.
+- [Kort: Eurocamping → Aigues-Mortes → Nîmes](https://www.google.com/maps/dir/?api=1&origin=Eurocamping%2C%20Avinguda%20Catalunya%2015%2C%2017252%20Calonge%20i%20Sant%20Antoni&destination=N%C3%AEmes%2C%20France&waypoints=Aigues-Mortes%2C%20France&travelmode=driving) — alleen de ommuurde stad + zoutpannen, beperkte omweg.
+- [Scenic: Eurocamping → Aigues-Mortes → Saintes-Maries → Pont de Gau → Nîmes](https://www.google.com/maps/dir/?api=1&origin=Eurocamping%2C%20Avinguda%20Catalunya%2015%2C%2017252%20Calonge%20i%20Sant%20Antoni&destination=N%C3%AEmes%2C%20France&waypoints=Aigues-Mortes%2C%20France%7CSaintes-Maries-de-la-Mer%2C%20France%7CParc%20Ornithologique%20du%20Pont%20de%20Gau&travelmode=driving) — de hele Camargue-lus, ± halve dag extra.
+
+**Vaste stops onderweg (west → oost → noord), zoals lokale routegidsen ze aanhouden:**
+
+| Stop | Wat | Maps |
+|---|---|---|
+| Aigues-Mortes | Ommuurde middeleeuwse stad, beklim de ramparts. | [kaart](https://www.google.com/maps/search/?api=1&query=Aigues-Mortes%2C%20France) |
+| Salins du Midi | Roze zoutpannen pal bij Aigues-Mortes, treintje, flamingo's. | [kaart](https://www.google.com/maps/search/?api=1&query=Salin%20d%27Aigues-Mortes) |
+| Saintes-Maries-de-la-Mer | Camargue-"hoofdstad", versterkte kerk met dakterras-uitzicht; bereikbaar via Sylvéréal-brug of gratis veer Bac du Sauvage. | [kaart](https://www.google.com/maps/search/?api=1&query=Saintes-Maries-de-la-Mer%2C%20France) |
+| Parc Ornithologique du Pont de Gau | 4 km noord van Saintes-Maries (D570); beste plek voor flamingo's van dichtbij, 4 km/7 km lussen. | [kaart](https://www.google.com/maps/search/?api=1&query=Parc%20Ornithologique%20du%20Pont%20de%20Gau) |
+| Cacharel-weg | Landschapsroute met stieren en witte paarden tussen Saintes-Maries en binnenland. | [kaart](https://www.google.com/maps/search/?api=1&query=Route%20de%20Cacharel%20Saintes-Maries-de-la-Mer) |
+
+Online routegidsen ([routes-touristiques.com](https://www.routes-touristiques.com/tourisme/visiter-nos-regions/provence-alpes-cote-d-azur/bouches-du-rhone/route-escapade-en-camargue-13.html), [provence-alpes-cotedazur.com](https://provence-alpes-cotedazur.com/en/provence/things-to-do/the-most-beautiful-roads-in-provence/road-trip-in-camargue/), [National Geographic](https://www.nationalgeographic.com/travel/article/road-trip-through-wild-camargue-delta-arles-provence)) houden allemaal deze kern aan; de volledige lus is bedoeld voor een hele dag, dus voor onze rijdag is het kort-of-scenic afwegen tegen de tijd.
 
 > Status: **optioneel / niet geboekt**. Alleen doen als de etappe vanaf de Costa Brava niet al te lang voelt; anders gewoon direct door naar Nîmes en de Airbnb bij Uzès.
 
