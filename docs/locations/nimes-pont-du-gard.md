@@ -135,6 +135,18 @@ Airbnb heeft geen nette officiële embed voor listings, maar de publieke listing
 | Uzès | Mooie, compacte stad vlak bij de overnachting. | Eerste stop op 13 juli als iedereen op tijd weg is. Houd het licht: wandelen, koffie, markt/centrum als timing klopt. |
 | Pont du Gard | De sterke Romeinse hoofdstop voor deze etappe. | Logische stop na Uzès of direct als het warm wordt. Daarna door naar Beaune. |
 
+## Optioneel onderweg: Camargue / Aigues-Mortes
+
+Op de rit van Sant Antoni naar Nîmes (12 juli) kun je zuidwaarts afbuigen langs de Camargue. **Aigues-Mortes** is een volledig ommuurde middeleeuwse stad met de roze zoutpannen (Salins du Midi) en flamingo's er pal naast — Camargue-sfeer zonder de grote lus naar Saintes-Maries-de-la-Mer.
+
+- [Omleidingsroute: Eurocamping → Aigues-Mortes → Nîmes (Google Maps)](https://www.google.com/maps/dir/?api=1&origin=Eurocamping%2C%20Avinguda%20Catalunya%2015%2C%2017252%20Calonge%20i%20Sant%20Antoni&destination=N%C3%AEmes%2C%20France&waypoints=Aigues-Mortes%2C%20France&travelmode=driving)
+- [Aigues-Mortes op Google Maps](https://www.google.com/maps/search/?api=1&query=Aigues-Mortes%2C%20France)
+- [Salins du Midi / Salin d'Aigues-Mortes op Google Maps](https://www.google.com/maps/search/?api=1&query=Salin%20d%27Aigues-Mortes)
+
+Dieper de Camargue in (kost flink meer tijd, maakt het een halve dag): voeg **Saintes-Maries-de-la-Mer** of het flamingopark **Parc Ornithologique du Pont de Gau** toe als extra waypoint.
+
+> Status: **optioneel / niet geboekt**. Alleen doen als de etappe vanaf de Costa Brava niet al te lang voelt; anders gewoon direct door naar Nîmes en de Airbnb bij Uzès.
+
 ## Mogelijk dagritme
 
 **12 juli:** vroeg vertrekken uit Sant Antoni. Eerst Nîmes bekijken voor de volledigheid: Arènes, Maison Carrée en eventueel Jardins de la Fontaine als het qua hitte en energie past. Daarna door naar Arpaillargues-et-Aureillac; check-in kan na 17:00 via lockbox. Plan bij aankomst vooral rustig eten, afkoelen en niet nog een extra programma.
