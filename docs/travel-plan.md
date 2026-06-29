@@ -19,6 +19,25 @@ De grote lijn staat vast: de meeste slaapstops zijn geboekt, Sant Antoni is de h
 
 > Belangrijk: juli is hoogseizoen in Frankrijk. Rond 14 juli is het extra druk door de Franse nationale feestdag. Gîtes kunnen in deze periode een minimumverblijf van drie of zeven nachten eisen.
 
+## Opgeslagen route (naslag)
+
+De volledige rondrit als één Google Maps-route met alle stops, handig als naslag- en informatie-anker:
+
+- [Hele route Ommen → Beauval → Carcassonne → Sant Antoni → Nîmes → Pont du Gard → Beaune → Ommen](https://www.google.com/maps/dir/?api=1&origin=Ommen,Netherlands&destination=Ommen,Netherlands&travelmode=driving&waypoints=ZooParc+de+Beauval%7CCarcassonne%7CEurocamping+Calonge%7CNimes%7CPont+du+Gard%7CB%26B+HOTEL+Beaune+Nord)
+
+Totaal ± 3.207 km / ± 35 uur rijden (volgens Google Maps, zonder activiteiten). De **werkelijke corridor** bepaalt welke tussenstops echt onderweg liggen:
+
+| Etappe | Corridor | Ligt onderweg |
+|---|---|---|
+| Ommen → Beauval | A1 west: Antwerpen, Lille, Parijs, Orléans, Blois | Blois, Chambord/Cheverny |
+| Beauval → Carcassonne | A20 west: Limoges, Cahors, Toulouse | Limoges, Cahors, (Rocamadour zijstap) |
+| Carcassonne → Sant Antoni | A9/AP-7: Perpignan, grens, Figueres | Figueres (Dalí), (Collioure zijstap) |
+| Sant Antoni → Nîmes | AP-7/A9: Figueres, Montpellier | Montpellier, (Aigues-Mortes/Camargue zijstap) |
+| Nîmes → Beaune | A7 Rhône noord: Avignon, Valence, Lyon | Avignon, Lyon |
+| Beaune → Ommen | A31/A6: Dijon, Metz, Luxemburg, Liège | Dijon |
+
+> Let op: route gaat **niet** via Reims (oost) of Millau (A75 oost). Houd tussenstopsuggesties op deze corridor.
+
 ## Locatiebestanden
 
 <ul class="location-grid">

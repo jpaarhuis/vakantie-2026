@@ -67,6 +67,13 @@ Bewaar de reserveringsbevestiging apart in mail/offline documenten.
 - [ZooParc de Beauval op Google Maps](https://www.google.com/maps/search/?api=1&query=ZooParc%20de%20Beauval%20Saint-Aignan)
 - [Saint-Aignan centrum op Google Maps](https://www.google.com/maps/search/?api=1&query=Saint-Aignan%2041110%20centre)
 - [Chateau de Saint-Aignan op Google Maps](https://www.google.com/maps/search/?api=1&query=Chateau%20de%20Saint-Aignan%2041110)
+- [Château de Chambord op Google Maps](https://www.google.com/maps/search/?api=1&query=Ch%C3%A2teau%20de%20Chambord%2041250%20Chambord) — **optioneel**
+
+## Optioneel onderweg: Château de Chambord
+
+Het grootste Loire-kasteel (16e eeuw, koninklijk paleis, dubbele wenteltrap toegeschreven aan Da Vinci, gracht). Ligt ± 17 minuten van de A10-corridor bij Blois, dus logisch mee te pakken bij vertrek op 4 juli of als losse uitstap op een rustige ochtend. Live gecheckt op Google Maps: 4,6 ster (± 63.000 reviews), officieel ticket ± €21 (instant/mobile). Street View zet je op het dakterras tussen de schoorstenen; de klassieke gevel-foto is de hoofdfoto op de Maps-pagina.
+
+> Status: **optioneel / niet geboekt**. Eén kasteel is genoeg; alleen doen als de timing en energie het toelaten, ZooParc op 3 juli blijft de hoofdactiviteit.
 
 ## Praktische reminders
 

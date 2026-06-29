@@ -246,6 +246,24 @@ h1 {
   white-space: nowrap;
 }
 
+.route-card__link {
+  color: #fff;
+  text-decoration: underline;
+  text-decoration-color: rgba(255,255,255,.5);
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
+}
+
+.route-card__link:hover,
+.route-card__link:focus-visible {
+  text-decoration-color: #fff;
+}
+
+.route-card__optional {
+  color: rgba(255,255,255,.72);
+  font-size: .82em;
+}
+
 @media (max-width: 640px) {
   .hero__layout {
     grid-template-columns: 1fr;
