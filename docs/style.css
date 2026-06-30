@@ -218,19 +218,20 @@ h1 {
 .route-card th:first-child,
 .route-card td:first-child {
   text-align: right;
-  width: 38%;
+  width: 36%;
 }
 
 .route-card th:nth-child(2),
 .route-card td:nth-child(2) {
   text-align: center;
-  width: 24%;
+  width: 28%;
+  white-space: nowrap;
 }
 
 .route-card th:last-child,
 .route-card td:last-child {
   text-align: left;
-  width: 38%;
+  width: 36%;
 }
 
 .route-card strong {
