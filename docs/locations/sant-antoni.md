@@ -8,11 +8,13 @@
 
 > 🔒 **Privé-boekingsgegevens** (volledige Eurocamping-bevestiging, prijzen, identiteits-, adres-, kenteken- en reizigersgegevens) staan in het privédocument in Google Drive — zie sectie *Sant Antoni / Calonge*: [Boekingen & privé-info](https://docs.google.com/document/d/1943jVIBcvzyHOALnLJw3XJVb020pXnXjl9MxDdk-7KI/edit). Bewust niet op deze publieke pagina.
 
-<span class="status-ok">geboekt</span>
+<span class="status-ok">geboekt · ingecheckt & betaald</span>
 
 Eurocamping **Best Village** staat vast voor zondag 5 juli tot zondag 12 juli 2026, zeven nachten, voor 2 volwassenen en 3 kinderen/tieners. De gedeelde bevestiging noemt een verblijf voor maximaal 5 personen in de Best Village-zone met privézwembad.
 
-Privégegevens uit de boekingsmail, zoals identiteitsgegevens, thuisadres, kenteken en contactgegevens van reizigers, bewaren we offline bij de reisdocumenten.
+De check-in express is afgerond en het volledige verblijf is betaald (aanbetaling van 40% al eerder voldaan, restbedrag via de express-check-in). Een vaste plek/unit is vastgelegd via de **MyPlace**-service, dus we zitten niet op een toegewezen plek maar op de gekozen. Op de factuur staat de €100 borg die terugbetaalbaar is.
+
+Privégegevens uit de boekingsmail, zoals identiteitsgegevens, thuisadres, kenteken, contactgegevens en bedragen, bewaren we offline bij de reisdocumenten.
 
 <figure class="place-hero">
 	<img src="https://www.euro-camping.com/wp-content/uploads/28032019-5-2200x1467.jpg" alt="Zwembad en terras bij Best Village op Eurocamping" loading="eager" decoding="async" referrerpolicy="no-referrer">
@@ -58,9 +60,11 @@ Sant Antoni is de ankerweek van de reis: strand, zwembad, kustdorpen, rust en la
 | Comfort | Airco, tv/satelliet, gratis wifi, bedlinnen en handdoeken inbegrepen |
 | Buiten | Woonzone met privézwembad, barbecue, tuinmeubilair en 2 ligbedden |
 | Parkeren | 1 parkeerplaats bij de accommodatie |
-| Check-in / check-out | Volgens Eurocamping-accommodatievoorwaarden: aankomst vanaf 17:00, vertrek vóór 11:00 |
+| Plek | Vaste plek/unit vastgelegd via MyPlace |
+| Check-in / check-out | Aankomst vanaf 17:00, vertrek vóór 11:00 (accommodatievoorwaarden) |
+| Betaling | Volledig betaald via check-in express; €100 borg (terugbetaalbaar) op de factuur |
 
-Bewaar de volledige bevestiging en latere check-in-instructies offline.
+Bevestiging en bedragen staan offline bij de reisdocumenten; PII niet op deze publieke pagina.
 
 ## Kaart en bezienswaardigheden
 
@@ -126,11 +130,11 @@ Snorkeltips voor ons:
 
 ## Praktische reminders
 
-- [ ] Controleer of de door Eurocamping genoemde boeking inmiddels ook als definitief bevestigd en/of aanbetaald staat in hun systeem.
-- [ ] Let op de check-in express mail die ongeveer 5 dagen voor aankomst zou moeten komen.
-- [ ] Sla bevestiging, check-in instructies en eventuele unit-/voorkeursinformatie offline op.
-- [ ] Houd rekening met de €100 borg en check hoe/wanneer die wordt teruggestort.
-- [ ] Check voor vertrek of eindschoonmaak door jullie zelf moet gebeuren of dat er nog een procedure bij vertrek is.
+- [x] Boeking definitief bevestigd en betaald; check-in express afgerond.
+- [x] Vaste plek/unit vastgelegd via MyPlace.
+- [x] Bevestiging (PDF) offline opgeslagen bij de reisdocumenten.
+- [ ] €100 borg is op de factuur betaald — check bij vertrek hoe/wanneer die wordt teruggestort.
+- [ ] Check voor vertrek of eindschoonmaak door jullie zelf moet gebeuren of dat er nog een procedure bij vertrek is (voorwaarden: klant verantwoordelijk voor eindschoonmaak).
 
 ## Let op
 
